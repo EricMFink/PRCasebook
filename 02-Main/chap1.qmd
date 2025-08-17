@@ -1,13 +1,12 @@
----
-layout: casebook
-title: Law as a Regulated Profession
----
-
 # Law as a Regulated Profession 
 
 ## Regulatory Authorities
 
-## Professional Self-Regulation 
+### Fred Zacharias, _The Myth of Self-Regulation_, 93 Minn. L. Rev. 1147 (2009) 
+
+Law in the United States is a heavily regulated industry. Lawyers are licensed in each state. They are governed by profesional rules, usually adopted and enforced by state supreme courts. The courts regulate lawyers separately as well, through supervisory decisions in the course of litigation and by implementing common law civil liability rules that govern legal practice. These include malpractice, breach of fiduciary duty, and other causes of action. Administrative agencies---particularly federal agencies---also establish and implement rules governing lawyers who practice before them. Federal and state legislatures play a further ruole in regulating the bar, providing statutory regulations and criminal penalties that apply to lawyers. 
+
+Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the recently revised ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation desipite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
 
 ### Model Rules of Professional Conduct, Preamble & Scope
 
@@ -88,6 +87,22 @@ title: Law as a Regulated Profession
 (m\) "Tribunal" denotes a court, an arbitrator in a binding arbitration proceeding or a legislative body, administrative agency or other body acting in an adjudicative capacity. A legislative body, administrative agency or other body acts in an adjudicative capacity when a neutral official, after the presentation of evidence or legal argument by a party or parties, will render a binding legal judgment directly affecting a party's interests in a particular matter.
 
 (n\) "Writing" or "written" denotes a tangible or electronic record of a communication or representation, including handwriting, typewriting, printing, photostating, photography, audio or videorecording, and electronic communications. A "signed" writing includes an electronic sound, symbol or process attached to or logically associated with a writing and executed or adopted by a person with the intent to sign the writing.
+
+### Note: Judicial, Legislative, & Administrative Regulation 
+
+Courts and other tribunals regulate the conduct of attorneys who appear before them. Court rules and judicial statutes may impose standards of conduct and authorize the imposition of sanctions on attorneys who breach those standards. See, e.g. [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp/rule_11) (sanctions for asserting frivilous or bad faith claims, defenses, or arguments in pleadings and motions); [FRCP Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37) (sanctions for failing to make required disclosures or cooperate in discovery); 28 U.S. Code § 1927 (sactions against "attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously").
+
+In addition to the express authority conferred by statutes or practice rules, courts possess "inherent authority" to regulate the conduct of attorneys who appear before them. See, e.g., N.C. Gen. Stat. § 84-36 ("Nothing contained in this Article shall be construed as disabling or abridging the inherent powers of the court to deal with its attorneys.")
+
+Attorney conduct is also subject to legislative and administrative regulation. Some statutes and agency rules apply specifically to lawyers, while others apply to certain conduct by lawyers and non-lawyers alike. 
+
+For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed the Securities and Exchange Commission to "issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers." The Act specifically calls for rules: 
+
+- (1\) requiring an attorney to report evidence of a material violation of securities law or breach of fiduciary duty or similar violation by the company or any agent thereof, to the chief legal counsel or the chief executive officer of the company (or the equivalent thereof); and
+
+- (2\) if the counsel or officer does not appropriately respond to the evidence (adopting, as necessary, appropriate remedial measures or sanctions with respect to the violation), requiring the attorney to report the evidence to the audit committee of the board of directors of the issuer or to another committee of the board of directors comprised solely of directors not employed directly or indirectly by the issuer, or to the board of directors.
+
+15 U.S.C. § 7245. The SEC rules set out standards and procedures for mandatory reporting by attorneys ([17 C.F.R. §§ 205.3-205.5](https://www.law.cornell.edu/cfr/text/17/part-205)). Attorneys who violate those are subject to "the civil penalties and remedies for a violation of the federal securities laws available to the Commission in an action brought by the Commission thereunder," § 205.6(a), as well as disciplinary proceedings by the Commission," which "may result in an attorney being censured, or being temporarily or permanently denied the privilege of appearing or practicing before the Commission," § 205.6(b). They "may also be subject to discipline for the same conduct in a jurisdiction where the attorney is admitted or practices." § 205.6(b).
 
 ## Misconduct & Discipline
 
@@ -373,22 +388,6 @@ Accordingly, Jack Allen Blakeslee is suspended from the practice of law in Ohio 
 
 - (2\) for any other conduct, the rules of the jurisdiction in which the lawyer’s conduct occurred, or, if the predominant effect of the conduct is in a different jurisdiction, the rules of that jurisdiction shall be applied to the conduct. A lawyer shall not be subject to discipline if the lawyer’s conduct conforms to the rules of a jurisdiction in which the lawyer reasonably believes the predominant effect of the lawyer’s conduct will occur.
 
-## Judicial, Legislative, & Administrative Regulation 
-
-Courts and other tribunals regulate the conduct of attorneys who appear before them. Court rules and judicial statutes may impose standards of conduct and authorize the imposition of sanctions on attorneys who breach those standards. See, e.g. [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp/rule_11) (sanctions for asserting frivilous or bad faith claims, defenses, or arguments in pleadings and motions); [FRCP Rule 37](https://www.law.cornell.edu/rules/frcp/rule_37) (sanctions for failing to make required disclosures or cooperate in discovery); 28 U.S. Code § 1927 (sactions against "attorney or other person admitted to conduct cases in any court of the United States or any Territory thereof who so multiplies the proceedings in any case unreasonably and vexatiously").
-
-In addition to the express authority conferred by statutes or practice rules, courts possess "inherent authority" to regulate the conduct of attorneys who appear before them. See, e.g., N.C. Gen. Stat. § 84-36 ("Nothing contained in this Article shall be construed as disabling or abridging the inherent powers of the court to deal with its attorneys.")
-
-Attorney conduct is also subject to legislative and administrative regulation. Some statutes and agency rules apply specifically to lawyers, while others apply to certain conduct by lawyers and non-lawyers alike. 
-
-For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed the Securities and Exchange Commission to "issue rules, in the public interest and for the protection of investors, setting forth minimum standards of professional conduct for attorneys appearing and practicing before the Commission in any way in the representation of issuers." The Act specifically calls for rules: 
-
-- (1\) requiring an attorney to report evidence of a material violation of securities law or breach of fiduciary duty or similar violation by the company or any agent thereof, to the chief legal counsel or the chief executive officer of the company (or the equivalent thereof); and
-
-- (2\) if the counsel or officer does not appropriately respond to the evidence (adopting, as necessary, appropriate remedial measures or sanctions with respect to the violation), requiring the attorney to report the evidence to the audit committee of the board of directors of the issuer or to another committee of the board of directors comprised solely of directors not employed directly or indirectly by the issuer, or to the board of directors.
-
-15 U.S.C. § 7245. The SEC rules[[17 CFR Part 205](https://www.law.cornell.edu/cfr/text/17/part-205)]{.aside} set out standards and procedures for mandatory reporting by attorneys (§§ 205.3-205.5). Attorneys who violate those are subject to "the civil penalties and remedies for a violation of the federal securities laws available to the Commission in an action brought by the Commission thereunder," § 205.6(a), as well as disciplinary proceedings by the Commission," which "may result in an attorney being censured, or being temporarily or permanently denied the privilege of appearing or practicing before the Commission," § 205.6(b). They "may also be subject to discipline for the same conduct in a jurisdiction where the attorney is admitted or practices." § 205.6(b)
-
 ## Bar Admission
 
 The requirements for bar admission vary by state, but typically include graduation from a law school approved by the ABA or the state bar[^BarAdmission1], passage of a bar examination,[^BarAdmission2] & the Multistate Professional Responsibility Eexam.[^BarAdmission3]
@@ -401,15 +400,15 @@ The requirements for bar admission vary by state, but typically include graduati
 
 In addition to the educational and examination requirements, applicants must also satisfy a character and fitness standard. See, e.g., [Rules Governing Admission to the Practice of Law in the State of North Carolina](https://www.ncble.org/rules-governing-admission-to-the-practice-of-law-nc), Section .0600---Moral Character and General Fitness:
 
-> § .0601 Burden of Proof
+> _§ .0601 Burden of Proof_
 > 
 > Every applicant shall have the burden of proving that the applicant possesses the qualifications of character and general fitness requisite for an attorney and counselor-at-law and is possessed of good moral character and is entitled to the high regard and confidence of the public.
 >
-> .0602 Permanent Record
+> _.0602 Permanent Record_
 > 
 > All information furnished to the Board by an applicant shall be deemed material, and all such information shall be and become a permanent record of the Board.
 > 
-> .0603 Failure to Disclose
+> _.0603 Failure to Disclose_
 > 
 > No one shall be licensed to practice law in this state:
 > 
@@ -417,11 +416,11 @@ In addition to the educational and examination requirements, applicants must als
 > 
 - (2\) who fails to disclose fully to the Board, whether requested to do so or not, any and all facts relating to any civil or criminal proceedings, charges or investigations involving the applicant (unless expunged under applicable state law), whether the same have been terminated or not in this or any other state or in any of the federal courts or other jurisdictions. 
 > 
-> .0604 BAR CANDIDATE COMMITTEE
+> _.0604 BAR CANDIDATE COMMITTEE_
 > 
 > Every General Applicant and UBE Transfer Applicant not licensed in another jurisdiction shall appear before a bar candidate committee, appointed by the Board Chair, in the judicial district in which the applicant resides, or in such other judicial districts as the Board in its sole discretion may designate to the applicant, to be examined about any matter pertaining to the applicant's moral character and general fitness to practice law. An applicant who has appeared before a hearing Panel may, in the Board's discretion, be excused from making a subsequent appearance before a bar candidate committee. The Board Chair may delegate to the Executive Director the authority to exercise such discretion. The applicant shall give such information as may be required on such forms provided by the Board. A bar candidate committee may require the applicant to make more than one appearance before the committee and to furnish to the committee such information and documents as it may reasonably require pertaining to the moral character and general fitness of the applicant to be licensed to practice law in North Carolina. Each applicant will be advised when to appear before the bar candidate committee. There can be no changes once the initial assignment is made.
 >
-> .0605 Denial; Re-Application
+> _.0605 Denial; Re-Application_
 > 
 > No new application or petition for reconsideration of a previous application from an applicant who has either been denied permission to take the bar examination or has been denied a license to practice law on the grounds set forth in Section .0600 shall be considered by the Board within a period of three years next after the date of such denial unless, for good cause shown, permission for re-application or petition for a reconsideration is granted by the Board. 
 
@@ -465,7 +464,7 @@ The NC Board of Law Examiners has also issued [Character & Fitness Guidelines](h
 > 
 > 15. Any other conduct which reflects adversely upon the character or fitness of the applicant.
 >
-> **A. Unlawful conduct:**
+> _A. Unlawful conduct:_
 > 
 > North Carolina allows an applicant to omit reference to any arrest, charge or conviction that has been expunged by a duly entered order of expunction pursuant to Article 5 of Chapter 15A of the General Statutes of North Carolina. For any offenses that have not been expunged as outlined above, the Board may inquire into arrests even if no conviction resulted. There are many reasons why arrests do not result in convictions, and many of them have no bearing on guilt or innocence.
 > 
@@ -473,11 +472,11 @@ The NC Board of Law Examiners has also issued [Character & Fitness Guidelines](h
 > 
 > If, at the time of the application, criminal charges are pending against the applicant, the Board will table the application until these charges are resolved. If a conviction results in probation, restitution or some other sentence, the Board will not consider the application until the sentence has been served and probation completed. The Board will then proceed to investigate the facts and circumstances that led to the criminal charges.  
 > 
-> **B. Making a false statement:**
+> _B. Making a false statement:_
 > 
 > Dishonesty in dealings with employers, schools (including applications for admission) and authorities, including the Board of Law Examiners, is grounds for denial of bar applications. Giving false information on the application or failing to be entirely forthcoming and completely candid in the application process is a serious error which will have negative consequences for an applicant. With respect to non-disclosure on the law school application the Board will require at a minimum evidence that the applicant has made full disclosure of the erroneous or omitted information to the law school administration together with the action if any taken by the law school.
 > 
-> **C. Neglect of financial responsibilities:**
+> _C. Neglect of financial responsibilities:_
 > 
 > The Board recognizes that mishandling of client funds is a frequent and serious cause for professional discipline. While admission to the bar does not require a perfect credit record, the Board is interested in whether applicants have dealt honestly and responsibly with their creditors, and whether they are doing so at the time of application.
 > 
@@ -485,17 +484,17 @@ The NC Board of Law Examiners has also issued [Character & Fitness Guidelines](h
 > 
 > If an applicant has defaulted student loans, the Board may in its discretion hold the application in abeyance until the applicant has made arrangements with the lender(s) for repayment of the loan(s) and has made several months of consecutive and uninterrupted monthly payments pursuant to the plan agreed to by the lender(s). Any arrearage in child support must be paid before an applicant will be certified by the Board.
 > 
-> **D. Evidence of current mental impairment:**
+> _D. Evidence of current mental impairment:_
 > 
 > Evidence of current mental impairment, including evidence of impairment due to psychiatric conditions, is one of the factors about which the Board must inquire in determining the applicant’s fitness to practice law. Board members recognize that the stresses of law school, as well as other life factors, frequently result in applicants seeking psychiatric or psychological counseling. The Board encourages any applicant to obtain such counseling or treatment if needed. The applicant should not allow the bar application process to deter them from obtaining treatment or counseling. Applicants should be aware that the Board looks favorably on applicants’ self-recognition of their need for treatment and appropriate utilization of professional services.
 > 
-> **E. Drug or alcohol dependency:**
+> _E. Drug or alcohol dependency:_
 > 
 > Evidence of impairment due to drug or alcohol dependence or abuse is a factor that must be considered by the Board in determining the applicant’s fitness to practice law. The applicant should be prepared to provide treatment records as well as other records of incidents which were associated with any impairment. The Board may require applicants to obtain a drug or alcohol evaluation from a licensed professional recommended by the Board.
 > 
 > An applicant who has a problem with drugs or alcohol is strongly encouraged to get the counseling or treatment needed as soon as possible. If the applicant has been impaired due to chemical dependency or abuse, the applicant’s recognition of the problem and the treatment record will be important positive evidence of rehabilitation, regardless of the seriousness of any misconduct which may have arisen from the chemical dependency.
 > 
-> **F. Evidence of Rehabilitation:**
+> _F. Evidence of Rehabilitation:_
 > 
 > The Board shall determine whether the character and fitness of an applicant qualify the applicant to take the North Carolina Bar Examination or to be admitted by comity. In making this determination, the following factors should be considered in assigning weight and significance to prior conduct: 
 > 
@@ -845,7 +844,7 @@ So much of the section of the Penal Law under which the conviction was obtained 
 
 The defendant, at the time stated in the information, was a notary public, living at 475 Park avenue, Brooklyn, in the basement of which he had a small office for the transaction of business. Over the entrance of the office was the following sign:
 
-![Alfani sign](../exhibits/img/Alfani.png)
+![Alfani sign](../img/Alfani.png)
 
 On the 27th of December, 1917, one Gallo, special investigator of the state industrial commission, in company with one Geannelis, entered defendant's office and he asked them what they wanted. Gallo stated that he was selling his store, which consisted of a soda water stand, together with a stock of cigars, cigarettes, etc., to Geannelis, for a certain consideration, which was named, part of which was to be paid down and the balance in installments. Gallo also stated there was a certain amount due to the American Siphon Company on the purchase price of the soda water fountain, which Geannelis was to assume and pay. The defendant advised that Gallo give a bill of sale to Geannelis and that he give a chattel mortgage for the amount remaining unpaid. He also explained it would be necessary to file the mortgage in the county clerk's office, so that the same could be foreclosed by the city marshal in case of non-payment. His suggestions as to the bill of sale and mortgage were followed and he thereupon prepared the same, for which he was paid four dollars.
 

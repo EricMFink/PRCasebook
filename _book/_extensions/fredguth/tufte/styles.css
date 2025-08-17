@@ -31,7 +31,7 @@ h1 {
 h2 {
 	font-family: "Adelle-Sans",sans-serif;
 	color: #8c2e24;
-    font-size: 1.7rem;
+    font-size: 2.0rem;
 	font-style: normal;
 	font-weight: 400;
     line-height: 1.2;
@@ -55,7 +55,7 @@ h3 {
 /* Case, etc. heading 1 */
 h4 {
     font-family: "Literata",serif;
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-style: normal;
 	font-weight: 500;
     line-height: 1.4;
@@ -69,7 +69,7 @@ h4 {
 /* Case, etc. heading 2 */
 h5 {
     font-family: "Literata",serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     font-style: italic;
 	font-weight: 300;
     line-height: 1.2;
@@ -520,45 +520,14 @@ header .chapter-title {
     line-height: 1.5rem;
     font-size: 1rem;
 }
-
-.sidebar-title {
-    font-family: "Adelle-Sans",sans-serif;
-	color: #8c2e24; 
-    font-size: .7rem;
-    font-style: normal;
-    line-height: 1.12rem;
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    margin-top: .25rem;
-    padding-bottom: .5rem;
-    visibility: visible;
-}
-.sidebar-title > a {
-	color: #8c2e24; 
-	font-size: inherit;
-	text-decoration: none;
-	margin-top: .5rem;
-}
-
-.sidebar-title a:visited {
-	color: #8c2e24;
-}
-
 .sidebar-title .sidebar-tools-main {
 	margin-top: .5rem;
 
 }
 .sidebar-tools-main {
 	display: flex;
-	margin: .5rem 0 0 0;
+	margin: 2rem 0 0 0;
 	order: 2;
-}
-.sidebar-navigation .quarto-navigation-tool {
-	opacity: .7;
-	font-size: .875rem;
-}
-.sidebar-navigation a {
-	color: #8c2e24;
 }
 .navbar-brand > a{
     color: #8c2e24;
@@ -574,6 +543,28 @@ header .chapter-title {
     border-left: 1px solid #8c2e24;
     color: #8c2e24 !important;
 }
+.sidebar-title {
+    font-family: "Adelle-Sans",sans-serif;
+	color: #8c2e24; 
+    font-size: .7rem;
+    font-style: normal;
+    line-height: 1.12rem;
+    text-transform: uppercase;
+    letter-spacing: .11em;
+    margin-top: .25rem;
+    padding-bottom: .5rem;
+    visibility: visible;
+}
+.sidebar-title > a {
+	color: #8c2e24; 
+	font-size: inherit;
+	text-decoration: none;
+}
+
+.sidebar-title a:visited {
+	color: #8c2e24;
+}
+
 .quarto-secondary-nav-title, .title {
     font-family: "Adelle-Sans",sans-serif;
 	color: #8c2e24; 

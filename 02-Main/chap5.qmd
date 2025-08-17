@@ -1,8 +1,3 @@
----
-layout: casebook
-title: Confidentiality & Privileges
----
-
 # Confidentiality & Privileges 
 
 ## Duty of Confidentiality
@@ -547,7 +542,7 @@ On April 20, 1992, X Corp. moved this Court for a preliminary injunction (i) to 
 
 Without doubt, this litigation presents "grave or serious questions," questions involving difficult and troubling ethical issues arising in the context of attorney-client confidentiality. Few questions are graver or more serious in the practice of law than determining what evidence of crime or fraud justifies a lawyer's disclosure of his client's confidential information. Moreover, allegations of attorney misconduct, or even potential misconduct, engender significant and serious questions of professional conduct critical to the client, to the accused attorney, and to the bar as a whole. Such allegations, regardless of their veracity, erode the already fragile public confidence in the legal profession and in the administration of justice. And it is undeniable that our legal system cannot function effectively unless the public has confidence in the integrity and competence of the system and its participants. Thus, it is paramount that lawyers understand and abide by settled and accepted norms of professional conduct. But even settled and accepted norms frequently provide inadequate or ambiguous guidance in the face of specific factual circumstances. So it is here.
 
-This litigation focuses on two professional standards of attorney confidentiality--- (i) the evidentiary attorney-client privilege and (ii) the broader ethical duty of confidentiality---and their application to the specific facts presented. Understanding the distinction between these two standards is essential to the matter at bar. For that reason, it is worth describing them here in some detail.
+This litigation focuses on two professional standards of attorney confidentiality---(i) the evidentiary attorney-client privilege and (ii) the broader ethical duty of confidentiality---and their application to the specific facts presented. Understanding the distinction between these two standards is essential to the matter at bar. For that reason, it is worth describing them here in some detail.
 
 The first of these standards, the evidentiary attorney-client privilege, is quite familiar, and the principles associated with it are well-settled. This evidentiary privilege applies to disclosures of certain types of confidences communicated between client and attorney during the course of the attorney's representation of the client. To prevent such disclosures, the client, through counsel or otherwise, may invoke the privilege. The purpose of the attorney-client privilege
 
@@ -571,7 +566,7 @@ As the Fifth Circuit sensibly recognized in Brennan's and Doe, attorney confiden
 
 Consistent with most jurisdictions, Virginia recognizes a broad duty of confidentiality in Canon 4 of the Virginia Code of Professional Responsibility, which states: "A Lawyer Should Preserve the Confidences and Secrets of a Client." The corresponding Disciplinary Rules provide in relevant part:
 
-> DR4-101. Preservation of Confidences and Secrets of a Client.--- (A) "Confidence" refers to information protected by the attorney-client privilege under applicable law, and "secret" refers to other information gained in the professional relationship that the client has requested be held inviolate or the disclosure of which would be embarrassing or would be likely to be detrimental to the client.
+> DR4-101. Preservation of Confidences and Secrets of a Client.---(A) "Confidence" refers to information protected by the attorney-client privilege under applicable law, and "secret" refers to other information gained in the professional relationship that the client has requested be held inviolate or the disclosure of which would be embarrassing or would be likely to be detrimental to the client.
 >
 > (B\) Except as provided by DR 4-101(C) and (D), a lawyer shall not knowingly:
 >
@@ -1484,7 +1479,7 @@ Additionally, it should be noted that this ruling may be interpreted by some as 
 ## Confidentiality & Evidentiary Privileges Comparison 
 
 |                        | Duty of Confidentiality                          | Attorney-Client Communication                                     | Attorney Work Product                                                   |
-| ---------------------: |--------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------|
+| --------------------- |--------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------|
 | *Information Protected*      | Any information relating to the representation   | Private communication between attorney & client (or their agents) | Attorney's mental impressions                                           |
 | *Source of Information*  | Any source                                       | Communication between attorney & client                           | Attorney                                                                |
 | *Form of Information*    | Any form                                         | Communication (verbal or non-verbal)                              | Tangible (e.g. documents) or intangible (e.g. attorney's recollections) |

@@ -1,8 +1,3 @@
----
-layout: casebook
-title: The Attorney-Client Relationship
----
-
 # The Attorney-Client Relationship
 
 ## Establishing an Attorney-Client Relationship
@@ -303,9 +298,9 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 > (i\) other good cause for withdrawal exists.
 
-(4\) In the case of permissive withdrawal under Subsections (3)(f)- (i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
+(4\) In the case of permissive withdrawal under Subsections (3)(f)-(i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
 
-(5\) Notwithstanding Subsections (1)- (4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
+(5\) Notwithstanding Subsections (1)-(4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
 
 ### Rest. (2d) of the Law Governing Lawyers § 33
 
@@ -919,7 +914,7 @@ The board dismissed bar counsel's petition for discipline against Fordham becaus
 
 In concluding that Fordham did not charge a clearly excessive fee, the board adopted, with limited exception, the hearing committee's report. The board's and the hearing committee's reasons for dismissing the petition are as follows: Bar counsel and Fordham stipulated that Fordham acted conscientiously, diligently, and in good faith in his representation of the client and his billing on the case. Although Fordham lacked experience in criminal law, he is a "seasoned and well-respected civil lawyer." The more than 200 hours spent preparing the OUI case were necessary, "in part to educate Fordham in the relevant substantive law and court procedures," because he had never tried an OUI case or appeared in the District Court. The board noted that "although none of the experts who testified at the disciplinary hearing had ever heard of a fee in excess of $15,000 for a first-offense OUI case, the hearing committee found that Clark had entered into the transaction with open eyes after interviewing other lawyers with more experience in such matters." The board also thought significant that Clark "later acquiesced, despite mild expressions of concern, in Fordham's billing practices." Moreover, the Clarks specifically instructed Fordham that they would not consider a guilty plea by Timothy. Rather they were interested only in pursuing the case to trial. Finally, Timothy obtained the result he sought: an acquittal.
 
-Bar counsel contends that the board's decision to dismiss the petition for discipline is erroneous on three grounds: First, "the hearing committee and the Board committed error by analyzing only three of the factors set out in DR 2-106 (B) (1)- (8), and their findings with regard to these criteria do not support their conclusion that the fee in this case was not clearly excessive"; second, the board "misinterpreted DR 2-106's prohibition against charging a clearly excessive fee by reading into the rule a ‘safe harbor' provision"; and third, "by allowing client acquiescence as a complete defense."
+Bar counsel contends that the board's decision to dismiss the petition for discipline is erroneous on three grounds: First, "the hearing committee and the Board committed error by analyzing only three of the factors set out in DR 2-106 (B) (1)-(8), and their findings with regard to these criteria do not support their conclusion that the fee in this case was not clearly excessive"; second, the board "misinterpreted DR 2-106's prohibition against charging a clearly excessive fee by reading into the rule a ‘safe harbor' provision"; and third, "by allowing client acquiescence as a complete defense."
 
 In reviewing the hearing committee's and the board's analysis of the various factors, as appearing in DR 2-106 (B), which are to be considered for a determination as to whether a fee is clearly excessive, we are mindful that, although not binding on this court, the findings and recommendations of the board are entitled to great weight. We are empowered, however, to review the board's findings and reach our own conclusion. In the instant case we are persuaded that the hearing committee's and the board's determinations that a clearly excessive fee was not charged are not warranted.
 

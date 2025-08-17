@@ -1,8 +1,3 @@
----
-layout: casebook
-title: Duties in Litigation
----
-
 # Duties in Litigation 
 
 ## Truthfulness
@@ -103,7 +98,7 @@ Paradoxically, even while accepting the conclusion of the Iowa trial court that 
 
 > That privilege cannot be construed to include the right to commit perjury. Having voluntarily taken the stand, petitioner was under an obligation to speak truthfully.
 
-In _Harris_ we held the defendant could be impeached by prior contrary statements which had been ruled inadmissible under _Miranda v. Arizona_. _Harris_ and other cases make it crystal clear that there is no right whatever -- constitutional or otherwise -- for a defendant to use false evidence.
+In _Harris_ we held the defendant could be impeached by prior contrary statements which had been ruled inadmissible under _Miranda v. Arizona_. _Harris_ and other cases make it crystal clear that there is no right whatever---constitutional or otherwise---for a defendant to use false evidence.
 
 The paucity of authority on the subject of any such "right" may be explained by the fact that such a notion has never been responsibly advanced; the right to counsel includes no right to have a lawyer who will cooperate with planned perjury. A lawyer who would so cooperate would be at risk of prosecution for suborning perjury, and disciplinary proceedings, including suspension or disbarment.
 

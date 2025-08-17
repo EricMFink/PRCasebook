@@ -1,8 +1,3 @@
----
-layout: casebook
-title: Conflicts of Interest 
----
-
 # Conflicts of Interest
 
 ## Conflicts Between Current Clients
@@ -347,15 +342,15 @@ A large regional bank recently changed its commercial loan closing policies to r
 
 Lawyers who traditionally represent the borrower in a commercial loan closing are concerned about this policy for a number of reasons including the following:
 
-- Having closing funds delivered to the lender’s lawyer instead of the borrower’s lawyer subjects the borrower to responsibility for the funds without the benefit of its own legal counsel’s guidance, protection, and assistance;
+- {{< bi dot >}} Having closing funds delivered to the lender’s lawyer instead of the borrower’s lawyer subjects the borrower to responsibility for the funds without the benefit of its own legal counsel’s guidance, protection, and assistance;
 
-- Once the loan funds are committed to the borrower by the lender, they become the responsibility of the borrower. When there is separate, independent representation of the borrower, the protections of malpractice insurance and the closing protection letter are available to the borrower.
+- {{< bi dot >}} Once the loan funds are committed to the borrower by the lender, they become the responsibility of the borrower. When there is separate, independent representation of the borrower, the protections of malpractice insurance and the closing protection letter are available to the borrower.
 
-- The borrower’s recourses may be limited if closing funds are mishandled and the borrower suffers a loss in connection with Bank’s Counsel’s preparation of the closing statement and disbursement of the loan proceeds. However, when the borrower's lawyer performs the escrow and closing functions, the lender gets an insured closing letter and a legal opinion relative to authority and enforceability from the borrower's lawyer and has protection.
+- {{< bi dot >}} The borrower’s recourses may be limited if closing funds are mishandled and the borrower suffers a loss in connection with Bank’s Counsel’s preparation of the closing statement and disbursement of the loan proceeds. However, when the borrower's lawyer performs the escrow and closing functions, the lender gets an insured closing letter and a legal opinion relative to authority and enforceability from the borrower's lawyer and has protection.
 
-- Having the lender’s lawyer perform the property and business due diligence functions may result in the disclosure of confidential information relative to the borrower’s property or its business interests that would not be disclosed if the borrower’s lawyer performed these functions.
+- {{< bi dot >}} Having the lender’s lawyer perform the property and business due diligence functions may result in the disclosure of confidential information relative to the borrower’s property or its business interests that would not be disclosed if the borrower’s lawyer performed these functions.
 
-- Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
+- {{< bi dot >}} Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
 
 #### Inquiry #1:
 
@@ -541,7 +536,7 @@ Could Lawyer represent A, B, and C in these transactions?
 
 The same issues and considerations discussed above would apply if Lawyer wished to engage in the multiple representation of A, B, and C. _See_ Opinions #1 through #8.
 
-## Conflicts Involving the Lawyer's Business & Financial Interests
+## Conflicts Involving the Lawyer's Business & Personal Interests
 
 ### Model Rules of Professional Conduct, Rule 1.8: Current Clients: Specific Rules
 
@@ -832,8 +827,6 @@ _Prohibited communications._ Each of the retention letters made clear that the l
 _Prompt and continued payment._ Once an employer commits to paying the legal fees and expenses of its employees, it scrupulously must honor that commitment. Also, if the employer wishes to discontinue paying the legal fees and expenses of one or more of its employees, it may only do so by leave of court granted. Because this condition also was imposed by the trial court and was agreed to by all parties, the arrangements at issue are satisfactory.
 
 In sum, through the combined product of the good faith of an employer, the diligence of competent counsel and the exercise of a trial court's supervisory authority, the net result of the company's retention and payment of counsel for its employees complies with the _Rules of Professional Conduct._ For these reasons, the trial court properly denied the State's motion to disqualify counsel.
-
-### Conflicts Involving the Lawyer's Personal Interests
 
 ### Negotiating Private Employment with Opposing Counsel, 2016 Formal Ethics Op. 3 (N.C. State Bar Jan. 27, 2017)
 

@@ -1,8 +1,3 @@
----
-layout: casebook
-title: Advertising & Solicitation
----
-
 # Advertising & Solicitation 
 
 ## Advertising
@@ -153,7 +148,7 @@ The Court's almost casual assumption that its authorization of price advertising
 
 The Court emphasizes the need for information that will assist persons desiring legal services to choose lawyers. Under our economic system, advertising is the most commonly used and useful means of providing information as to goods and other services, but it generally has not been used with respect to legal and certain other professional services. Until today, controlling weight has been given to the danger that general advertising of such services too often would tend to mislead rather than inform. Moreover, there has been the further concern that the characteristics of the legal profession thought beneficial to society—a code of professional ethics, an imbued sense of professional and public responsibility, a tradition of self-discipline, and duties as officers of the courts—would suffer if the restraints on advertising were significantly diluted.
 
-Pressures toward some relaxation of the proscription against general advertising have gained force in recent years with the increased recognition of the difficulty that low- and middle-income citizens experience in finding counsel willing to serve at reasonable prices. The seriousness of this problem has not been overlooked by the organized bar.
+Pressures toward some relaxation of the proscription against general advertising have gained force in recent years with the increased recognition of the difficulty that low-and middle-income citizens experience in finding counsel willing to serve at reasonable prices. The seriousness of this problem has not been overlooked by the organized bar.
 
 The Court observes, and I agree, that there is nothing inherently misleading in the advertisement of the cost of an initial consultation. Indeed, I would not limit the fee information to the initial conference. Although the skill and experience of lawyers vary so widely as to negate any equivalence between hours of service by different lawyers, variations in quality of service by duly licensed lawyers are inevitable. Lawyers operate, at least for the purpose of internal control and accounting, on the basis of specified hourly rates, and upon request—or in an appropriate case—most lawyers are willing to undertake employment at such rates. The advertisement of these rates, in an appropriate medium, duly designated, would not necessarily be misleading if this fee information also made clear that the total charge for the representation would depend on the number of hours devoted to the client's problem—a variable difficult to predict. Where the price content of the advertisement is limited to the finite item of rate per hour devoted to the client's problem, the likelihood of deceiving or misleading is considerably less than when specific services are advertised at a fixed price.
 
@@ -247,9 +242,9 @@ We disapprove the referee's finding that the television commercial at issue is c
 
 The Florida Bar revisted the "pit bull" issue in 2021. [Florida Bar v. Robert Laurence Pelltier](../exhibits/Pelletier-Complaint.pdf), No. 2021-00,159(4A) (March 2, 2021). 
 
-![Pelletier ad](../exhibits/img/Pitbull2.jpg)
+![Pelletier ad](../img/Pitbull2.jpg){width=50%}
 
-In his [answer](../exhibits/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea]({{ site.baseurl }}/assets/materials/Advertising/Pelletier-GuiltyPlea.pdf) and received a [reprimand](../exhibits/Pelletier-RefereeReport.pdf).
+In his [answer](../exhibits/Pelletier-Answer.pdf) to the Bar complaint, Pelletier to the Bar complaint, Pelletier asserted that he "was unaware of said case law until recently. Furthermore, Respondent was unaware that using a nickname such as “Pitbull” was a violation of The Florida Bar Rules." He also contended that "The Florida Bar rule(s) sited [sic] violate the first amendment freedom of speech section." He ultimately entered a [guilty plea](../exhibits/Pelletier-GuiltyPlea.pdf) and received a [reprimand](../exhibits/Pelletier-RefereeReport.pdf).
 
 ### Hunter v. Virginia State Bar, 744 S.E.2d 611 (Va. 2013)
 
