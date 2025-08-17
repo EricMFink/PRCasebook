@@ -1,0 +1,5 @@
+::: {.content-hidden unless-format="revealjs"}
+# Home {.unnumbered}
+:::
+
+![](img/cover.png)

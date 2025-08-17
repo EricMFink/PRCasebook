@@ -1,0 +1,44 @@
+project:
+    type: tufte
+
+book:
+  open-graph: true
+  site-url: "https://www.emfink.net/PRCasebook/"
+  output-file: "PRCasebook"
+  title: "Professional Responsibility"
+  title-short: "Professional Responsibility"
+  subtitle: An Open-Source Casebook
+  version: "4.1"
+  date: "August 2025"
+  date-format: MMMM YYYY
+  license: "CC BY NC SA"
+  author:
+  - name: Eric M. Fink
+    email: efink@elon.edu
+    affiliations:
+      - name: Elon University School of Law
+        address: 201 North Greene Street
+        city: Greensboro
+        state: North Carolina
+        postal-code: 27278
+  chapters:
+    - index.qmd
+    - part: "Front Matter"
+      chapters:
+        - 01-Front/license.qmd
+        - 01-Front/epigraph.qmd
+        - 01-Front/preface.qmd
+    - part: "Chapters"
+      chapters:
+        - 02-Main/chap1.qmd
+        - 02-Main/chap2.qmd
+        - 02-Main/chap3.qmd
+        - 02-Main/chap4.qmd
+        - 02-Main/chap5.qmd
+        - 02-Main/chap6.qmd
+        - 02-Main/chap7.qmd
+        - 02-Main/chap8.qmd
+    - part: "Back Matter"
+      chapters:
+        - 03-Back/ack.qmd
+        - 03-Back/colophon.qmd
