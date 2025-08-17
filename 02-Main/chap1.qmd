@@ -763,8 +763,6 @@ Accordingly, we hereby deny Roots's application without prejudice to his reappli
 
 ### In the Matter of Anonymous, an Applicant for Admission to Practice as an Attorney and Counselor-at-Law. 188 N.Y.S.3d 803 (NY App. Div. 2023)
 
-#### Per Curiam.
-
 Applicant, a 47-year-old resident of New York, graduated from law school in 2000 and passed the bar examination in New York in February 2018. Following a hearing, this Court's Committee on Character and Fitness issued a decision recommending that applicant be admitted to the practice of law subject to certain conditions. The Committee's recommendation has now been referred to the Court for determination.
 
 It is applicant's burden to demonstrate that he possesses the character and general fitness requisite for admission After graduating law school, from 2001 to 2011, applicant engaged in the unauthorized practice of law in New York for nearly ten years. At that time, applicant, who had not yet taken the bar examination and was not licensed to practice law in any jurisdiction, applied for and was subsequently hired as an attorney, working for two different law firms in New York during the relevant time period. For nearly a decade, therefore, he held himself out as a licensed attorney to his employers and the general public and practiced law, ultimately becoming a partner in one of the law firms.
@@ -791,7 +789,7 @@ Applicant has disclosed various student loans with balances now totaling about $
 
 ### People v. Alfani, 125 A. 671 (N.Y. 1919)
 
-#### Crane, J.
+**Crane, J.**
 
 The defendant was convicted by the Special Sessions of the city of New York, borough of Brooklyn, of violating section 270 of the Penal Law. He was not an attorney and counselor-at-law, but had for a long period of time drawn legal papers and instruments for hire and  held himself out to the public as being in that business. His conviction was reversed by the Appellate Division on the ground that such acts did not constitute practicing law and, therefore, were in nowise contrary to the statute.
 
@@ -835,7 +833,7 @@ We recognize that by section 270 and also 271 a person, not a lawyer, may appear
 
 We must, therefore, in harmony with these views, reverse the judgment of the Appellate Division and affirm that of the Special Sessions.
 
-#### McLAUGHLIN, J. (dissenting).
+** McLAUGHLIN, J. (dissenting).**
 
 The defendant was convicted of violating section 270 of the Penal Law. [On appeal], the judgment of conviction was reversed and he was discharged. The People, by permission, appeal to this court.
 
