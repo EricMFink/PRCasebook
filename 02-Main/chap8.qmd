@@ -31,8 +31,6 @@ In representing a client, a lawyer shall not communicate about the subject of th
 
 ### N.C. State Bar v. Weckworth, No. COA18-866 (N.C, Ct. App. June 4, 2019)
 
-#### HAMPSON, Judge.
-
 #### Factual and Procedural Background
 
 Robert N. Weckworth, Jr. (Defendant) appeals from an Order of Discipline entered by a Disciplinary Hearing Panel of the Disciplinary Hearing Commission (DHC) of the North Carolina State Bar (State Bar), censuring him for violations of the North Carolina Rules of Professional Conduct (RPC). Defendant also noticed appeal from several interlocutory rulings by the DHC, which are also before us on appeal. The Record, including the evidence presented before the DHC over a two-day hearing on 7 April and 20 June 2017, reflects the following:
@@ -111,7 +109,7 @@ In dealing on behalf of a client with a person who is not represented by counsel
 
 ### In re Disciplinary Proceeding Against Haley, 126 P.3d 1262 (Wash. 2006)
 
-#### Owens, J.
+**Owens, J.**
 
 Attorney Jeffrey T. Haley appeals the recommendation of the Disciplinary Board of the Washington State Bar Association that Haley was subject to a six-month suspension for knowingly violating RPC 4.2(a), which provides that, "in representing a client, a lawyer shall not communicate with a party represented by another lawyer."
 
@@ -169,11 +167,11 @@ In sum, consistent with the resolution of the same issue in _Schaefer_, we hold 
 
 We hold that RPC 4.2(a) prohibits a lawyer who is representing his own interests in a matter from contacting another party whom he knows to be represented by counsel. However, because we conclude that RPC 4.2(a) was impermissibly vague as applied to Haley, we apply our interpretation of RPC 4.2(a) prospectively only and thus dismiss.
 
-#### Madsen, J. (concurring).
+**Madsen, J. (concurring).**
 
 I agree with part one of Justice Sanders' concurrence. This court currently has a new set of RPCs pending before it. Because I agree with the majority that the better policy is to include self-represented lawyers within the prohibition of RPC 4.2(a), I would revise that rule in conjunction with the review of the RPCs and avoid the issue of prospectivity.
 
-#### Sanders, J. (concurring).
+**Sanders, J. (concurring).**
 
 The majority holds that self-represented lawyers are "representing a client" under RPC 4.2(a) and therefore may not contact a represented party. But it refrains from sanctioning Haley, implicitly holding that the scope of RPC 4.2(a) is ambiguous. I concur only in the result, because the majority incorrectly construes RPC 4.2(a). The plain language of RPC 4.2(a) exempts self-represented lawyers. And the rule of lenity requires strict and narrow construction of an ambiguous penal statute. We must apply RPC 4.2(a) prospectively just as we apply it today.
 
@@ -211,7 +209,7 @@ Courts routinely apply the rule of lenity to ambiguous statutes. And the rule of
 
 The majority objects to the plain language of RPC 4.2(a) only because it believes that permitting self-represented lawyers to contact represented parties would violate the "purpose" of the rule. But the putative "spirit and intent" of a rule can trump only a "strained and unlikely" interpretation. And the plain language of RPC 4.2(a) is neither strained nor unlikely. It prohibits a lawyer representing a client---but not a self-represented lawyer---from contacting a represented party. As the majority concedes, several commentators and courts have found the plain language of essentially identical rules entirely unambiguous. We must not manufacture ambiguity and rely on legal fictions to arrive at a preferred result. Especially when we may simply write that result into law.
 
-#### Alexander, C.J. (dissenting).
+**Alexander, C.J. (dissenting).**
 
 I agree with the majority that RPC 4.2(a) prohibits lawyers who are representing themselves from communicating directly with opposing, represented parties unless they first obtain the consent of the parties' counsel. I disagree, however, with the majority's decision to limit application of this important rule to future violators. I know of no authority that supports imposition of a rule of professional conduct prospectively only. I believe, therefore, that this court should suspend Jeffrey Haley from the practice of law for his violation of RPC 4.2(a). The violation is especially egregious in light of Haley's claim that he "studied the rule" before directly contacting his opposing party, and in view of the fact that he contacted the party a second time after the party's lawyer warned him that doing so would violate RPC 4.2(a). Because the majority concludes that Haley should not be subjected to discipline for a violation of RPC 4.2(a), I dissent.
 
@@ -230,8 +228,6 @@ Thus, this court has long rejected the notion that attorney discipline is penal,
 In sum, because the purpose of attorney discipline is to protect the public, it is our duty to enforce RPC 4.2(a) in this case. The majority provides no authority for applying RPC 4.2(a) to pro se attorneys prospectively only. I would apply the rule to Haley and suspend him for six months.
 
 ### Niesig v. Team I, 76 N.Y.2d 363 (N.Y. 1990)
-
-#### Kaye, J.
 
 Plaintiff in this personal injury litigation, wishing to have his counsel privately interview a corporate defendant's employees who witnessed the accident, puts before us a question that has generated wide interest: are the employees of a corporate party also considered "parties" under Disciplinary Rule 7-104 (A) (1) of the Code of Professional Responsibility, which prohibits a lawyer from communicating directly with a "party" known to have counsel in the matter? The trial court and the Appellate Division both answered that an employee of a counseled corporate party in litigation is by definition also a "party" within the rule, and prohibited the interviews. For reasons of policy, we disagree.
 

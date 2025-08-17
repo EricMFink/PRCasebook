@@ -51,15 +51,15 @@ A lawyer shall act with reasonable diligence and promptness in representing a cl
 
 (a\) A lawyer shall:
 
-> (1\) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
+- (1\) promptly inform the client of any decision or circumstance with respect to which the client's informed consent, as defined in Rule 1.0(e), is required by these Rules;
 
-> (2\) reasonably consult with the client about the means by which the client's objectives are to be accomplished;
+- (2\) reasonably consult with the client about the means by which the client's objectives are to be accomplished;
 
-> (3\) keep the client reasonably informed about the status of the matter;
+- (3\) keep the client reasonably informed about the status of the matter;
 
-> (4\) promptly comply with reasonable requests for information; and
+- (4\) promptly comply with reasonable requests for information; and
 
-> (5\) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
+- (5\) consult with the client about any relevant limitation on the lawyer's conduct when the lawyer knows that the client expects assistance not permitted by the Rules of Professional Conduct or other law.
 
 (b\) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation.
 
@@ -223,13 +223,11 @@ Except as provided in § 57 and in addition to liability under §§ 48-55, a law
 
 (h\) A lawyer shall not:
 
-> (1\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
+- (1\) make an agreement prospectively limiting the lawyer's liability to a client for malpractice unless the client is independently represented in making the agreement; or
 
-> (2\) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
+- (2\) settle a claim or potential claim for such liability with an unrepresented client or former client unless that person is advised in writing of the desirability of seeking and is given a reasonable opportunity to seek the advice of independent legal counsel in connection therewith.
 
 ### Marker v. Greenberg, 313 N.W.2d 4 (Minn. 1981)
-
-#### SCOTT, Justice.
 
 This is an appeal from an order of the Hennepin County District Court in a legal malpractice action brought by the surviving joint tenant against the attorney who drafted the deed. By that order the trial court granted respondent Robert Greenberg's motion for summary judgment on the grounds that plaintiff could not bring the action absent an attorney-client relationship and that the six-year statute of limitations barred the action since the statutory period began to run in 1973 when the alleged negligence occurred. We affirm.
 
@@ -263,8 +261,6 @@ In the case before us, the objective of the deed was to transfer ownership of th
 
 ### Ishmael v. Millington, 241 Cal.App.2d 520 (Cal. Ct. App. 1966)
 
-#### FRIEDMAN, J.
-
 This is a legal malpractice action in which the plaintiff-client appeals from a summary judgment granted the defendant-attorney. The factual narrative will possess heightened significance against a backdrop of general doctrine:
 
 Actionable legal malpractice is compounded of the same basic elements as other kinds of actionable negligence: duty, breach of duty, proximate cause, damage. Touching the first element, duty, the general rule is that "the attorney, by accepting employment to give legal advice or to render other legal services, impliedly agrees to use such skill, prudence, and diligence as lawyers of ordinary skill and capacity commonly possess and exercise in the performance of the tasks which they undertake."
@@ -292,8 +288,6 @@ In view of the degree of care imposed by law on an attorney in defendant's posit
 Legal malpractice may consist of a negligent failure to act. The attorney's negligence, whether consisting of active conduct or a failure to act, need not be the sole cause of the client's loss. Here the attorney is charged not with erroneous advice, but with failure to advise, failure to investigate, failure to disclose. The wife's reliance on her husband's alleged misrepresentations is not at all inconsistent with the claim that her loss was the result of the attorney's negligent failure. A jury might find that the husband's misrepresentations were a realizable likelihood which made the attorney's inaction negligent, thus forming a concurrent (and not superseding) cause of harm. Causation was a jury question which could not be resolved as a matter of law.
 
 ### Equitania Ins. v. Slone & Garrett, 191 S.W.3d 552 (Ky. 2006)
-
-#### Wintersheimer, Justice
 
 This appeal is from an opinion of the Court of Appeals which affirmed a judgment of the circuit court based on a summary judgment/jury verdict that rejected the claim of the Equitania Insurance Company and its Vimont shareholder group for legal malpractice against Garrett and her law firm.
 
@@ -334,8 +328,6 @@ This instruction form contains the elements prescribed in Daugherty without requ
 Consequently, under the circumstances regarding the instructions, this matter is reversed and remanded. The decisions of the Court of Appeals and the trial court are reversed and this matter is remanded to the trial court for a jury determination as to all factual issues.
 
 ### Daugherty v. Runner, 581 S.W.2d 12 (Ky. Ct. App. 1978)
-
-#### HAYES, Judge.
 
 This appeal is from a judgment entered pursuant to a jury verdict which exonerated the appellee, an attorney, from the charges of legal malpractice. The charges of the legal malpractice claim arose from a medical malpractice cause of action on behalf of the deceased, Lula Daugherty Roach. This type of action is commonly referred to as a "suit within a suit." The basis for the legal malpractice claim is that appellee Runner, while representing the deceased Roach for injuries sustained in an automobile accident, failed to pursue a medical malpractice claim by the estate of Roach against the hospital where Roach was treated for her injuries after her accident and against the doctors who treated her, until her claim was barred by the statute of limitations.
 
@@ -421,7 +413,7 @@ To that, we would simply repeat that all the evidence in this case was submitted
 
 ### Strickland v. Washington, 466 U.S. 668 (1984)
 
-#### JUSTICE O'CONNOR delivered the opinion of the Court.
+**JUSTICE O'CONNOR delivered the opinion of the Court.**
 
 This case requires us to consider the proper standards for judging a criminal defendant's contention that the Constitution requires a conviction or death sentence to be set aside because counsel's assistance at the trial or sentencing was ineffective.
 
@@ -537,7 +529,7 @@ Failure to make the required showing of either deficient performance or sufficie
 
 ### Knowles v. Mirzayance, 556 U.S. 111 (2009)
 
-#### Justice THOMAS delivered the opinion of the Court.
+**Justice THOMAS delivered the opinion of the Court.**
 
 In this case, respondent Alexandre Mirzayance claimed ineffective assistance of counsel because his attorney recommended withdrawing his insanity defense. The California courts rejected this claim on state postconviction review. We must decide whether this decision was contrary to or an unreasonable application of clearly established federal law. We hold that it was not. Mirzayance failed to establish that his counsel's performance was ineffective.
 
@@ -609,7 +601,7 @@ Mirzayance has not shown that the state court's conclusion that there was no ine
 
 ### Lee v. United States, 137 S.Ct. 1958 (2017)
 
-#### Chief Justice ROBERTS delivered the opinion of the Court.
+**Chief Justice ROBERTS delivered the opinion of the Court.**
 
 Petitioner Jae Lee was indicted on one count of possessing ecstasy with intent to distribute. Although he has lived in this country for most of his life, Lee is not a United States citizen, and he feared that a criminal conviction might affect his status as a lawful permanent resident. His attorney assured him there was nothing to worry about---the Government would not deport him if he pleaded guilty. So Lee, who had no real defense to the charge, opted to accept a plea that carried a lesser prison sentence than he would have faced at trial.
 
@@ -675,7 +667,7 @@ We cannot agree that it would be irrational for a defendant in Lee's position to
 
 Lee's claim that he would not have accepted a plea had he known it would lead to deportation is backed by substantial and uncontroverted evidence. Accordingly we conclude Lee has demonstrated a "reasonable probability that, but for his counsel's errors, he would not have pleaded guilty and would have insisted on going to trial.
 
-#### Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.
+**Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.**
 
 The Court today holds that a defendant can undo a guilty plea, well after sentencing and in the face of overwhelming evidence of guilt, because he would have chosen to pursue a defense at trial with no reasonable chance of success if his attorney had properly advised him of the immigration consequences of his plea. Neither the Sixth Amendment nor this Court's precedents support that conclusion. I respectfully dissent.
 
@@ -735,7 +727,7 @@ In addition to undermining finality, the Court's rule will impose significant co
 
 ### Ang v. Martin, 114 P.3d 637 (Wash. 2005)
 
-#### Owens, J.
+**Owens, J.**
 
 We are asked to determine whether plaintiffs in a malpractice action against their former criminal defense attorneys were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. The Court of Appeals concluded that, as an element of their negligence claim, plaintiffs were required "to prove innocence in fact and not merely to present evidence of the government's inability to prove guilt." We affirm the Court of Appeals.
 
@@ -793,7 +785,7 @@ In sum, we conclude that the Angs were properly required to prove by a preponder
 
 We conclude that, as plaintiffs in a criminal malpractice action, the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We find no persuasive reasons for this court to follow the minority position and shift the burden to the defendant attorneys to prove that their former clients were actually guilty of the charged crimes.
 
-#### SANDERS, J. (dissenting).
+**SANDERS, J. (dissenting).**
 
 I dissent because the malpractice standard for criminal cases should be the same as civil. There is no reason to invite malpractice in criminal cases by heightening the plaintiff's burden to prove postconviction relief and actual innocence. In every situation a client should rightfully expect competent legal representation.
 
@@ -813,13 +805,13 @@ Legal causation is a subsequent inquiry, asking as a matter of law whether liabi
 
 Here the Angs's defense attorneys, Michael Martin and Richard Hansen, recommended a particular plea agreement. The Angs initially agreed but later withdrew the plea on recommendation from new counsel and were acquitted on all charges at a subsequent trial. They sued their former defense attorneys and a jury found that Martin alone was negligent even though it found the Angs had not proved their innocence by a preponderance of the evidence. Since the latter consideration should be irrelevant, Martin should bear the responsibility for his negligence. I would reverse as to Martin, and remand for a trial on damages.
 
-#### ALEXANDER, C.J. (concurring in dissent).
+**ALEXANDER, C.J. (concurring in dissent).**
 
 I agree with Justice Sanders that the trial court erred in instructing the jury that Jessy and Editha Ang had to prove that they were actually innocent of the crime charged in order to prevail in their legal malpractice claim against attorneys Richard Hansen and Michael Martin. For that reason, we should reverse the Court of Appeals and remand to the trial court for a new trial on the Angs' claim against Martin.
 
 I write separately because, in my view, we should not stop with a determination that the trial court erred but should go further to indicate that the defendant attorney may raise the issue of the plaintiff's actual guilt in the criminal case as an affirmative defense. That was the position taken by the Supreme Court of Alaska in a similar case, _Shaw v. Department of Administration_. There, the court said that because plaintiffs in such actions must already bear the burden of proving that they have obtained postconviction relief from their criminal convictions, they should not have to prove their "actual innocence." The court went on to indicate, however, that the defendant may raise the issue of the plaintiff's "actual guilt" as an affirmative defense and seek to establish it by a preponderance of the evidence. Although the Alaska court did not engage in an extensive discussion of its reasons for placing the burden on the defendant to establish this affirmative defense, it did indicate that putting the burden there is consistent with the requirement that defendants establish traditional affirmative defenses that look to plaintiffs' actions such as contributory/comparative negligence and assumption of the risk. The Alaska rule makes perfect sense to me for that reason and for the additional reason that it is consonant with the traditional notion that one is presumed innocent until proven guilty beyond a reasonable doubt. Furthermore, shifting the burden to the defendant relieves the plaintiff of the almost impossible burden of proving innocence while at the same time addressing the policy concern noted by the majority, that criminals should not benefit from "their own bad acts."
 
-#### CHAMBERS, J. (concurring in dissent).
+**CHAMBERS, J. (concurring in dissent).**
 
 I concur in Justice Sanders' dissent but write separately to express my indignation that this court, based upon the policy of protecting lawyers, would carve out a special protection for criminal defense attorneys whose acts of professional negligence are harmful to their clients. Under this logic, it is not enough for the injured client to prove actual harm from the attorney's failure to meet professional standards; the injured client must also prove that her hands were always clean. Under this logic, why not give immunity to accountants for professional negligence unless the accountant's client can prove he or she never understated income or requested an unavailable deduction, even when the accountants' bad acts caused actual harm to their clients or society? Surely tax dodgers should not profit from their misdeeds. Under this logic, why not give immunity to health care providers who harm their patients unless the patient can prove perfect good health but for the negligence of the provider? Surely the unhealthy should not profit from their illness.
 

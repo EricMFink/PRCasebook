@@ -115,8 +115,6 @@ Based on the foregoing, we hold that the jury's findings are adequately supporte
 
 ### Ferranti Intern. PLC v. Clark, 767 F. Supp. 670 (E.D. Pa. 1991)
 
-#### Ludwig, District Judge
-
 Plaintiff sues for breach of fiduciary duty and professional malpractice and to rescind a $2.75 million employee "settlement and release" agreement, which the complaint alleges was obtained by extortion. Defendant William A. Clark's motion to disqualify the firm of Hogan & Hartson from representing plaintiff Ferranti International plc in this action will be denied for the following reasons:
 
 1\. An attorney-client relationship, express or implied, did not exist between Hogan & Hartson and William A. Clark when he was Ferranti International, Inc.'s vice president and general counsel.
@@ -151,17 +149,15 @@ This is not a case in which a layperson might have perceived or reasonably mispe
 
 (d\) When the lawyer has received disqualifying information as defined in paragraph (c), representation is permissible if:
 
-> (1\) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
+- (1\) both the affected client and the prospective client have given informed consent, confirmed in writing, or:
 
-> (2\) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
+- (2\) the lawyer who received the information took reasonable measures to avoid exposure to more disqualifying information than was reasonably necessary to determine whether to represent the prospective client; and
 
-> > (i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
+	- (i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
 
-> > (ii\) written notice is promptly given to the prospective client.
+	- (ii\) written notice is promptly given to the prospective client.
 
 ### Clark Capital Management Group, Inc. v. Annuity Investors Life Ins. Co., 149 F.Supp.2d 193 (E.D. Pa. 2001)
-
-#### Anita Brody, District Judge
 
 Defendant Annuity Investors Life Insurance Co. moves for the disqualification of Stephen L. Friedman and the firm Dilworth Paxson LLP as co-counsel for plaintiff Clark Capital Management Group. Friedman has submitted an opposition to this motion. I will deny the motion for disqualification.
 
@@ -227,27 +223,27 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 (a\) Except as stated in paragraph (c), a lawyer shall not represent a client or, where representation has commenced, shall withdraw from the representation of a client if:
 
-> (1\) the representation will result in violation of the rules of professional conduct or other law;
+- (1\) the representation will result in violation of the rules of professional conduct or other law;
 
-> (2\) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
+- (2\) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
 
-> (3\) the lawyer is discharged.
+- (3\) the lawyer is discharged.
 
 (b\) Except as stated in paragraph (c), a lawyer may withdraw from representing a client if:
 
-> (1\) withdrawal can be accomplished without material adverse effect on the interests of the client;
+- (1\) withdrawal can be accomplished without material adverse effect on the interests of the client;
 
-> (2\) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent;
+- (2\) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal or fraudulent;
 
-> (3\) the client has used the lawyer's services to perpetrate a crime or fraud;
+- (3\) the client has used the lawyer's services to perpetrate a crime or fraud;
 
-> (4\) the client insists upon taking action that the lawyer considers repugnant or with which the lawyer has a fundamental disagreement;
+- (4\) the client insists upon taking action that the lawyer considers repugnant or with which the lawyer has a fundamental disagreement;
 
-> (5\) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;
+- (5\) the client fails substantially to fulfill an obligation to the lawyer regarding the lawyer's services and has been given reasonable warning that the lawyer will withdraw unless the obligation is fulfilled;
 
-> (6\) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or
+- (6\) the representation will result in an unreasonable financial burden on the lawyer or has been rendered unreasonably difficult by the client; or
 
-> (7\) other good cause for withdrawal exists.
+- (7\) other good cause for withdrawal exists.
 
 (c\) A lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation. When ordered to do so by a tribunal, a lawyer shall continue representation notwithstanding good cause for terminating the representation.
 
@@ -307,9 +303,9 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 > (i\) other good cause for withdrawal exists.
 
-(4\) In the case of permissive withdrawal under Subsections (3)(f)-(i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
+(4\) In the case of permissive withdrawal under Subsections (3)(f)- (i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
 
-(5\) Notwithstanding Subsections (1)-(4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
+(5\) Notwithstanding Subsections (1)- (4), a lawyer must comply with applicable law requiring notice to or permission of a tribunal when terminating a representation and with a valid order of a tribunal requiring the representation to continue.
 
 ### Rest. (2d) of the Law Governing Lawyers § 33
 
@@ -457,8 +453,6 @@ A lawyer's act is considered to be that of the client in proceedings before a tr
 
 ### Makins v. District of Columbia, 861 A.2d 590 (D.C. 2004)
 
-#### Nebeker, Senior Judge
-
 The United States Court of Appeals for the District of Columbia Circuit has certified the following question to this court:
 
 > Under District of Columbia law, is a client bound by a settlement agreement negotiated by her attorney when the client has not given the attorney actual authority to settle the case on those terms but has authorized the attorney to attend a settlement conference before a magistrate judge and to negotiate on her behalf and when the attorney leads the opposing party to believe that the client has agreed to those terms.
@@ -522,8 +516,6 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 (4\) A lawyer representing a client with diminished capacity as described in Subsection (1) may seek the appointment of a guardian or take other protective action within the scope of the representation when doing so is practical and will advance the client's objectives or interests, determined as stated in Subsection (2).
 
 ### Disciplinary Counsel v. Jarvis, 205 N.E.3d 499 (Ohio 2022)
-
-#### Per Curiam.
 
 Respondent, Timothy Paul Jarvis, was admitted to the practice of law in Ohio in 2003. In an August 2021 complaint, disciplinary counsel charged Jarvis with seven ethical violations arising from the representation of a married couple and their trustee in an estate-planning matter. Discipinary counsel alleged that Jarvis had neglected his clients' legal matter, failed to communicate with his clients about their wishes, and failed to assess one client's testamentary capacity, falsely notarized various estate-planning documents, instructed his employee to falsely indicate that she had witnessed documents, and failed to promptly deliver their file upon the termination of his representation.
 
@@ -609,9 +601,9 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 (c\) Except as provided in paragraph (d), if
 
-> (1\) despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
+- (1\) despite the lawyer's efforts in accordance with paragraph (b) the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and
 
-> (2\) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
+- (2\) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization, then the lawyer may reveal information relating to the representation whether or not Rule 1.6 permits such disclosure, but only if and to the extent the lawyer reasonably believes necessary to prevent substantial injury to the organization.
 
 (d\) Paragraph (c) shall not apply with respect to information relating to a lawyer's representation of an organization to investigate an alleged violation of law, or to defend the organization or an officer, employee or other constituent associated with the organization against a claim arising out of an alleged violation of law.
 
@@ -669,8 +661,6 @@ This court concurs with the findings of the disciplinary board that Silva exerci
 
 ### In re Grand Jury Subpoena: Under Seal, 415 F.3d 334 (4th Cir. 2005)
 
-#### Wilson, District Judge (sitting by designation)
-
 This is an appeal by three former employees of AOL Time Warner from the decision of the district court denying their motions to quash a grand jury subpoena for documents related to an internal investigation by AOL. Appellants in the district court argued that the subpoenaed documents were protected by the attorney-client privilege. Because the district court concluded that the privilege was AOL's alone and because AOL had expressly waived its privilege, the court denied the appellants' motion. We affirm.
 
 #### I.
@@ -710,8 +700,6 @@ The appellants argue that the phrase "we can represent you as long as no conflic
 We note, however, that our opinion should not be read as an implicit acceptance of the watered-down "Upjohn warnings" the investigating attorneys gave the appellants. It is a potential legal and ethical mine field. Had the investigating attorneys, in fact, entered into an attorney-client relationship with appellants, as their statements to the appellants professed they could, they would not have been free to waive the appellants' privilege when a conflict arose. It should have seemed obvious that they could not have jettisoned one client in favor of another. Rather, they would have had to withdraw from all representation and to maintain all confidences. Indeed, the court would be hard pressed to identify how investigating counsel could robustly investigate and report to management or the board of directors of a publicly-traded corporation with the necessary candor if counsel were constrained by ethical obligations to individual employees. However, because we agree with the district court that the appellants never entered into an attorney-client relationship with the investigating attorneys, they averted these troubling issues.
 
 ### U.S. v. Stein, 463 F. Supp.2d 459 (S.D.N.Y. 2006)
-
-#### Kaplan, District Judge
 
 Defendant Carol Warley was a partner in KPMG LLP, one of the world's largest accounting firms. She was questioned in the course of an IRS investigation by attorneys hired by KPMG. When that investigation gave way to a threatened indictment of KPMG, the firm, in an effort to curry favor with prosecutors and avoid prosecution, waived its attorney-client privilege and gave the government documents embodying the substance of the attorneys' communications with Ms. Warley. Warley contends that the attorneys were representing her as well as KPMG, that her attorney-client privilege was compromised by the actions of the government and KPMG, and that the evidence should be suppressed. She thus raises a troublesome question that arises whenever an employee of a business organization consults with counsel retained by the entity about matters involving both the employee and the entity---when does the lawyer represent the employee as well as the entity?
 
@@ -781,21 +769,21 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 (a\) A lawyer shall not make an agreement for, charge, or collect an unreasonable fee or an unreasonable amount for expenses. The factors to be considered in determining the reasonableness of a fee include the following:
 
-> (1\) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
+- (1\) the time and labor required, the novelty and difficulty of the questions involved, and the skill requisite to perform the legal service properly;
 
-> (2\) the likelihood, if apparent to the client, that the acceptance of the particular employment will preclude other employment by the lawyer;
+- (2\) the likelihood, if apparent to the client, that the acceptance of the particular employment will preclude other employment by the lawyer;
 
-> (3\) the fee customarily charged in the locality for similar legal services;
+- (3\) the fee customarily charged in the locality for similar legal services;
 
-> (4\) the amount involved and the results obtained;
+- (4\) the amount involved and the results obtained;
 
-> (5\) the time limitations imposed by the client or by the circumstances;
+- (5\) the time limitations imposed by the client or by the circumstances;
 
-> (6\) the nature and length of the professional relationship with the client;
+- (6\) the nature and length of the professional relationship with the client;
 
-> (7\) the experience, reputation, and ability of the lawyer or lawyers performing the services; and
+- (7\) the experience, reputation, and ability of the lawyer or lawyers performing the services; and
 
-> (8\) whether the fee is fixed or contingent.
+- (8\) whether the fee is fixed or contingent.
 
 (b\) The scope of the representation and the basis or rate of the fee and expenses for which the client will be responsible shall be communicated to the client, preferably in writing, before or within a reasonable time after commencing the representation, except when the lawyer will charge a regularly represented client on the same basis or rate. Any changes in the basis or rate of the fee or expenses shall also be communicated to the client.
 
@@ -803,17 +791,17 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 (d\) A lawyer shall not enter into an arrangement for, charge, or collect:
 
-> (1\) any fee in a domestic relations matter, the payment or amount of which is contingent upon the securing of a divorce or upon the amount of alimony or support, or property settlement in lieu thereof; or
+- (1\) any fee in a domestic relations matter, the payment or amount of which is contingent upon the securing of a divorce or upon the amount of alimony or support, or property settlement in lieu thereof; or
 
-> (2\) a contingent fee for representing a defendant in a criminal case.
+- (2\) a contingent fee for representing a defendant in a criminal case.
 
 (e\) A division of a fee between lawyers who are not in the same firm may be made only if:
 
-> (1\) the division is in proportion to the services performed by each lawyer or each lawyer assumes joint responsibility for the representation;
+- (1\) the division is in proportion to the services performed by each lawyer or each lawyer assumes joint responsibility for the representation;
 
-> (2\) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
+- (2\) the client agrees to the arrangement, including the share each lawyer will receive, and the agreement is confirmed in writing; and
 
-> (3\) the total fee is reasonable.
+- (3\) the total fee is reasonable.
 
 ### Model Rules of Professional Conduct, Rule 1.8 
 
@@ -821,15 +809,13 @@ In the end, Warley's showings amount merely to a claim of her subjective belief 
 
 (f\) A lawyer shall not accept compensation for representing a client from one other than the client unless:
 
-> (1\) the client gives informed consent;
+- (1\) the client gives informed consent;
 
-> (2\) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
+- (2\) there is no interference with the lawyer's independence of professional judgment or with the client-lawyer relationship; and
 
-> (3\) information relating to representation of a client is protected as required by Rule 1.6.
+- (3\) information relating to representation of a client is protected as required by Rule 1.6.
 
 ### Matter of Cooperman, 633 N.E.2d 1069 (N.Y. 1994)
-
-#### Bellicosa, J.
 
 The issue in this appeal is whether the appellant attorney violated the Code of Professional Responsibility by repeatedly using special nonrefundable retainer fee agreements with his clients. Essentially, such arrangements are marked by the payment of a nonrefundable fee for specific services, in advance and irrespective of whether any professional services are actually rendered. The local Grievance Committee twice warned the lawyer that he should not use these agreements. After a third complaint and completion of prescribed grievance proceedings, the Appellate Division suspended the lawyer from practice for two years. It held that the particular agreements were per se violative of public policy. We affirm the order of the Appellate Division.
 
@@ -885,8 +871,6 @@ The Court is also mindful of the arguments of some of the amici curiae concerned
 
 ### In the Matter of Fordham, 423 Mass. 481 (1996)
 
-#### O'Connor J.
-
 On March 4, 1989, the Acton police department arrested Timothy, then twenty-one years old, and charged him with OUI, operating a motor vehicle after suspension, speeding, and operating an unregistered motor vehicle. At the time of the arrest, the police discovered a partially full quart of vodka in the vehicle. After failing a field sobriety test, Timothy was taken to the Acton police station where he submitted to two breathalyzer tests which registered .10 and .12 respectively.
 
 Subsequent to Timothy's arraignment, he and his father, Laurence Clark consulted with three lawyers, who offered to represent Timothy for fees between $3,000 and $10,000. Shortly after the arrest, Clark went to Fordham's home to service an alarm system which he had installed several years before. While there, Clark discussed Timothy's arrest with Fordham's wife who invited Clark to discuss the case with Fordham. Fordham then met with Clark and Timothy.
@@ -935,7 +919,7 @@ The board dismissed bar counsel's petition for discipline against Fordham becaus
 
 In concluding that Fordham did not charge a clearly excessive fee, the board adopted, with limited exception, the hearing committee's report. The board's and the hearing committee's reasons for dismissing the petition are as follows: Bar counsel and Fordham stipulated that Fordham acted conscientiously, diligently, and in good faith in his representation of the client and his billing on the case. Although Fordham lacked experience in criminal law, he is a "seasoned and well-respected civil lawyer." The more than 200 hours spent preparing the OUI case were necessary, "in part to educate Fordham in the relevant substantive law and court procedures," because he had never tried an OUI case or appeared in the District Court. The board noted that "although none of the experts who testified at the disciplinary hearing had ever heard of a fee in excess of $15,000 for a first-offense OUI case, the hearing committee found that Clark had entered into the transaction with open eyes after interviewing other lawyers with more experience in such matters." The board also thought significant that Clark "later acquiesced, despite mild expressions of concern, in Fordham's billing practices." Moreover, the Clarks specifically instructed Fordham that they would not consider a guilty plea by Timothy. Rather they were interested only in pursuing the case to trial. Finally, Timothy obtained the result he sought: an acquittal.
 
-Bar counsel contends that the board's decision to dismiss the petition for discipline is erroneous on three grounds: First, "the hearing committee and the Board committed error by analyzing only three of the factors set out in DR 2-106 (B) (1)-(8), and their findings with regard to these criteria do not support their conclusion that the fee in this case was not clearly excessive"; second, the board "misinterpreted DR 2-106's prohibition against charging a clearly excessive fee by reading into the rule a ‘safe harbor' provision"; and third, "by allowing client acquiescence as a complete defense."
+Bar counsel contends that the board's decision to dismiss the petition for discipline is erroneous on three grounds: First, "the hearing committee and the Board committed error by analyzing only three of the factors set out in DR 2-106 (B) (1)- (8), and their findings with regard to these criteria do not support their conclusion that the fee in this case was not clearly excessive"; second, the board "misinterpreted DR 2-106's prohibition against charging a clearly excessive fee by reading into the rule a ‘safe harbor' provision"; and third, "by allowing client acquiescence as a complete defense."
 
 In reviewing the hearing committee's and the board's analysis of the various factors, as appearing in DR 2-106 (B), which are to be considered for a determination as to whether a fee is clearly excessive, we are mindful that, although not binding on this court, the findings and recommendations of the board are entitled to great weight. We are empowered, however, to review the board's findings and reach our own conclusion. In the instant case we are persuaded that the hearing committee's and the board's determinations that a clearly excessive fee was not charged are not warranted.
 
@@ -977,11 +961,7 @@ Connie Daniel Cole seeks review of a judgment of the court of appeal affirming a
 
 Connie Daniel Cole retained attorney Bobby Culpepper of the law firm of Culpepper & Carroll, PLLC to represent him in a contest of his mother's will. Mr. Cole requested that the firm handle the matter on a one-third contingent fee basis, and Mr. Culpepper agreed to do so. On September 20, 2000, Mr. Culpepper sent Mr. Cole a letter in which he confirmed that he would accept the representation on a contingent fee basis of one-third "of whatever additional property or money we can get for you."
 
-After negotiation between Mr. Culpepper and counsel for the estate of Mr. Cole's mother, Mr. Cole was offered property worth $21,600.03 over and above what he would have received under the terms of the decedent's will. Mr. Culpepper thought the compromise was reasonable and recommended to Mr. Cole that he accept the offer. However, Mr. Cole refused to settle his claim for that amount, believing he was entitled to a larger share of his mother's succession as a forced heir. When Mr. Culpepper refused to file suit in the matter, Mr. Cole terminated his representation. Mr. Cole then proceeded in proper person[^culpepper1] to challenge his mother's will, but he was unsuccessful and recovered nothing.
-
-[^culpepper1]:
-
- {-} "_In propria persona_ is a Latin phrase meaning 'for one's self.' The phrase is used for a person who appears before a court or represents themself in absence of a lawyer. It is synonymous with the term _pro se_." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/in_propria_persona)
+After negotiation between Mr. Culpepper and counsel for the estate of Mr. Cole's mother, Mr. Cole was offered property worth $21,600.03 over and above what he would have received under the terms of the decedent's will. Mr. Culpepper thought the compromise was reasonable and recommended to Mr. Cole that he accept the offer. However, Mr. Cole refused to settle his claim for that amount, believing he was entitled to a larger share of his mother's succession as a forced heir. When Mr. Culpepper refused to file suit in the matter, Mr. Cole terminated his representation. Mr. Cole then proceeded in proper person["_In propria persona_ is a Latin phrase meaning 'for one's self.' The phrase is used for a person who appears before a court or represents themself in absence of a lawyer. It is synonymous with the term _pro se_." [Wex Legal Dictionary](https://www.law.cornell.edu/wex/in_propria_persona)]{.aside} to challenge his mother's will, but he was unsuccessful and recovered nothing. 
 
 On April 12, 2004, Mr. Culpepper filed a "Petition on Open Account" on behalf of the Culpepper law firm. The suit was filed in Ruston City Court against Mr. Cole, seeking the sum of $6,950.01, plus legal interest, together with 25% on the principal and interest as additional attorney's fees. Attached to the petition were Mr. Culpepper's invoice for attorney's fees and a demand letter to Mr. Cole seeking the payment of "the entire balance of $6,950.01 that you owe Culpepper & Carroll, PLLC."
 
