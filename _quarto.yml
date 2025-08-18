@@ -9,7 +9,6 @@ book:
   title-short: "Professional Responsibility"
   subtitle: An Open-Source Casebook
   version: "4.1"
-  date-format: MMMM YYYY
   license: "CC BY NC SA"
   author:
   - name: Eric M. Fink
