@@ -10,9 +10,9 @@ A relationship of client and lawyer arises when:
 
 (1\) a person manifests to a lawyer the person's intent that the lawyer provide legal services for the person; and either
 
-> (a\) the lawyer manifests to the person consent to do so; or
+- (a\) the lawyer manifests to the person consent to do so; or
 
-> (b\) the lawyer fails to manifest lack of consent to do so, and the lawyer knows or reasonably should know that the person reasonably relies on the lawyer to provide the services; or
+- (b\) the lawyer fails to manifest lack of consent to do so, and the lawyer knows or reasonably should know that the person reasonably relies on the lawyer to provide the services; or
 
 (2\) a tribunal with power to do so appoints the lawyer to provide the services.
 
@@ -210,7 +210,7 @@ In the event that confidential information was disclosed, I find that disqualifi
 
 I am not persuaded by Annuity's argument that disqualification of Dilworth is necessary to protect against the "mere appearance of an impropriety" and to maintain the integrity of the legal profession. While the ethical rules are designed, in part, to encourage attorney-client candor, attorneys that have already been retained in a matter and who are well versed in the perimeters of the attorney-client relationship, should be encouraged to take care with their client's confidences in the course of preliminary inquiries with potential co-counsel in another firm. Such inquiries should not form the basis for disqualification of an entire firm in situations, such as this, where it was clear to both parties that an attorney-client relationship was never established. Allowing Friedman to be retained by Clark Capital in this matter requires effective screening of only a single attorney out of approximately 100 attorneys at Dilworth. In light of this, the fact that Annuity is not a former client of Dilworth, and the minimal likelihood that Dilworth's involvement in this case would taint the pending litigation, I will deny Annuity's motion to disqualify Friedman and Dilworth. I will require that Dilworth continue to screen Biemer from any involvement in this case.
 
-### Declining and Terminating Representation
+## Declining and Terminating Representation
 
 ### Model Rules of Professional Conduct, Rule 1.16 
 
@@ -252,15 +252,15 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 (2\) Subject to Subsection (1) and § 33, a lawyer's actual authority to represent a client ends when:
 
-> (a\) the client discharges the lawyer;
+- (a\) the client discharges the lawyer;
 
-> (b\) the client dies or, in the case of a corporation or similar organization, loses its capacity to function as such;
+- (b\) the client dies or, in the case of a corporation or similar organization, loses its capacity to function as such;
 
-> (c\) the lawyer withdraws;
+- (c\) the lawyer withdraws;
 
-> (d\) the lawyer dies or becomes physically or mentally incapable of providing representation, is disbarred or suspended from practicing law, or is ordered by a tribunal to cease representing a client; or
+- (d\) the lawyer dies or becomes physically or mentally incapable of providing representation, is disbarred or suspended from practicing law, or is ordered by a tribunal to cease representing a client; or
 
-> (e\) the representation ends as provided by contract or because the lawyer has completed the contemplated services.
+- (e\) the representation ends as provided by contract or because the lawyer has completed the contemplated services.
 
 (3\) A lawyer's apparent authority to act for a client with respect to another person ends when the other person knows or should know of facts from which it can be reasonably inferred that the lawyer lacks actual authority, including knowledge of any event described in Subsection (2).
 
@@ -272,31 +272,31 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 (2\) Subject to Subsection (5), a lawyer may not represent a client or, where representation has commenced, must withdraw from the representation of a client if:
 
-> (a\) the representation will result in the lawyer's violating rules of professional conduct or other law;
+- (a\) the representation will result in the lawyer's violating rules of professional conduct or other law;
 
-> (b\) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
+- (b\) the lawyer's physical or mental condition materially impairs the lawyer's ability to represent the client; or
 
-> (c\) the client discharges the lawyer.
+- (c\) the client discharges the lawyer.
 
 (3\) Subject to Subsections (4) and (5), a lawyer may withdraw from representing a client if:
 
-> (a\) withdrawal can be accomplished without material adverse effect on the interests of the client;
+- (a\) withdrawal can be accomplished without material adverse effect on the interests of the client;
 
-> (b\) the lawyer reasonably believes withdrawal is required in circumstances stated in Subsection (2);
+- (b\) the lawyer reasonably believes withdrawal is required in circumstances stated in Subsection (2);
 
-> (c\) the client gives informed consent;
+- (c\) the client gives informed consent;
 
-> (d\) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal, fraudulent, or in breach of the client's fiduciary duty;
+- (d\) the client persists in a course of action involving the lawyer's services that the lawyer reasonably believes is criminal, fraudulent, or in breach of the client's fiduciary duty;
 
-> (e\) the lawyer reasonably believes the client has used or threatens to use the lawyer's services to perpetrate a crime or fraud;
+- (e\) the lawyer reasonably believes the client has used or threatens to use the lawyer's services to perpetrate a crime or fraud;
 
-> (f\) the client insists on taking action that the lawyer considers repugnant or imprudent;
+- (f\) the client insists on taking action that the lawyer considers repugnant or imprudent;
 
-> (g\) the client fails to fulfill a substantial financial or other obligation to the lawyer regarding the lawyer's services and the lawyer has given the client reasonable warning that the lawyer will withdraw unless the client fulfills the obligation;
+- (g\) the client fails to fulfill a substantial financial or other obligation to the lawyer regarding the lawyer's services and the lawyer has given the client reasonable warning that the lawyer will withdraw unless the client fulfills the obligation;
 
-> (h\) the representation has been rendered unreasonably difficult by the client or by the irreparable breakdown of the client-lawyer relationship; or
+- (h\) the representation has been rendered unreasonably difficult by the client or by the irreparable breakdown of the client-lawyer relationship; or
 
-> (i\) other good cause for withdrawal exists.
+- (i\) other good cause for withdrawal exists.
 
 (4\) In the case of permissive withdrawal under Subsections (3)(f)-(i), a lawyer may not withdraw if the harm that withdrawal would cause significantly exceeds the harm to the lawyer or others in not withdrawing.
 
@@ -310,13 +310,13 @@ I am not persuaded by Annuity's argument that disqualification of Dilworth is ne
 
 (2\) Following termination of a representation, a lawyer must:
 
-> (a\) observe obligations to a former client such as those dealing with client confidences (see Chapter 5), conflicts of interest (see Chapter 8), client property and documents (see §§ 44-46), and fee collection (see § 41);
+- (a\) observe obligations to a former client such as those dealing with client confidences (see Chapter 5), conflicts of interest (see Chapter 8), client property and documents (see §§ 44-46), and fee collection (see § 41);
 
-> (b\) take no action on behalf of a former client without new authorization and give reasonable notice, to those who might otherwise be misled, that the lawyer lacks authority to act for the client;
+- (b\) take no action on behalf of a former client without new authorization and give reasonable notice, to those who might otherwise be misled, that the lawyer lacks authority to act for the client;
 
-> (c\) take reasonable steps to convey to the former client any material communication the lawyer receives relating to the matter involved in the representation; and
+- (c\) take reasonable steps to convey to the former client any material communication the lawyer receives relating to the matter involved in the representation; and
 
-> (d\) take no unfair advantage of a former client by abusing knowledge or trust acquired by means of the representation.
+- (d\) take no unfair advantage of a former client by abusing knowledge or trust acquired by means of the representation.
 
 ### Whiting v. Lacara, 187 F. 3d 317 (2d Cir. 1999)
 
@@ -504,9 +504,9 @@ Since Ms. Makins, as principal, did not make any manifestation of authority to t
 
 (3\) If a client with diminished capacity as described in Subsection (1) has a guardian or other person legally entitled to act for the client, the client's lawyer must treat that person as entitled to act with respect to the client's interests in the matter, unless:
 
-> (a\) the lawyer represents the client in a matter against the interests of that person; or
+- (a\) the lawyer represents the client in a matter against the interests of that person; or
 
-> (b\) that person instructs the lawyer to act in a manner that the lawyer knows will violate the person's legal duties toward the client.
+- (b\) that person instructs the lawyer to act in a manner that the lawyer knows will violate the person's legal duties toward the client.
 > 
 (4\) A lawyer representing a client with diminished capacity as described in Subsection (1) may seek the appointment of a guardian or take other protective action within the scope of the representation when doing so is practical and will advance the client's objectives or interests, determined as stated in Subsection (2).
 
@@ -614,9 +614,9 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 (1\) When a lawyer is employed or retained to represent an organization:
 
-> (a\) the lawyer represents the interests of the organization as defined by its responsible agents acting pursuant to the organization's decision-making procedures; and
+- (a\) the lawyer represents the interests of the organization as defined by its responsible agents acting pursuant to the organization's decision-making procedures; and
 
-> (b\) subject to Subsection (2), the lawyer must follow instructions in the representation, as stated in § 21(2), given by persons authorized so to act on behalf of the organization.
+- (b\) subject to Subsection (2), the lawyer must follow instructions in the representation, as stated in § 21(2), given by persons authorized so to act on behalf of the organization.
 
 (2\) If a lawyer representing an organization knows of circumstances indicating that a constituent of the organization has engaged in action or intends to act in a way that violates a legal obligation to the organization that will likely cause substantial injury to it, or that reasonably can be foreseen to be imputable to the organization and likely to result in substantial injury to it, the lawyer must proceed in what the lawyer reasonably believes to be the best interests of the organization.
 

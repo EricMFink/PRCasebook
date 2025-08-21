@@ -52,11 +52,9 @@ The district court noted that Southern District local rule 4B provides that the 
 
 > > (2\) each affected or potentially affected client consents to such representation after full disclosure.
 
-The district court described the _Drill Bits_ complaint as a civil antitrust case, thus somewhat softening Dresser's description of it as an action for fraud or criminal conduct. The court held, "as a matter of law, that there exists no relationship, legal or factual, between the _Cullen Center_ case and the _Drill Bits_ litigation," and that no similarity between _Drill Bits_ and the _CPS_ suits was material. The court concluded that "Godfrey's representation of the plaintiffs in the _Drill Bits_ litigation does not reasonably appear to be or become adversely limited by Susman Godfrey's responsibilities to Dresser in the _CPS_ and _Cullen Center_ cases," and accordingly denied the motion to disqualify. [ * * * ]
+The district court described the _Drill Bits_ complaint as a civil antitrust case, thus somewhat softening Dresser's description of it as an action for fraud or criminal conduct. The court held, "as a matter of law, that there exists no relationship, legal or factual, between the _Cullen Center_ case and the _Drill Bits_ litigation," and that no similarity between _Drill Bits_ and the _CPS_ suits was material. The court concluded that "Godfrey's representation of the plaintiffs in the _Drill Bits_ litigation does not reasonably appear to be or become adversely limited by Susman Godfrey's responsibilities to Dresser in the _CPS_ and _Cullen Center_ cases," and accordingly denied the motion to disqualify.
 
 #### II
-
-[ * * * ]
 
 In evaluating a motion to disqualify, we interpret the controlling ethical norms governing professional conduct as we would any other source of law. When the facts are undisputed, district courts enjoy no particular advantage over appellate courts in formulating ethical rules to govern motions to disqualify. Thus, in the event an appropriate standard for disqualification is based on a state's disciplinary rules, a court of appeals should consider the district court's interpretation of the state disciplinary rules as an interpretation of law, subject essentially to _de novo_ consideration.
 
@@ -1286,9 +1284,9 @@ If Attorney J is disqualified under any provision of Rule 1.9, Rule 1.10(c) perm
 
 > when a lawyer becomes associated with a firm, no lawyer associated in the firm shall knowingly represent a person in a matter in which that lawyer is disqualified under Rule 1.9 unless:
 
-	- (1\) the personally disqualified lawyer is timely screened from any participation in the matter; and
+> > (1\) the personally disqualified lawyer is timely screened from any participation in the matter; and
 
-	- (2\) written notice is promptly given to any affected former client to enable it to ascertain compliance with the provisions of this Rule.
+> > (2\) written notice is promptly given to any affected former client to enable it to ascertain compliance with the provisions of this Rule.
 
 Comment \[4\] to Rule 1.9, which relates to lawyers moving between firms, elucidates the policy considerations justifying the use of screens in this situation:
 

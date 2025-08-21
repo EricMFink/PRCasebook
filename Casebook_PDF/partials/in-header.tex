@@ -35,12 +35,23 @@
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
 
-\renewcommand{\footnotesize}{\scriptsize}
-\renewcommand{\captionsize}{\small\itshape}
+% font style & text alignment for margin notes
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
-
 \renewcommand*{\raggedleftmarginnote}{\raggedright}
 
+% smaller sizes for footnotes & captions
+\renewcommand{\footnotesize}{\scriptsize}
+\renewcommand{\captionsize}{\small\itshape}
+
+% smaller font size, more space between rows, for tables 
+\newcommand{\tablefont}{\footnotesize} 
+\AtBeginEnvironment{tabular}{\tablefont}
+\AtBeginEnvironment{tabular*}{\tablefont} 
+\AtBeginEnvironment{longtable}{\tablefont}
+\AtBeginEnvironment{longtable*}{\tablefont} 
+\renewcommand{\arraystretch}{2}
+
+% no label for unordered lists; needed to use ul for legal code; use Unicode Character “•” (U+2022) for bullet
 \usepackage{enumitem}
 \setlist[itemize]{label={}}
 \renewcommand{\labelitemi}{}

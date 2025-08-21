@@ -144,12 +144,23 @@
     BoldItalicFont = adelle-sans-italic.otf ]
 \setmonofont[Scale=0.90]{LFT Etica Mono}
 
-\renewcommand{\footnotesize}{\scriptsize}
-\renewcommand{\captionsize}{\small\itshape}
+% font style & text alignment for margin notes
 \renewcommand{\marginfont}{\color{RacingGreen}\sffamily\scriptsize}
-
 \renewcommand*{\raggedleftmarginnote}{\raggedright}
 
+% smaller sizes for footnotes & captions
+\renewcommand{\footnotesize}{\scriptsize}
+\renewcommand{\captionsize}{\small\itshape}
+
+% smaller font size, more space between rows, for tables 
+\newcommand{\tablefont}{\footnotesize} 
+\AtBeginEnvironment{tabular}{\tablefont}
+\AtBeginEnvironment{tabular*}{\tablefont} 
+\AtBeginEnvironment{longtable}{\tablefont}
+\AtBeginEnvironment{longtable*}{\tablefont} 
+\renewcommand{\arraystretch}{2}
+
+% no label for unordered lists; needed to use ul for legal code; use Unicode Character “•” (U+2022) for bullet
 \usepackage{enumitem}
 \setlist[itemize]{label={}}
 \renewcommand{\labelitemi}{}
@@ -5139,16 +5150,16 @@ the Florida Bar Advertising Workshop.
 \subsubsection{Background and Procedural
 History}\label{background-and-procedural-history}
 
-On January 12, 2004, The Florida Bar filed complaints against the
+On
+{\marginnote{\begin{footnotesize}\pandocbounded{\includegraphics[keepaspectratio]{../img/Pitbull.jpg}}\end{footnotesize}}}
+January 12, 2004, The Florida Bar filed complaints against the
 attorneys, alleging that their law firm's television advertisement was
 an improper communication concerning the services provided, in violation
-of the Rules of Professional Conduct. The advertisement
-{\marginnote{\begin{footnotesize}\pandocbounded{\includegraphics[keepaspectratio]{../img/Pitbull.jpg}}\end{footnotesize}}}
-included a logo that featured an image of a pit bull wearing a spiked
-collar and prominently displayed the firm's phone number,
-1-800-PIT-BULL. The Bar asserted that this advertisement violated the
-2004 version of Rules Regulating the Florida Bar 4-7.2(b)(3) and
-4-7.2(b)(4), which state:
+of the Rules of Professional Conduct. The advertisement included a logo
+that featured an image of a pit bull wearing a spiked collar and
+prominently displayed the firm's phone number, 1-800-PIT-BULL. The Bar
+asserted that this advertisement violated the 2004 version of Rules
+Regulating the Florida Bar 4-7.2(b)(3) and 4-7.2(b)(4), which state:
 
 \begin{quote}
 (3) Descriptive Statements. A lawyer shall not make statements
@@ -8856,15 +8867,14 @@ A relationship of client and lawyer arises when:
 (1) a person manifests to a lawyer the person's intent that the lawyer
 provide legal services for the person; and either
 
-\begin{quote}
-(a) the lawyer manifests to the person consent to do so; or
-\end{quote}
-
-\begin{quote}
-(b) the lawyer fails to manifest lack of consent to do so, and the
-lawyer knows or reasonably should know that the person reasonably relies
-on the lawyer to provide the services; or
-\end{quote}
+\begin{itemize}
+\item
+  (a) the lawyer manifests to the person consent to do so; or
+\item
+  (b) the lawyer fails to manifest lack of consent to do so, and the
+  lawyer knows or reasonably should know that the person reasonably
+  relies on the lawyer to provide the services; or
+\end{itemize}
 
 (2) a tribunal with power to do so appoints the lawyer to provide the
 services.
@@ -9567,7 +9577,7 @@ litigation, I will deny Annuity's motion to disqualify Friedman and
 Dilworth. I will require that Dilworth continue to screen Biemer from
 any involvement in this case.
 
-\subsection{Declining and Terminating
+\section{Declining and Terminating
 Representation}\label{declining-and-terminating-representation}
 
 \subsection{Model Rules of Professional Conduct, Rule
@@ -9647,29 +9657,22 @@ order of a tribunal requiring the representation to continue.
 (2) Subject to Subsection (1) and § 33, a lawyer's actual authority to
 represent a client ends when:
 
-\begin{quote}
-(a) the client discharges the lawyer;
-\end{quote}
-
-\begin{quote}
-(b) the client dies or, in the case of a corporation or similar
-organization, loses its capacity to function as such;
-\end{quote}
-
-\begin{quote}
-(c) the lawyer withdraws;
-\end{quote}
-
-\begin{quote}
-(d) the lawyer dies or becomes physically or mentally incapable of
-providing representation, is disbarred or suspended from practicing law,
-or is ordered by a tribunal to cease representing a client; or
-\end{quote}
-
-\begin{quote}
-(e) the representation ends as provided by contract or because the
-lawyer has completed the contemplated services.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the client discharges the lawyer;
+\item
+  (b) the client dies or, in the case of a corporation or similar
+  organization, loses its capacity to function as such;
+\item
+  (c) the lawyer withdraws;
+\item
+  (d) the lawyer dies or becomes physically or mentally incapable of
+  providing representation, is disbarred or suspended from practicing
+  law, or is ordered by a tribunal to cease representing a client; or
+\item
+  (e) the representation ends as provided by contract or because the
+  lawyer has completed the contemplated services.
+\end{itemize}
 
 (3) A lawyer's apparent authority to act for a client with respect to
 another person ends when the other person knows or should know of facts
@@ -9689,69 +9692,51 @@ time.
 where representation has commenced, must withdraw from the
 representation of a client if:
 
-\begin{quote}
-(a) the representation will result in the lawyer's violating rules of
-professional conduct or other law;
-\end{quote}
-
-\begin{quote}
-(b) the lawyer's physical or mental condition materially impairs the
-lawyer's ability to represent the client; or
-\end{quote}
-
-\begin{quote}
-(c) the client discharges the lawyer.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the representation will result in the lawyer's violating rules of
+  professional conduct or other law;
+\item
+  (b) the lawyer's physical or mental condition materially impairs the
+  lawyer's ability to represent the client; or
+\item
+  (c) the client discharges the lawyer.
+\end{itemize}
 
 (3) Subject to Subsections (4) and (5), a lawyer may withdraw from
 representing a client if:
 
-\begin{quote}
-(a) withdrawal can be accomplished without material adverse effect on
-the interests of the client;
-\end{quote}
-
-\begin{quote}
-(b) the lawyer reasonably believes withdrawal is required in
-circumstances stated in Subsection (2);
-\end{quote}
-
-\begin{quote}
-(c) the client gives informed consent;
-\end{quote}
-
-\begin{quote}
-(d) the client persists in a course of action involving the lawyer's
-services that the lawyer reasonably believes is criminal, fraudulent, or
-in breach of the client's fiduciary duty;
-\end{quote}
-
-\begin{quote}
-(e) the lawyer reasonably believes the client has used or threatens to
-use the lawyer's services to perpetrate a crime or fraud;
-\end{quote}
-
-\begin{quote}
-(f) the client insists on taking action that the lawyer considers
-repugnant or imprudent;
-\end{quote}
-
-\begin{quote}
-(g) the client fails to fulfill a substantial financial or other
-obligation to the lawyer regarding the lawyer's services and the lawyer
-has given the client reasonable warning that the lawyer will withdraw
-unless the client fulfills the obligation;
-\end{quote}
-
-\begin{quote}
-(h) the representation has been rendered unreasonably difficult by the
-client or by the irreparable breakdown of the client-lawyer
-relationship; or
-\end{quote}
-
-\begin{quote}
-(i) other good cause for withdrawal exists.
-\end{quote}
+\begin{itemize}
+\item
+  (a) withdrawal can be accomplished without material adverse effect on
+  the interests of the client;
+\item
+  (b) the lawyer reasonably believes withdrawal is required in
+  circumstances stated in Subsection (2);
+\item
+  (c) the client gives informed consent;
+\item
+  (d) the client persists in a course of action involving the lawyer's
+  services that the lawyer reasonably believes is criminal, fraudulent,
+  or in breach of the client's fiduciary duty;
+\item
+  (e) the lawyer reasonably believes the client has used or threatens to
+  use the lawyer's services to perpetrate a crime or fraud;
+\item
+  (f) the client insists on taking action that the lawyer considers
+  repugnant or imprudent;
+\item
+  (g) the client fails to fulfill a substantial financial or other
+  obligation to the lawyer regarding the lawyer's services and the
+  lawyer has given the client reasonable warning that the lawyer will
+  withdraw unless the client fulfills the obligation;
+\item
+  (h) the representation has been rendered unreasonably difficult by the
+  client or by the irreparable breakdown of the client-lawyer
+  relationship; or
+\item
+  (i) other good cause for withdrawal exists.
+\end{itemize}
 
 (4) In the case of permissive withdrawal under Subsections (3)(f)-(i), a
 lawyer may not withdraw if the harm that withdrawal would cause
@@ -9778,29 +9763,24 @@ lawyer has not earned.
 
 (2) Following termination of a representation, a lawyer must:
 
-\begin{quote}
-(a) observe obligations to a former client such as those dealing with
-client confidences (see Chapter 5), conflicts of interest (see Chapter
-8), client property and documents (see §§ 44-46), and fee collection
-(see § 41);
-\end{quote}
-
-\begin{quote}
-(b) take no action on behalf of a former client without new
-authorization and give reasonable notice, to those who might otherwise
-be misled, that the lawyer lacks authority to act for the client;
-\end{quote}
-
-\begin{quote}
-(c) take reasonable steps to convey to the former client any material
-communication the lawyer receives relating to the matter involved in the
-representation; and
-\end{quote}
-
-\begin{quote}
-(d) take no unfair advantage of a former client by abusing knowledge or
-trust acquired by means of the representation.
-\end{quote}
+\begin{itemize}
+\item
+  (a) observe obligations to a former client such as those dealing with
+  client confidences (see Chapter 5), conflicts of interest (see Chapter
+  8), client property and documents (see §§ 44-46), and fee collection
+  (see § 41);
+\item
+  (b) take no action on behalf of a former client without new
+  authorization and give reasonable notice, to those who might otherwise
+  be misled, that the lawyer lacks authority to act for the client;
+\item
+  (c) take reasonable steps to convey to the former client any material
+  communication the lawyer receives relating to the matter involved in
+  the representation; and
+\item
+  (d) take no unfair advantage of a former client by abusing knowledge
+  or trust acquired by means of the representation.
+\end{itemize}
 
 \subsection{Whiting v. Lacara, 187 F. 3d 317 (2d Cir.
 1999)}\label{whiting-v.-lacara-187-f.-3d-317-2d-cir.-1999}
@@ -10457,21 +10437,20 @@ has a guardian or other person legally entitled to act for the client,
 the client's lawyer must treat that person as entitled to act with
 respect to the client's interests in the matter, unless:
 
-\begin{quote}
-(a) the lawyer represents the client in a matter against the interests
-of that person; or
-\end{quote}
-
-\begin{quote}
-(b) that person instructs the lawyer to act in a manner that the lawyer
-knows will violate the person's legal duties toward the client.
-
-(4) A lawyer representing a client with diminished capacity as described
-in Subsection (1) may seek the appointment of a guardian or take other
-protective action within the scope of the representation when doing so
-is practical and will advance the client's objectives or interests,
-determined as stated in Subsection (2).
-\end{quote}
+\begin{itemize}
+\item
+  (a) the lawyer represents the client in a matter against the interests
+  of that person; or
+\item
+  (b) that person instructs the lawyer to act in a manner that the
+  lawyer knows will violate the person's legal duties toward the client.
+  \textgreater{} (4) A lawyer representing a client with diminished
+  capacity as described in Subsection (1) may seek the appointment of a
+  guardian or take other protective action within the scope of the
+  representation when doing so is practical and will advance the
+  client's objectives or interests, determined as stated in Subsection
+  (2).
+\end{itemize}
 
 \subsection{Disciplinary Counsel v. Jarvis, 205 N.E.3d 499 (Ohio
 2022)}\label{disciplinary-counsel-v.-jarvis-205-n.e.3d-499-ohio-2022}
@@ -10821,17 +10800,16 @@ Client}\label{representing-an-organization-as-client}
 
 (1) When a lawyer is employed or retained to represent an organization:
 
-\begin{quote}
-(a) the lawyer represents the interests of the organization as defined
-by its responsible agents acting pursuant to the organization's
-decision-making procedures; and
-\end{quote}
-
-\begin{quote}
-(b) subject to Subsection (2), the lawyer must follow instructions in
-the representation, as stated in § 21(2), given by persons authorized so
-to act on behalf of the organization.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the lawyer represents the interests of the organization as defined
+  by its responsible agents acting pursuant to the organization's
+  decision-making procedures; and
+\item
+  (b) subject to Subsection (2), the lawyer must follow instructions in
+  the representation, as stated in § 21(2), given by persons authorized
+  so to act on behalf of the organization.
+\end{itemize}
 
 (2) If a lawyer representing an organization knows of circumstances
 indicating that a constituent of the organization has engaged in action
@@ -12668,58 +12646,49 @@ within the meaning of § 52 in each of the following circumstances:
 
 (2) to a nonclient when and to the extent that:
 
-\begin{quote}
-(a) the lawyer or (with the lawyer's acquiescence) the lawyer's client
-invites the nonclient to rely on the lawyer's opinion or provision of
-other legal services, and the nonclient so relies; and
-\end{quote}
-
-\begin{quote}
-(b) the nonclient is not, under applicable tort law, too remote from the
-lawyer to be entitled to protection;
-\end{quote}
+\begin{itemize}
+\item
+  (a) the lawyer or (with the lawyer's acquiescence) the lawyer's client
+  invites the nonclient to rely on the lawyer's opinion or provision of
+  other legal services, and the nonclient so relies; and
+\item
+  (b) the nonclient is not, under applicable tort law, too remote from
+  the lawyer to be entitled to protection;
+\end{itemize}
 
 (3) to a nonclient when and to the extent that:
 
-\begin{quote}
-(a) the lawyer knows that a client intends as one of the primary
-objectives of the representation that the lawyer's services benefit the
-nonclient;
-\end{quote}
-
-\begin{quote}
-(b) such a duty would not significantly impair the lawyer's performance
-of obligations to the client; and
-\end{quote}
-
-\begin{quote}
-(c) the absence of such a duty would make enforcement of those
-obligations to the client unlikely; and
-\end{quote}
+\begin{itemize}
+\item
+  (a) the lawyer knows that a client intends as one of the primary
+  objectives of the representation that the lawyer's services benefit
+  the nonclient;
+\item
+  (b) such a duty would not significantly impair the lawyer's
+  performance of obligations to the client; and
+\item
+  (c) the absence of such a duty would make enforcement of those
+  obligations to the client unlikely; and
+\end{itemize}
 
 (4) to a nonclient when and to the extent that:
 
-\begin{quote}
-(a) the lawyer's client is a trustee, guardian, executor, or fiduciary
-acting primarily to perform similar functions for the nonclient;
-\end{quote}
-
-\begin{quote}
-(b) the lawyer knows that appropriate action by the lawyer is necessary
-with respect to a matter within the scope of the representation to
-prevent or rectify the breach of a fiduciary duty owed by the client to
-the nonclient, where (i) the breach is a crime or fraud or (ii) the
-lawyer has assisted or is assisting the breach;
-\end{quote}
-
-\begin{quote}
-(c) the nonclient is not reasonably able to protect its rights; and
-\end{quote}
-
-\begin{quote}
-(d) such a duty would not significantly impair the performance of the
-lawyer's obligations to the client.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the lawyer's client is a trustee, guardian, executor, or fiduciary
+  acting primarily to perform similar functions for the nonclient;
+\item
+  (b) the lawyer knows that appropriate action by the lawyer is
+  necessary with respect to a matter within the scope of the
+  representation to prevent or rectify the breach of a fiduciary duty
+  owed by the client to the nonclient, where (i) the breach is a crime
+  or fraud or (ii) the lawyer has assisted or is assisting the breach;
+\item
+  (c) the nonclient is not reasonably able to protect its rights; and
+\item
+  (d) such a duty would not significantly impair the performance of the
+  lawyer's obligations to the client.
+\end{itemize}
 
 \subsection{Rest. (2d) of the Law Governing Lawyers §
 52}\label{rest.-2d-of-the-law-governing-lawyers-52}
@@ -12733,23 +12702,21 @@ exercised by lawyers in similar circumstances.
 (2) Proof of a violation of a rule or statute regulating the conduct of
 lawyers:
 
-\begin{quote}
-(a) does not give rise to an implied cause of action for professional
-negligence or breach of fiduciary duty;
-\end{quote}
-
-\begin{quote}
-(b) does not preclude other proof concerning the duty of care in
-Subsection (1) or the fiduciary duty; and
-\end{quote}
-
-\begin{quote}
-(c) may be considered by a trier of fact as an aid in understanding and
-applying the standard of Subsection (1) or § 49 to the extent that (i)
-the rule or statute was designed for the protection of persons in the
-position of the claimant and (ii) proof of the content and construction
-of such a rule or statute is relevant to the claimant's claim.
-\end{quote}
+\begin{itemize}
+\item
+  (a) does not give rise to an implied cause of action for professional
+  negligence or breach of fiduciary duty;
+\item
+  (b) does not preclude other proof concerning the duty of care in
+  Subsection (1) or the fiduciary duty; and
+\item
+  (c) may be considered by a trier of fact as an aid in understanding
+  and applying the standard of Subsection (1) or § 49 to the extent that
+  (i) the rule or statute was designed for the protection of persons in
+  the position of the claimant and (ii) proof of the content and
+  construction of such a rule or statute is relevant to the claimant's
+  claim.
+\end{itemize}
 
 \subsection{Rest. (2d) of the Law Governing Lawyers §
 53}\label{rest.-2d-of-the-law-governing-lawyers-53}
@@ -12780,28 +12747,26 @@ for malpractice is unenforceable.
 (3) The client or former client may rescind an agreement settling a
 claim by the client or former client against the person's lawyer if:
 
-\begin{quote}
-(a) the client or former client was subjected to improper pressure by
-the lawyer in reaching the settlement; or
-\end{quote}
-
-\begin{quote}
-(b) (i) the client or former client was not independently represented in
-negotiating the settlement, and (ii) the settlement was not fair and
-reasonable to the client or former client.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the client or former client was subjected to improper pressure by
+  the lawyer in reaching the settlement; or
+\item
+  (b) (i) the client or former client was not independently represented
+  in negotiating the settlement, and (ii) the settlement was not fair
+  and reasonable to the client or former client.
+\end{itemize}
 
 (4) For purposes of professional discipline, a lawyer may not:
 
-\begin{quote}
-(a) make an agreement prospectively limiting the lawyer's liability to a
-client for malpractice; or
-\end{quote}
-
-\begin{quote}
-(b) settle a claim for such liability with an unrepresented client or
-former client
-\end{quote}
+\begin{itemize}
+\item
+  (a) make an agreement prospectively limiting the lawyer's liability to
+  a client for malpractice; or
+\item
+  (b) settle a claim for such liability with an unrepresented client or
+  former client
+\end{itemize}
 
 without first advising that person in writing that independent
 representation is appropriate in connection therewith.
@@ -12839,20 +12804,17 @@ Liability}\label{nonclient-claimscertain-defenses-and-exceptions-to-liability}
 (1) In addition to other absolute or conditional privileges, a lawyer is
 absolutely privileged to publish matter concerning a nonclient if:
 
-\begin{quote}
-(a) the publication occurs in communications preliminary to a reasonably
-anticipated proceeding before a tribunal or in the institution or during
-the course and as a part of such a proceeding;
-\end{quote}
-
-\begin{quote}
-(b) the lawyer participates as counsel in that proceeding; and
-\end{quote}
-
-\begin{quote}
-(c) the matter is published to a person who may be involved in the
-proceeding, and the publication has some relation to the proceeding.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the publication occurs in communications preliminary to a
+  reasonably anticipated proceeding before a tribunal or in the
+  institution or during the course and as a part of such a proceeding;
+\item
+  (b) the lawyer participates as counsel in that proceeding; and
+\item
+  (c) the matter is published to a person who may be involved in the
+  proceeding, and the publication has some relation to the proceeding.
+\end{itemize}
 
 (2) A lawyer representing a client in a civil proceeding or procuring
 the institution of criminal proceedings by a client is not liable to a
@@ -12886,9 +12848,6 @@ with the firm.
 partnership without limited liability as authorized by law is
 vicariously liable for the acts of another principal or employee of the
 firm to the extent provided by law.
-
-\subsection{Model Rules of Professional
-Conduct}\label{model-rules-of-professional-conduct-1}
 
 \subsection{Model Rules of Professional Conduct, Rule
 1.8}\label{model-rules-of-professional-conduct-rule-1.8-2}
@@ -16329,10 +16288,7 @@ disclosure constituted ineffective assistance of counsel, holding there
 was no breach of the duty of confidentiality and no actual conflict of
 interest. We affirm.
 
-\subsubsection{I. Background}\label{i.-background-1}
-
-\paragraph{A. Offense, Arrest and
-Conviction}\label{a.-offense-arrest-and-conviction}
+\subsubsection{Background}\label{background-1}
 
 On Tuesday, April 24, 1984, the body of Carol Jones was found in her
 home in Grants Pass, Oregon. She had been struck numerous times on the
@@ -16364,9 +16320,6 @@ children's bodies and introduced testimony regarding the anonymous phone
 call. McClure was found guilty of all three murders and was sentenced to
 three consecutive life sentences with 30-year minimums. On direct
 appeal, his conviction was affirmed without opinion.
-
-\paragraph{B. Disclosure of the Children's
-Whereabouts}\label{b.-disclosure-of-the-childrens-whereabouts}
 
 The parties agree that Mecca and McClure met at the jail and spoke on
 the telephone on a number of occasions between April 28 and May 1.
@@ -16571,8 +16524,6 @@ had were about where Mecca might find dead ``bodies,'' not live
 admitting to having killed them. He testified that Mecca never told him
 that he intended to make an anonymous telephone call.
 
-\subsubsection{III. Discussion}\label{iii.-discussion}
-
 McClure's single claim is that habeas relief is appropriate because he
 received ineffective assistance of counsel under the Sixth Amendment. He
 asserts three independent grounds on which ineffectiveness could be
@@ -16585,8 +16536,8 @@ prevent the deaths of the children. The third ground is that the primacy
 of Mecca's concern for the victims constituted a conflict of interest
 that rendered Mecca's counsel constitutionally ineffective.
 
-\paragraph{A. The Duty of
-Confidentiality}\label{a.-the-duty-of-confidentiality}
+\subsubsection{The Duty of
+Confidentiality}\label{the-duty-of-confidentiality}
 
 McClure contends that Mecca's disclosure of McClure's confidential
 statements about the location of the children violated McClure's Sixth
@@ -16632,7 +16583,8 @@ imminent death or substantial bodily harm.'' We conclude that the first
 of these exceptions does not apply to justify Mecca's behavior, but that
 the second does.
 
-\emph{1. Consent After Consultation}
+\paragraph{1. Consent After
+Consultation}\label{consent-after-consultation}
 
 McClure argues that Mecca rendered constitutionally ineffective
 assistance because he breached his duty of confidentiality by not
@@ -16644,8 +16596,6 @@ deference to both the state court's factual findings and the district
 court's credibility determination leads us to hold that the first of
 these elements was met. However, despite this deference, we hold that
 the second element was not met.
-
-\emph{a. Consent}
 
 The state court made the following finding: ``Trial counsel received
 petitioner's permission to anonymously disclose the whereabouts of the
@@ -16698,8 +16648,6 @@ McClure's, and found the discrepancies in Mecca's testimony to be
 the factfinder's choice between them cannot be clearly erroneous.'' We
 therefore hold that McClure gave his consent to the disclosure.
 
-\emph{b. Consultation}
-
 However, the mere fact of consent is not sufficient to excuse what would
 otherwise be a breach of the duty of confidentiality. Consent must also
 be informed. That is, the client can provide valid consent only if there
@@ -16743,7 +16691,8 @@ duty of confidentiality, his failure to obtain informed consent would
 demonstrate constitutionally deficient performance under the Sixth
 Amendment.
 
-\emph{2. Prevention of Further Criminal Acts}
+\paragraph{2. Prevention of Further Criminal
+Acts}\label{prevention-of-further-criminal-acts}
 
 The State contends that, even if Mecca did not have informed consent,
 his revelation of client confidences did not amount to ineffective
@@ -17015,30 +16964,28 @@ Exceptions}\label{invoking-the-privilege-and-its-exceptions}
 (1) When an attempt is made to introduce in evidence or obtain discovery
 of a communication privileged under § 68:
 
-\begin{quote}
-(a) A client, a personal representative of an incompetent or deceased
-client, or a person succeeding to the interest of a client may invoke or
-waive the privilege, either personally or through counsel or another
-authorized agent.
-\end{quote}
+\begin{itemize}
+\item
+  (a) A client, a personal representative of an incompetent or deceased
+  client, or a person succeeding to the interest of a client may invoke
+  or waive the privilege, either personally or through counsel or
+  another authorized agent.
+\item
+  (b) A lawyer, an agent of the lawyer, or an agent of a client from
+  whom a privileged communication is sought must invoke the privilege
+  when doing so appears reasonably appropriate, unless the client:
 
-\begin{quote}
-(b) A lawyer, an agent of the lawyer, or an agent of a client from whom
-a privileged communication is sought must invoke the privilege when
-doing so appears reasonably appropriate, unless the client:
-\end{quote}
-
-\begin{verbatim}
-- (i\) has waived the privilege; or
-
-- (ii\) has authorized the lawyer or agent to waive it.
-\end{verbatim}
-
-\begin{quote}
-(c) Notwithstanding failure to invoke the privilege as specified in
-Subsections (1)(a) and (1)(b), the tribunal has discretion to invoke the
-privilege.
-\end{quote}
+  \begin{itemize}
+  \item
+    (i) has waived the privilege; or
+  \item
+    (ii) has authorized the lawyer or agent to waive it.
+  \end{itemize}
+\item
+  (c) Notwithstanding failure to invoke the privilege as specified in
+  Subsections (1)(a) and (1)(b), the tribunal has discretion to invoke
+  the privilege.
+\end{itemize}
 
 (2) A person invoking the privilege must ordinarily object
 contemporaneously to an attempt to disclose the communication and, if
@@ -18597,7 +18544,7 @@ respect to the other two documents, we affirm the district court's
 decision that Dow did not waive work-product protection when it
 disclosed them to Deloitte.
 
-\subsubsection{I. Background}\label{i.-background-2}
+\subsubsection{I. Background}\label{i.-background-1}
 
 This discovery dispute arises from ongoing tax litigation in the U.S.
 District Court for the Middle District of Louisiana. The litigation
@@ -19087,10 +19034,15 @@ defined in § 70;
 
 (3) concerns a legal matter of interest to the organization; and
 
-(4) is disclosed only to: \textgreater{} (a) privileged persons as
-defined in § 70; and \textgreater{} (b) other agents of the organization
-who reasonably need to know of the communication in order to act for the
-organization.
+(4) is disclosed only to:
+
+\begin{itemize}
+\item
+  (a) privileged persons as defined in § 70; and
+\item
+  (b) other agents of the organization who reasonably need to know of
+  the communication in order to act for the organization.
+\end{itemize}
 
 \subsection{Rest. (2d) of the Law Governing Lawyers §
 74}\label{rest.-2d-of-the-law-governing-lawyers-74}
@@ -19684,7 +19636,7 @@ opportunity to respond and ruled erroneously that, by failing to keep
 confidential the contents of the documents, the company had waived the
 attorney-client privilege.
 
-\subsubsection{I. Background}\label{i.-background-3}
+\subsubsection{I. Background}\label{i.-background-2}
 
 GlaxoSmithKline manufactures paroxteine hydrochloride hemihydrate under
 the brand name Paxil, the annual sales of which in the United States
@@ -19918,15 +19870,14 @@ lawyer, or another authorized agent of the client:
 
 (2) disclaims protection of the privilege and
 
-\begin{quote}
-(a) another person reasonably relies on the disclaimer to that person's
-detriment; or
-\end{quote}
-
-\begin{quote}
-(b) reasons of judicial administration require that the client not be
-permitted to revoke the disclaimer; or
-\end{quote}
+\begin{itemize}
+\item
+  (a) another person reasonably relies on the disclaimer to that
+  person's detriment; or
+\item
+  (b) reasons of judicial administration require that the client not be
+  permitted to revoke the disclaimer; or
+\end{itemize}
 
 (3) in a proceeding before a tribunal, fails to object properly to an
 attempt by another person to give or exact testimony or other evidence
@@ -19951,27 +19902,27 @@ Issue}\label{putting-assistance-or-a-communication-in-issue}
 communication if the client asserts as to a material issue in a
 proceeding that:
 
-\begin{quote}
-(a) the client acted upon the advice of a lawyer or that the advice was
-otherwise relevant to the legal significance of the client's conduct; or
-\end{quote}
-
-\begin{quote}
-(b) a lawyer's assistance was ineffective, negligent, or otherwise
-wrongful.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the client acted upon the advice of a lawyer or that the advice
+  was otherwise relevant to the legal significance of the client's
+  conduct; or
+\item
+  (b) a lawyer's assistance was ineffective, negligent, or otherwise
+  wrongful.
+\end{itemize}
 
 (2) The attorney-client privilege is waived for a recorded communication
 if a witness:
 
-\begin{quote}
-(a) employs the communication to aid the witness while testifying; or
-\end{quote}
-
-\begin{quote}
-(b) employed the communication in preparing to testify, and the tribunal
-finds that disclosure is required in the interests of justice.
-\end{quote}
+\begin{itemize}
+\item
+  (a) employs the communication to aid the witness while testifying; or
+\item
+  (b) employed the communication in preparing to testify, and the
+  tribunal finds that disclosure is required in the interests of
+  justice.
+\end{itemize}
 
 \subsection{Rest. (2d) of the Law Governing Lawyers §
 81}\label{rest.-2d-of-the-law-governing-lawyers-81}
@@ -20071,15 +20022,14 @@ another authorized agent of the client:
 
 (2) disclaims protection of the immunity and:
 
-\begin{quote}
-(a) another person reasonably relies on the disclaimer to that person's
-detriment; or
-\end{quote}
-
-\begin{quote}
-(b) reasons of judicial administration require that the client not be
-permitted to revoke the disclaimer; or
-\end{quote}
+\begin{itemize}
+\item
+  (a) another person reasonably relies on the disclaimer to that
+  person's detriment; or
+\item
+  (b) reasons of judicial administration require that the client not be
+  permitted to revoke the disclaimer; or
+\end{itemize}
 
 (3) in a proceeding before a tribunal, fails to object properly to an
 attempt by another person to give or exact testimony or other evidence
@@ -20098,27 +20048,26 @@ Litigation}\label{use-of-lawyer-work-product-in-litigation}
 (1) Work-product immunity is waived for any relevant material if the
 client asserts as to a material issue in a proceeding that:
 
-\begin{quote}
-(a) the client acted upon the advice of a lawyer or that the advice was
-otherwise relevant to the legal significance of the client's conduct; or
-\end{quote}
-
-\begin{quote}
-(b) a lawyer's assistance was ineffective, negligent, or otherwise
-wrongful.
-\end{quote}
+\begin{itemize}
+\item
+  (a) the client acted upon the advice of a lawyer or that the advice
+  was otherwise relevant to the legal significance of the client's
+  conduct; or
+\item
+  (b) a lawyer's assistance was ineffective, negligent, or otherwise
+  wrongful.
+\end{itemize}
 
 (2) The work-product immunity is waived for recorded material if a
 witness:
 
-\begin{quote}
-(a) employs the material to aid the witness while testifying, or
-\end{quote}
-
-\begin{quote}
-(b) employed the material in preparing to testify, and the tribunal
-finds that disclosure is required in the interests of justice.
-\end{quote}
+\begin{itemize}
+\item
+  (a) employs the material to aid the witness while testifying, or
+\item
+  (b) employed the material in preparing to testify, and the tribunal
+  finds that disclosure is required in the interests of justice.
+\end{itemize}
 
 \subsection{Rest. (2d) of the Law Governing Lawyers §
 93}\label{rest.-2d-of-the-law-governing-lawyers-93}
@@ -21543,36 +21492,37 @@ that attorney.
 Comparison}\label{confidentiality-evidentiary-privileges-comparison}
 
 \begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.0995}}
-  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2370}}
-  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.3175}}
-  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.3460}}@{}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2065}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2500}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.3152}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 6\tabcolsep) * \real{0.2283}}@{}}
 \toprule\noalign{}
 \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Scope of Protection}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Duty of Confidentiality
+\textbf{Duty of Confidentiality}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Attorney-Client Communication
+\textbf{Attorney-Client Communication}
 \end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-Attorney Work Product
+\textbf{Attorney Work Product}
 \end{minipage} \\
 \midrule\noalign{}
 \endhead
 \bottomrule\noalign{}
 \endlastfoot
-\emph{Information Protected} & Any information relating to the
+\emph{What is protected} & Any information relating to the
 representation & Private communication between attorney \& client (or
 their agents) & Attorney's mental impressions \\
-\emph{Source of Information} & Any source & Communication between
-attorney \& client & Attorney \\
-\emph{Form of Information} & Any form & Communication (verbal or
-non-verbal) & Tangible (e.g.~documents) or intangible (e.g.~attorney's
+\emph{From what source} & Any source & Communication between attorney \&
+client & Attorney \\
+\emph{In what form} & Any form & Communication (verbal or non-verbal) &
+Tangible (e.g.~documents) or intangible (e.g.~attorney's
 recollections) \\
-\emph{Purpose of Information} & Any purpose & Securing legal
+\emph{Made for what purpose} & Any purpose & Securing legal
 representation or advice & Preparing for litigation \\
-\emph{When Acquired/Created} & Any time & During representation (or
+\emph{When made or acquired} & Any time & During representation (or
 consultation by prospective client) & In anticipation of litigation \\
-\emph{Effect of Protection} & Attorney may not disclose or use for any
+\emph{Effect of protection} & Attorney may not disclose or use for any
 purpose & No compelled testimony or disclosure by client or attorney &
 Protected against discovery \\
 \emph{Waiver} & Only client & Only client & Attorney or client \\
@@ -21871,11 +21821,9 @@ was material. The court concluded that ``Godfrey's representation of the
 plaintiffs in the \emph{Drill Bits} litigation does not reasonably
 appear to be or become adversely limited by Susman Godfrey's
 responsibilities to Dresser in the \emph{CPS} and \emph{Cullen Center}
-cases,'' and accordingly denied the motion to disqualify. {[} * * * {]}
+cases,'' and accordingly denied the motion to disqualify.
 
 \subsubsection{II}\label{ii-12}
-
-{[} * * * {]}
 
 In evaluating a motion to disqualify, we interpret the controlling
 ethical norms governing professional conduct as we would any other
@@ -22189,7 +22137,7 @@ clearly showing that continued representation would be impermissible.
 Vague and unsupported allegations are not sufficient to meet this
 standard.'\,''
 
-\subsubsection{III. Discussion}\label{iii.-discussion-1}
+\subsubsection{III. Discussion}\label{iii.-discussion}
 
 FedEx argues that LLR's representation of Plaintiffs in this action
 creates a concurrent conflict of interest with respect to LLR's
@@ -22927,7 +22875,7 @@ loan closing is, in most instances, a ``nonconsentable'' conflict
 meaning that a lawyer may not ask the borrower and the lender to consent
 to common representation.
 
-\subsubsection{Background:}\label{background-1}
+\subsubsection{Background:}\label{background-2}
 
 In the standard closing of a commercial loan secured by real property (a
 ``commercial loan closing''), the borrower and the lender have separate
@@ -26512,11 +26460,19 @@ the firm shall knowingly represent a person in a matter in which that
 lawyer is disqualified under Rule 1.9 unless:
 \end{quote}
 
-\begin{verbatim}
-- (1\) the personally disqualified lawyer is timely screened from any participation in the matter; and
+\begin{quote}
+\begin{quote}
+(1) the personally disqualified lawyer is timely screened from any
+participation in the matter; and
+\end{quote}
+\end{quote}
 
-- (2\) written notice is promptly given to any affected former client to enable it to ascertain compliance with the provisions of this Rule.
-\end{verbatim}
+\begin{quote}
+\begin{quote}
+(2) written notice is promptly given to any affected former client to
+enable it to ascertain compliance with the provisions of this Rule.
+\end{quote}
+\end{quote}
 
 Comment {[}4{]} to Rule 1.9, which relates to lawyers moving between
 firms, elucidates the policy considerations justifying the use of
@@ -28523,7 +28479,7 @@ unfairly prejudicial and with such willful disregard for a reversal on
 appeal that retrial is barred by double jeopardy under Article II,
 Section 15 of the New Mexico Constitution.
 
-\subsubsection{I. BACKGROUND}\label{i.-background-4}
+\subsubsection{I. BACKGROUND}\label{i.-background-3}
 
 Joseph Morgas (Morgas) went missing in Taos, New Mexico, in August 2019.
 Police had no leads on the case for over a year. Then, in August 2020,
@@ -29797,7 +29753,7 @@ defendant. The trial court dismissed the suit for lack of jurisdiction,
 and the court of appeals affirmed. Because we agree with those courts
 that governmental immunity bars the suit, we also affirm.
 
-\subsubsection{I. Background}\label{i.-background-5}
+\subsubsection{I. Background}\label{i.-background-4}
 
 Eric Hillman served as an assistant district attorney in Nueces County
 for two years. While preparing to prosecute a defendant charged with
