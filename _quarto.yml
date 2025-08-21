@@ -2,14 +2,6 @@ project:
     type: tufte
 
 book:
-  open-graph: true
-  site-url: "https://www.emfink.net/PRCasebook/"
-  output-file: "PRCasebook"
-  title: "Professional Responsibility"
-  title-short: "Professional Responsibility"
-  subtitle: An Open-Source Casebook
-  version: "4.1"
-  license: "CC BY NC SA"
   author:
   - name: Eric M. Fink
     email: efink@elon.edu
@@ -19,6 +11,25 @@ book:
         city: Greensboro
         state: North Carolina
         postal-code: 27278
+  title: "Professional Responsibility"
+  title-short: "Professional Responsibility"
+  subtitle: An Open-Source Casebook
+  version: "4.1, August 2025"
+  license: "CC BY NC SA"
+  site-url: "https://www.emfink.net/PRCasebook/"
+  output-file: "PRCasebook"
+  downloads: [pdf] 
+  sidebar:
+    tools:
+      - icon: github
+        menu:
+          - text: View source code
+            href:  https://github.com/EricMFink/PRCasebook
+          - text: Report an issue
+            href:  https://github.com/EricMFink/PRCasebook/issues/new
+  page-footer:
+      center: 
+        - text: "Last updated: {{< now >}}"
   chapters:
     - index.qmd
     - part: "Front Matter"
