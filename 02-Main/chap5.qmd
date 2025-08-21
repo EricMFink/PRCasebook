@@ -176,7 +176,7 @@ We have concluded that ODC established one ethical violation in addition to thos
 
 ### In re Original Grand Jury Investigation, 89 Ohio St. 3d 544 (Ohio 2000)
 
-**Francis E. Sweeny, Sr., J.**
+#### Francis E. Sweeny, Sr., J.
 
 The issue presented in this case is whether an attorney can be compelled to disclose to the grand jury a letter written by a client and discovered by an investigator that contains evidence of a possible crime or whether the Ohio Code of Professional Responsibility prohibits such disclosure.
 
@@ -216,7 +216,7 @@ Other provisions of the code support our holding that appellant must relinquish 
 
 We agree with the court of appeals that the sanction imposed against appellant stemming from the contempt proceedings should be vacated, given that appellant challenged the subpoena on confidentiality grounds in good faith. Under these circumstances, we do not believe appellant should be punished and held in contempt. The finding of contempt is vacated on condition that appellant comply with the subpoena. Accordingly, we affirm the judgment of the court of appeals and order appellant to relinquish the letter in question to the grand jury.
 
-**PFEIFER, J., concurring in part and dissenting in part.**
+#### PFEIFER, J., concurring in part and dissenting in part.
 
 I agree with the majority that the letter is a client secret and that Helmick was authorized to reveal the intent of his client to commit a crime. DR 4-101(C)(3). Revealing "the information necessary to prevent the crime" should have concluded the matter. Unfortunately, the trial court and now a majority of this court chose to read DR 4-101(C)(2) liberally. That reading of the exception swallows the rule of DR 4-101(B)(1), which states that a lawyer "shall not knowingly reveal a confidence or secret of his client," and declares open season on defense attorney files.
 
@@ -502,7 +502,7 @@ It is the decision of this court that Francis R. Belge conducted himself as an o
 
 ### Hofmann v. Conder, 712 P.2d 216 (Utah 1985)
 
-**Per Curium**
+#### Per Curium
 
 This matter comes before the Court in an extraordinary proceeding to prohibit the district court from compelling petitioner's hospital nurse to testify about statements she overheard petitioner make to his attorney. The trial court made no findings of fact, although it prepared a memorandum decision. It appears from that decision that the controlling issue on which the trial court decided the matter was a legal one, namely, the standard determining when the presence of a third party during communications between a lawyer and client results in a waiver of the attorney-client privilege. We hold that the trial court erred in deciding that the attorney-client privilege applies only if the presence of a third person, who overhears a confidential communication, is "necessary for urgent or life-saving procedures." The proper standard is whether the third person's presence is reasonably necessary under the circumstances.
 
@@ -510,7 +510,7 @@ The record establishes that the presence of petitioner's hospital nurse was reas
 
 The order of the trial court is vacated, and this matter is remanded for the entry of a protective order preventing the disclosure by the witness of confidential communications overheard by her.
 
-**ZIMMERMAN, Justice (dissenting).**
+#### ZIMMERMAN, Justice (dissenting).
 
 I agree that Judge Conder applied the wrong standard in concluding that the presence of the nurse made the attorney-client privilege unavailable. A third person's presence should not avoid an otherwise available privilege if the third person's presence is reasonably necessary under the circumstances. The evidence indicates that the nurse's presence was reasonably necessary for Hofmann's well-being.[^d116]
 
@@ -680,7 +680,7 @@ When work product protection is invoked as described in § 90, opinion work prod
 
 ### Sporck v. Peil, 759 F.2d 312 (3d Cir. 1985)
 
-**JAMES HUNTER, III, Circuit Judge.**
+#### JAMES HUNTER, III, Circuit Judge.
 
 This case arises on a Petition for Writ of Mandamus involving a discovery dispute between the parties to a securities fraud class action suit. The underlying action involves an allegation by plaintiff-respondent Raymond K. Peil that defendant National Semiconductor Corporation, defendant-petitioner Charles F. Sporck, NSC's president, and defendant Peter J. Sprague, NSC's chairman, conspired to inflate artificially the value of NSC stock, in order to enable Sporck and Sprague to sell their own shares at the inflated level. The wrongful conduct alleged includes various misrepresentations and nondisclosures of material facts during an eight-month period continuing from July 1, 1976, until March 1, 1977.
 
@@ -732,7 +732,7 @@ Rule 612, therefore, when properly applied, does not conflict with the protectio
 
 We conclude, therefore, that the trial court committed clear error of law in ordering the identification of the documents selected by counsel. Because we are confident that the district court will proceed in accordance with our opinion without formal issuance of the writ, we will remand to the district court.
 
-**SEITZ, Circuit Judge, dissenting.**
+#### SEITZ, Circuit Judge, dissenting.
 
 The majority approves in effect the use of the work product doctrine to prevent an identification of documents reviewed by a witness in preparation for his deposition. I dissent because I am convinced that such a ruling is an impermissible expansion of the work product doctrine at the expense of legitimate discovery.
 
@@ -872,7 +872,7 @@ Unless applicable law otherwise provides, the attorney-client privilege extends 
 
 ### Upjohn Co. v. United States, 449 U.S. 383 (1981)
 
-**JUSTICE REHNQUIST delivered the opinion of the Court.**
+#### JUSTICE REHNQUIST delivered the opinion of the Court.
 
 We granted certiorari in this case to address important questions concerning the scope of the attorney-client privilege in the corporate context and the applicability of the work-product doctrine in proceedings to enforce tax summonses. With respect to the privilege question the parties and various amici have described our task as one of choosing between two "tests" which have gained adherents in the courts of appeals. We are acutely aware, however, that we sit to decide concrete cases and not abstract propositions of law. We decline to lay down a broad rule or series of rules to govern all conceivable future questions in this area, even were we able to do so. We can and do, however, conclude that the attorney-client privilege protects the communications involved in this case from compelled disclosure and that the work-product doctrine does apply in tax summons enforcement proceedings.
 
@@ -1236,13 +1236,13 @@ Our conclusion that Company's disclosure of the one memorandum constitutes a wai
 
 ### Clark v. United States, 289 U.S. 1 (1933)
 
-**MR. JUSTICE CARDOZO delivered the opinion of the Court.**
+#### MR. JUSTICE CARDOZO delivered the opinion of the Court.
 
 There is a privilege protecting communications between attorney and client. The privilege takes flight if the relation is abused. A client who consults an attorney for advice that will serve him in the commission of a fraud will have no help from the law. He must let the truth be told. There are early cases apparently to the effect that a mere charge of illegality, not supported by any evidence, will set the confidences free. But this conception of the privilege is without support in later rulings. "It is obvious that it would be absurd to say that the privilege could be got rid of merely by making a charge of fraud." To drive the privilege away, there must be "something to give colour to the charge;" there must be "prima facie evidence that it has some foundation in fact." When that evidence is supplied, the seal of secrecy is broken. Nor does the loss of the privilege depend upon the showing of a conspiracy, upon proof that client and attorney are involved in equal guilt. The attorney may be innocent, and still the guilty client must let the truth come out.
 
 ### United States v. Zolin, 491 U.S. 554 (1989)
 
-**JUSTICE BLACKMUN delivered the opinion of the Court.**
+#### JUSTICE BLACKMUN delivered the opinion of the Court.
 
 This case arises out of the efforts of the Criminal Investigation Division of the Internal Revenue Service to investigate the tax returns of L. Ron Hubbard, founder of the Church of Scientology for the calendar years 1979 through 1983. We granted certiorari to consider two issues that have divided the Courts of Appeals. The first is whether, when a district court enforces an IRS summons, the court may condition its enforcement order by placing restrictions on the disclosure of the summoned information. The Court of Appeals in this case upheld the restrictions. We affirm its judgment on that issue by an equally divided Court.
 

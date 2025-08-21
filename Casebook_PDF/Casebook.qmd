@@ -4,7 +4,6 @@ subtitle: "An Open-Source Casebook"
 author: "Eric M. Fink"
 affiliation: "Elon Law School"
 location: "Greensboro, North Carolina"
-pub-date: "August 2025"
 version: "4.1"
 repo: "CivProCasebook"
 

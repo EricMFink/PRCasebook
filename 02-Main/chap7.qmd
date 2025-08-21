@@ -20,7 +20,7 @@
 
 ### Nix v. Whiteside, 475 U.S. 157 (1986)
 
-**CHIEF JUSTICE BURGER delivered the opinion of the Court.**
+#### CHIEF JUSTICE BURGER delivered the opinion of the Court.**
 
 We granted certiorari to decide whether the Sixth Amendment right of a criminal defendant to assistance of counsel is violated when an attorney refuses to cooperate with the defendant in presenting perjured testimony at his trial.
 
@@ -146,7 +146,7 @@ Accordingly, the order of the Appellate Division should be affirmed.
 
 ### State v. Hischke, 639 N.W.2d 6 (Iowa 2002)
 
-**Streit, J.**
+#### Streit, J.
 
 Mark Hischke made an eleventh-hour decision to deny possession of marijuana after previously admitting to the police and his lawyer the marijuana belonged to him. Hischke's trial counsel, John Bishop, informed the court Hischke intended to commit perjury. After a jury trial, the court convicted Hischke of possession of marijuana. Hischke appeals contending he was denied effective assistance of counsel when his trial lawyer alerted the court to his "personal belief" Hischke planned to present perjured testimony. Because we find Bishop had good cause to believe Hischke's proposed testimony would be deliberately untruthful, we affirm.
 
@@ -194,7 +194,7 @@ In finding Bishop's performance was within the normal range of competence we are
 
 We conclude Hischke's trial counsel acted reasonably when he informed the court his client intended to commit perjury. Hischke satisfied the requisite standard that a lawyer must be "convinced with good cause to believe the defendant's proposed testimony would be deliberately untruthful." Because we find Hischke was not denied effective assistance of counsel, we do not address whether Hischke has demonstrated prejudice. We affirm.
 
-**CARTER, Justice (concurring specially)**
+#### CARTER, Justice (concurring specially)
 
 I concur in affirming defendant's conviction.
 
@@ -450,7 +450,7 @@ The prosecutor in a criminal case shall:
 
 (h\) When a prosecutor knows of clear and convincing evidence establishing that a defendant in the prosecutor's jurisdiction was convicted of an offense that the defendant did not commit, the prosecutor shall seek to remedy the conviction.
 
-**Comments**
+##### Comments
 
 [1\] A prosecutor has the responsibility of a minister of justice and not simply that of an advocate. This responsibility carries with it specific obligations to see that the defendant is accorded procedural justice, that guilt is decided upon the basis of sufficient evidence, and that special precautions are taken to prevent and to rectify the conviction of innocent persons. The extent of mandated remedial action is a matter of debate and varies in different jurisdictions. Many jurisdictions have adopted the ABA Standards of Criminal Justice Relating to the Prosecution Function, which are the product of prolonged and careful deliberation by lawyers experienced in both criminal prosecution and defense. Competent representation of the sovereignty may require a prosecutor to undertake some procedural and remedial measures as a matter of obligation. Applicable law may require other measures by the prosecutor and knowing disregard of those obligations or a systematic abuse of prosecutorial discretion could constitute a violation of Rule 8.4.
 
@@ -504,7 +504,7 @@ The prosecutor generally serves the public and not any particular government age
 
 ### Berger v. United States, 295 U.S. 78 (1935)
 
-**MR. JUSTICE SUTHERLAND delivered the opinion of the Court.**
+#### MR. JUSTICE SUTHERLAND delivered the opinion of the Court.
 
 Petitioner was indicted in a federal district court charged with having conspired with seven other persons named in the indictment to utter counterfeit notes purporting to be issued by designated federal reserve banks, with knowledge that they had been counterfeited. The indictment contained eight additional counts alleging substantive offenses. Among the persons named in the indictment were Katz, Rice and Jones. Rice and Jones were convicted by the jury upon two of the substantive counts and the conspiracy count. Petitioner was convicted upon the conspiracy count only. Katz pleaded guilty to the conspiracy count, and testified for the government upon an arrangement that a _nolle prosequi_ as to the substantive counts would be entered. It is not necessary now to refer to the evidence further than to say that it tended to establish not a single conspiracy as charged but two conspiracies — one between Rice and Katz and another between Berger, Jones and Katz. The only connecting link between the two was that Katz was in both conspiracies and the same counterfeit money had to do with both. There was no evidence that Berger was a party to the conspiracy between Rice and Katz. During the trial, the United States attorney who prosecuted the case for the government was guilty of misconduct, both in connection with his cross-examination of witnesses and in his argument to the jury.
 
@@ -720,7 +720,7 @@ Finally, we note that by extending the doctrine of absolute immunity to a prosec
 
 ### In re Jordan, 913 So. 2d 775 (La. 2005)
 
-**TRAYLOR, J.**
+#### TRAYLOR, J.
 
 This attorney disciplinary matter arises from formal charges filed by the Office of Disciplinary Counsel against respondent, Roger W. Jordan, Jr., a former Orleans Parish prosecutor.
 
@@ -826,7 +826,7 @@ As to the issue of aggravating and mitigating factors, we find the only aggravat
 
 As stated above, the issue of discipline against a prosecutor for his violation of Rule 3.8 is _res nova_ in the State of Louisiana. While this Court has the benefit of Rule XIX considerations, we have no prior case law on the issue. However, Louisiana is not the first jurisdiction to address the issue of a prosecutor's failure to disclose evidence to a defendant. Our brethren in North Carolina, Kansas, South Carolina, Ohio and Iowa have imposed discipline against an attorney who fails to disclose evidence pursuant to Brady. Thus, we find some guidance in their decisions. The sanctions imposed in other jurisdictions range from public reprimand or censure to a six-month suspension from the practice of law. Based upon the facts of this case, we conclude the appropriate baseline sanction for respondent's misconduct is a three-month suspension from the practice of law. However, in light of the mitigating factors, we will defer this suspension in its entirety, subject to the condition that any misconduct during a one-year period following the finality of this judgment may be grounds for making the deferred suspension executory, or imposing additional discipline, as appropriate.
 
-**JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.**
+#### JOHNSON, J. concurs in part, dissents in part, for the reasons that follow.
 
 I concur in the majority's opinion that respondent knowingly withheld _Brady_ evidence, that respondent's experience as a prosecutor was an aggravating factor, that the Court's actions in reversing defendant's conviction failed to invalidate the potential injury to the criminal justice system, or to defendant, and that respondent's behavior warrants discipline by this Court. However, because of the actual injury caused by respondent's prosecutorial misconduct, I dissent from the majority's conclusion that respondent's suspension should be deferred.
 
@@ -844,7 +844,7 @@ In determining whether respondent caused an actual injury pursuant to Louisiana'
 
 ### Hillman v. Nueces County, 579 S.W.3d 354 (Tex. 2019)
 
-**JEFFREY S. BOYD, Justice.**
+#### JEFFREY S. BOYD, Justice.
 
 A former assistant district attorney filed this suit alleging that the county wrongfully terminated his employment because he refused his supervisor's order to withhold exculpatory evidence from a criminal defendant. The trial court dismissed the suit for lack of jurisdiction, and the court of appeals affirmed. Because we agree with those courts that governmental immunity bars the suit, we also affirm.
 
@@ -920,7 +920,7 @@ As we have repeatedly confirmed, "it is the Legislature's sole province to waive
 
 "Sovereign immunity from suit defeats a trial court's subject matter jurisdiction." When, as here, a claim falls within the realm of governmental immunity, courts have no jurisdiction to hear the case unless immunity has been waived. We hold that neither _Sabine Pilot_ nor the Michael Morton Act waives the County's governmental immunity from Hillman's wrongful-termination claim, and we defer to the legislature to decide whether such a waiver would be appropriate as a matter of public policy. We affirm the trial court's judgment granting the County's plea to the jurisdiction and dismissing the case.
 
-**Justice GUZMAN, joined by JUSTICE LEHRMANN and JUSTICE DEVINE, concurring.**
+#### Justice GUZMAN, joined by JUSTICE LEHRMANN and JUSTICE DEVINE, concurring.
 
 > _No tyranny is more cruel than the one practiced in the shadow of the laws and under color of justice._[^4852]
 

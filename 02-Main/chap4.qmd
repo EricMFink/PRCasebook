@@ -8,7 +8,7 @@
 
 A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation.
 
-**Comment:**
+##### Comment:
 
 _Legal Knowledge and Skill_
 
@@ -408,7 +408,7 @@ To that, we would simply repeat that all the evidence in this case was submitted
 
 ### Strickland v. Washington, 466 U.S. 668 (1984)
 
-**JUSTICE O'CONNOR delivered the opinion of the Court.**
+#### JUSTICE O'CONNOR delivered the opinion of the Court.
 
 This case requires us to consider the proper standards for judging a criminal defendant's contention that the Constitution requires a conviction or death sentence to be set aside because counsel's assistance at the trial or sentencing was ineffective.
 
@@ -524,7 +524,7 @@ Failure to make the required showing of either deficient performance or sufficie
 
 ### Knowles v. Mirzayance, 556 U.S. 111 (2009)
 
-**Justice THOMAS delivered the opinion of the Court.**
+#### Justice THOMAS delivered the opinion of the Court.
 
 In this case, respondent Alexandre Mirzayance claimed ineffective assistance of counsel because his attorney recommended withdrawing his insanity defense. The California courts rejected this claim on state postconviction review. We must decide whether this decision was contrary to or an unreasonable application of clearly established federal law. We hold that it was not. Mirzayance failed to establish that his counsel's performance was ineffective.
 
@@ -596,7 +596,7 @@ Mirzayance has not shown that the state court's conclusion that there was no ine
 
 ### Lee v. United States, 137 S.Ct. 1958 (2017)
 
-**Chief Justice ROBERTS delivered the opinion of the Court.**
+#### Chief Justice ROBERTS delivered the opinion of the Court.
 
 Petitioner Jae Lee was indicted on one count of possessing ecstasy with intent to distribute. Although he has lived in this country for most of his life, Lee is not a United States citizen, and he feared that a criminal conviction might affect his status as a lawful permanent resident. His attorney assured him there was nothing to worry about---the Government would not deport him if he pleaded guilty. So Lee, who had no real defense to the charge, opted to accept a plea that carried a lesser prison sentence than he would have faced at trial.
 
@@ -662,7 +662,7 @@ We cannot agree that it would be irrational for a defendant in Lee's position to
 
 Lee's claim that he would not have accepted a plea had he known it would lead to deportation is backed by substantial and uncontroverted evidence. Accordingly we conclude Lee has demonstrated a "reasonable probability that, but for his counsel's errors, he would not have pleaded guilty and would have insisted on going to trial.
 
-**Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.**
+#### Justice THOMAS, with whom Justice ALITO joins except for Part I, dissenting.
 
 The Court today holds that a defendant can undo a guilty plea, well after sentencing and in the face of overwhelming evidence of guilt, because he would have chosen to pursue a defense at trial with no reasonable chance of success if his attorney had properly advised him of the immigration consequences of his plea. Neither the Sixth Amendment nor this Court's precedents support that conclusion. I respectfully dissent.
 
@@ -722,7 +722,7 @@ In addition to undermining finality, the Court's rule will impose significant co
 
 ### Ang v. Martin, 114 P.3d 637 (Wash. 2005)
 
-**Owens, J.**
+#### Owens, J.
 
 We are asked to determine whether plaintiffs in a malpractice action against their former criminal defense attorneys were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. The Court of Appeals concluded that, as an element of their negligence claim, plaintiffs were required "to prove innocence in fact and not merely to present evidence of the government's inability to prove guilt." We affirm the Court of Appeals.
 
@@ -780,7 +780,7 @@ In sum, we conclude that the Angs were properly required to prove by a preponder
 
 We conclude that, as plaintiffs in a criminal malpractice action, the Angs were properly required to prove by a preponderance of the evidence that they were actually innocent of the underlying criminal charges. We find no persuasive reasons for this court to follow the minority position and shift the burden to the defendant attorneys to prove that their former clients were actually guilty of the charged crimes.
 
-**SANDERS, J. (dissenting).**
+#### SANDERS, J. (dissenting).
 
 I dissent because the malpractice standard for criminal cases should be the same as civil. There is no reason to invite malpractice in criminal cases by heightening the plaintiff's burden to prove postconviction relief and actual innocence. In every situation a client should rightfully expect competent legal representation.
 
@@ -800,13 +800,13 @@ Legal causation is a subsequent inquiry, asking as a matter of law whether liabi
 
 Here the Angs's defense attorneys, Michael Martin and Richard Hansen, recommended a particular plea agreement. The Angs initially agreed but later withdrew the plea on recommendation from new counsel and were acquitted on all charges at a subsequent trial. They sued their former defense attorneys and a jury found that Martin alone was negligent even though it found the Angs had not proved their innocence by a preponderance of the evidence. Since the latter consideration should be irrelevant, Martin should bear the responsibility for his negligence. I would reverse as to Martin, and remand for a trial on damages.
 
-**ALEXANDER, C.J. (concurring in dissent).**
+#### ALEXANDER, C.J. (concurring in dissent).
 
 I agree with Justice Sanders that the trial court erred in instructing the jury that Jessy and Editha Ang had to prove that they were actually innocent of the crime charged in order to prevail in their legal malpractice claim against attorneys Richard Hansen and Michael Martin. For that reason, we should reverse the Court of Appeals and remand to the trial court for a new trial on the Angs' claim against Martin.
 
 I write separately because, in my view, we should not stop with a determination that the trial court erred but should go further to indicate that the defendant attorney may raise the issue of the plaintiff's actual guilt in the criminal case as an affirmative defense. That was the position taken by the Supreme Court of Alaska in a similar case, _Shaw v. Department of Administration_. There, the court said that because plaintiffs in such actions must already bear the burden of proving that they have obtained postconviction relief from their criminal convictions, they should not have to prove their "actual innocence." The court went on to indicate, however, that the defendant may raise the issue of the plaintiff's "actual guilt" as an affirmative defense and seek to establish it by a preponderance of the evidence. Although the Alaska court did not engage in an extensive discussion of its reasons for placing the burden on the defendant to establish this affirmative defense, it did indicate that putting the burden there is consistent with the requirement that defendants establish traditional affirmative defenses that look to plaintiffs' actions such as contributory/comparative negligence and assumption of the risk. The Alaska rule makes perfect sense to me for that reason and for the additional reason that it is consonant with the traditional notion that one is presumed innocent until proven guilty beyond a reasonable doubt. Furthermore, shifting the burden to the defendant relieves the plaintiff of the almost impossible burden of proving innocence while at the same time addressing the policy concern noted by the majority, that criminals should not benefit from "their own bad acts."
 
-**CHAMBERS, J. (concurring in dissent).**
+#### CHAMBERS, J. (concurring in dissent).
 
 I concur in Justice Sanders' dissent but write separately to express my indignation that this court, based upon the policy of protecting lawyers, would carve out a special protection for criminal defense attorneys whose acts of professional negligence are harmful to their clients. Under this logic, it is not enough for the injured client to prove actual harm from the attorney's failure to meet professional standards; the injured client must also prove that her hands were always clean. Under this logic, why not give immunity to accountants for professional negligence unless the accountant's client can prove he or she never understated income or requested an unavailable deduction, even when the accountants' bad acts caused actual harm to their clients or society? Surely tax dodgers should not profit from their misdeeds. Under this logic, why not give immunity to health care providers who harm their patients unless the patient can prove perfect good health but for the negligence of the provider? Surely the unhealthy should not profit from their illness.
 

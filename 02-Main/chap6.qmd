@@ -170,7 +170,7 @@ A concurrent conflict of interest exists if: "(1) the representation of one clie
 
 A lawyer's representation of one client is directly adverse to another client if the lawyer acts "as an advocate in one matter against a person the lawyer represents in some other matter, even when the matters are wholly unrelated." Pa. R. Prof. Conduct 1.7 cmt. 6.
 
-<p class="case-h4">a\. Will this Court be Required to Find that Service Providers are Liable for FLSA Violations if it Finds FedEx Liable?</p>
+_a\. Will this Court be Required to Find that Service Providers are Liable for FLSA Violations if it Finds FedEx Liable?_
 
 In support of its assertion that LLR's representation of Plaintiffs is directly adverse to the *Carrow* class, FedEx argues that "[a]lthough the Sullivan-Blake plaintiff-drivers name only FedEx Ground, any holding against FedEx Ground will necessarily require the court to find that the Service Providers' pay practices violate the FLSA." FedEx bases this argument on Plaintiffs' assertion that FedEx is Plaintiffs' joint employer in this case. Initially, FedEx raised the same argument in support of its Rule 19(a) Motion to Join, In her January 31, 2020 Memorandum Opinion, Judge Dodge rejected this argument in holding that Service Providers do not have a direct stake in this litigation, explaining:
 
@@ -192,7 +192,7 @@ The *Romero* court further explained that, "while the analysis of the alleged em
 
 In the present action, Plaintiffs will attempt to prove that FedEx is Plaintiffs' joint employer pursuant to the FLSA. There is no logical basis for Plaintiffs to introduce evidence which tends to establish that any other individual or entity is also a joint employer. As such, the interests of Plaintiffs and the *Carrow* class are not adverse in the present action. While some evidence regarding the nature of the relationship between Service Providers and Plaintiffs, as well as the relationship between Service Providers and FedEx, is likely to be introduced, it remains clear that Service Providers are not parties to this action. For that reason, there is no circumstance wherein this Court or a jury will be required to find that Service Providers are Plaintiffs' employers. If Plaintiffs are entitled to overtime compensation under the FLSA and the factfinder finds that FedEx is a joint employer under the FLSA, then FedEx is jointly and severally liable for the damages suffered by Plaintiffs and no finding as to any nonparty's liability is necessary. If the factfinder agrees with FedEx's assertion that it is not Plaintiffs' employer, then FedEx will not be found liable for an FLSA violation, and this case will end with no finding of liability whatsoever. For these reasons, and for those discussed below with respect to joint and several liability, the Court finds that the factfinder will not have to decide whether Service Providers qualify as employers under the FLSA in resolving Plaintiffs' claim against FedEx. Accordingly, a holding against FedEx will not require the Court to find that Service Providers' pay practices also violate the FLSA. FedEx's argument to the contrary is without merit.
 
-<p class="case-h4">b\. Potential Indemnification Claims and Contract Termination</p>
+_b\. Potential Indemnification Claims and Contract Termination_
 
 FedEx asserts that it will pursue indemnification against Service Providers and potentially terminate its contracts with Service Providers if Plaintiffs successfully establish FedEx's liability in this case. While FedEx may pursue such relief, the Court notes that Plaintiffs' success in the present litigation does not guarantee that FedEx will ultimately succeed in an action for indemnification. As discussed above, joint employers may be held jointly and severally liable for violations of the FLSA. With respect to joint and several liability, the Third Circuit has explained:
 
@@ -206,13 +206,13 @@ As discussed above, the factfinder in this action will not be required to make a
 
 For the reasons discussed above, this Court finds that it will not be required to determine that Service Providers, who are not parties to this action, are liable for FLSA violations in order for Plaintiffs to recover. The Court further finds that potential future indemnification suits or contract termination do not present a situation wherein LLR must directly advocate a position that is adverse to either of its clients in the present action. Accordingly, the Court holds that FedEx has not met its burden of clearly establishing that either of these bases supports a finding of a directly adverse relationship with respect to LLR's concurrent representation of its clients.
 
-<p class="case-h4">c\. Potential Cross-Examination of Service Providers</p>
+_c\. Potential Cross-Examination of Service Providers_
 
 The Explanatory Comment to Pennsylvania Rule of Professional Conduct 1.7 provides that "a directly adverse conflict may arise when a lawyer is required to cross-examine a client who appears as a witness in a lawsuit involving another client, *as when the testimony will be damaging to the client who is represented in the lawsuit.*" For the same reasons discussed above, FedEx's assertion regarding LLR's potential cross-examination of Service Providers also fails.
 
 While LLR may be required to ask Service Providers whether Plaintiffs were paid overtime, there is no logical basis for LLR to inquire as to whether Service Providers were *required,* as joint employers pursuant to the FLSA, to pay overtime to Plaintiffs. It is in the best interest of both Plaintiffs and the *Carrow* class that LLR's cross-examination of Service Providers be tailored toward establishing FedEx's, as opposed to nonparty Service Providers', status as a joint employer under the FLSA. As such, LLR's cross-examination of Service Providers will not be adverse to Plaintiffs. Accordingly, the Court finds that FedEx has not met its burden of clearly establishing that any potential testimony elicited from Service Providers by LLR on cross-examination will be damaging to either of LLR's clients. For all of the reasons discussed above, the Court further finds that FedEx has not clearly established that LLR's representation of Plaintiffs is directly adverse to the *Carrow* class.
 
-<p class="case-h1">2\. Is there a Significant Risk that LLR's Representation of either Plaintiffs or the *Carrow* Class will limit LLR's Representation of the Other?
+**2\. Is there a Significant Risk that LLR's Representation of either Plaintiffs or the *Carrow* Class will limit LLR's Representation of the Other?**
 
 Pursuant to Pa. R. Prof. Conduct 1.7(a)(2), a concurrent conflict of interest also exists if "there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer." Pa. R. Prof. Conduct 1.7(a)(2). With respect to whether there exists a significant risk that representation of a client will be materially limited by the lawyer's responsibilities to another client, the comments to Pennsylvania Rule of Professional Conduct 1.7 explain:
 
@@ -598,7 +598,7 @@ The same issues and considerations discussed above would apply if Lawyer wished 
 
 ### In re Morse, 748 S.E.2d 921 (Ga. 2013)
 
-**Per Curium**
+#### Per Curium
 
 This disciplinary matter is before the Court on a Petition for Voluntary Discipline filed by Respondent Jack O. Morse pursuant to Bar Rule 4-227(b)(2) before a formal complaint was issued. In his petition, Morse admits violating Rule 1.8(e) of the Georgia Rules of Professional Conduct set forth in Bar Rule 4-102(d). Although such a violation is punishable by public reprimand, Morse requests the imposition of a Review Panel reprimand. The State Bar has no objection.
 
@@ -606,7 +606,7 @@ Morse, who has been a member of the State Bar since 1972, admits that while repr
 
 Under these specific circumstances, we agree that imposition of a Review Panel reprimand is an appropriate sanction. Accordingly, we accept Morse's petition for voluntary discipline and hereby order that Morse receive a Review Panel reprimand in accordance with Bar Rules 4-102(b)(4) and 4-220(b) for his admitted violation of Rule 1.8(e).
 
-**Blackwell, Justice, concurring.**
+#### Blackwell, Justice, concurring.
 
 I concur fully in the opinion of the Court, but I write separately to remind our readers that a lawyer providing financial assistance to a litigation client is not _always_ a violation of Rule 1.8(e). With two exceptions, Rule 1.8(e) provides that "a lawyer shall not provide financial assistance to a client in connection with pending or contemplated litigation." By its plain terms, the Rule only prohibits the provision of financial assistance to a litigation client to the extent of some "connection" between the financial assistance on the one hand, and the litigation or representation on the other.[^9499] Absent such a "connection," a lawyer may provide financial assistance to a litigation client without running afoul of Rule 1.8(e).
 
@@ -868,7 +868,7 @@ Similarly, the hiring law firm must not engage in substantive employment negotia
 
 ### Disciplinary Counsel v. Sarver, 119 N.E.3d 405 (Ohio 2018)
 
-**Kennedy, J.**
+#### Kennedy, J.
 
 Respondent, Jason Allan Sarver, of Rockbridge, Ohio, Attorney Registration No. 0082073, was admitted to the practice of law in Ohio in 2007.
 
@@ -946,7 +946,7 @@ The board's finding that J.B. freely engaged in a relationship with Sarver ignor
 
 Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio for two years, with 18 months of the suspension stayed on the conditions that he (1) comply with his December 12, 2017 OLAP contract, (2) take the Multistate Professional Responsibility Exam and receive a passing score, (3) in addition to the requirements of Gov.Bar R. X, complete 12 hours of continuing legal education focused on professional ethics or attorney-client relationships, (4) serve a two-year period of monitored probation in accordance with Gov.Bar R. V(21), and (5) engage in no further misconduct. If Sarver fails to comply with any condition of the stay, the stay will be lifted and he will serve the full two-year suspension. 
 
-**Fischer, J., concurs in part and dissents in part, with an opinion joined by O'Connor, C.J., and DeGenaro, J.**
+#### Fischer, J., concurs in part and dissents in part, with an opinion joined by O'Connor, C.J., and DeGenaro, J.
 
 The sanction recommended by the Board of Professional Conduct, with the inclusion of conditions such as probation, is much improved from the previous discipline-by-consent agreement submitted to this court. I agree with the majority's position, however, that a two-year suspension, with the entire suspension stayed on the conditions recommended by the board, is an unsuitable sanction in this case. Although I agree with much of the majority's analysis, I believe that given the circumstances of this case, a longer actual suspension of respondent Jason Allan Sarver's Ohio law license is warranted and is necessary to protect the public. Specifically, I find that a two-year suspension, with one year stayed on the conditions recommended by the board, would be a more appropriate sanction in this case. Therefore, I respectfully concur in part and dissent in part.
 
@@ -1078,7 +1078,7 @@ On April 9, 1982, Dempsey filed several motions on behalf of Gutting, including 
 
 #### Discussion
 
-<p class="case-h4">2\. Conflicts of Interest of Gutting's Counsel.</p>
+##### 2\. Conflicts of Interest of Gutting's Counsel.
 
 Gutting contends that the late responses should have been allowed because Falstaff's motion to disqualify McClellan and Wilson's withdrawal due to his conflict of interest rendered her without effective representation. The conflicts of interest experienced by McClellan and Wilson disrupted their professional duties to take actions best suited to furthering Gutting's interests. Once the conflicts became apparent, each attorney became unable to exercise his independent professional judgment. Gutting seems to be arguing that she should not be penalized because of her attorney's "inability" to take actions on her behalf. We agree that her counsels' conflicts of interest should have been considered by the district court.
 
@@ -1152,7 +1152,7 @@ Stoller acknowledged in a letter to the Iowa Supreme Court Attorney Disciplinary
 
 In this email, Stoller clearly demonstrates the intent to pursue a future, adverse action against the Zylstras on behalf of NuStar. Although Stoller terminated the attorney-client relationship with the Zylstras in the same email, the intent to pursue legal action unless the Zylstras complied with NuStar's request to sign the deed arose before the email was sent---which is precisely why the demand or "formal notice" language is included. We find that Stoller's representation of NuStar was a directly adverse concurrent conflict of interest. Because Stoller did not properly obtain consent from the Zylstras to represent NuStar, his actions fall squarely within the guidance of the comments that "absent consent, a lawyer may not act as an advocate in one matter against a person the lawyer represents in some other matter, even when the matters are wholly unrelated." Thus, we find Stoller should be disqualified from representing NuStar in the action against the Zylstras. Because the district court applied the law in error, we find that it abused its discretion in concluding that Stoller should not be disqualified.
 
-<p class="case-h4">Rule 32:1.9(a)---Duties to Former Clients</p>
+##### Rule 32:1.9(a)---Duties to Former Clients
 
 Stoller argues that, even though there was a concurrent conflict of interest in the past, the conflict no longer exists because he severed the attorney-client relationship, and therefore he can continue to represent NuStar in the current action against the Zylstras. Rule 32:1.9(a) concerns a lawyer's duties to former clients. In pertinent part, it provides,
 
