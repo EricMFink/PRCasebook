@@ -110,7 +110,7 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 #### Discipline and disbarment.
 
-(a\) Any attorney admitted to practice law in this State is subject to the disciplinary jurisdiction of the Council[^ncgs_84-28] under such rules and procedures as the Council shall adopt as provided in G.S. 84-23.
+(a\) Any [_Council_: "The North Carolina State Bar is governed by a 60-member council whose members are lawyers elected by the lawyers in their home communities, as well a three nonlawyer members of the council. The public’s interests are represented by three members of the council who are not lawyers and who are appointed by the governor and other elected officials." [NC State Bar](https://www.ncbar.gov/about-us/leadership/)]{.aside} attorney admitted to practice law in this State is subject to the disciplinary jurisdiction of the Council under such rules and procedures as the Council shall adopt as provided in G.S. 84-23.
 
 (b\) The following acts or omissions by a member of the North Carolina State Bar or any attorney admitted for limited practice under G.S. 84-4.1, individually or in concert with any other person or persons, shall constitute misconduct and shall be grounds for discipline whether the act or omission occurred in the course of an attorney-client relationship or otherwise:
 
@@ -151,8 +151,6 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 (j\) The North Carolina State Bar may apply to appropriate courts for orders necessary to protect the interests of clients of missing, suspended, disbarred, disabled, or deceased attorneys.
 
 - The senior regular resident judge of the superior court of any district wherein a member of the North Carolina State Bar resides or maintains an office shall have the authority and power to enter orders necessary to protect the interests of the clients, including the authority to order the payment of compensation by the member or the estate of a deceased or disabled member to any attorney appointed to administer or conserve the law practice of the member. Compensation awarded to a member serving under this section awarded from the estate of a deceased member shall be considered an administrative expense of the estate for purposes of determining priority of payment.
-
-[^ncgs_84-28]: _Council_: "The North Carolina State Bar is governed by a 60-member council whose members are lawyers elected by the lawyers in their home communities, as well a three nonlawyer members of the council. The public’s interests are represented by three members of the council who are not lawyers and who are appointed by the governor and other elected officials." [NC State Bar](https://www.ncbar.gov/about-us/leadership/)
 
 ### Model Rules of Professional Conduct, Rule 8.2
 
