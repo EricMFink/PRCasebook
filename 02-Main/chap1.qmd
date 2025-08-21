@@ -1028,15 +1028,15 @@ It is well established that the practice of law affects the public interest and 
 
 #### VIII.
 
-Last, CAI argues that it has a free speech right to advertise the legal services it wants to offer. But this commercial speech claim is not an independent basis for granting relief, and the state may forbid CAI from advertising legal services barred by law. [A pending suit, brought by "two North Carolina Certified Paralegals and the [North Carolina Justice for All Project](https://www.ncjfap.org/), a nonprofit organization founded ... to expand access to justice in North Carolina", challenges the constitutionality of the North Carolina unauthorized practice statute "as applied to pure legal advice." _Black Polaski v. Lee_, No. 7-24-cv-00004-BO-BM (E.D.N.C.). Review the [complaint in _Black Polaski_](../exhibits/BlackPolaskiComplaint.pdf) and consider whether the claims may be distinguishable from those in _Capital Associated Industries_. ]{.aside}
-
-#### IX.
-
-The district court correctly granted the defendants' motion for summary judgment. Its judgment is therefore
+Last, CAI argues that it has a free speech right to advertise the legal services it wants to offer. But this commercial speech claim is not an independent basis for granting relief, and the state may forbid CAI from advertising legal services barred by law. 
 
 _AFFIRMED._
 
 [^CapitalAssoc1]: [n.1 in opinion] North Carolina is not alone in doing so. Almost all other states have similar laws on the books. One state allows unincorporated nonprofit "associations" to practice law. And CAI points to trade associations practicing law in a few other states. But at least one of those states bans corporations from practicing law. 
+
+### Note: Challenge to North Carolina Unauthorized Practice Statute 
+
+A pending suit, brought by "two North Carolina Certified Paralegals and the [North Carolina Justice for All Project](https://www.ncjfap.org/), a nonprofit organization founded ... to expand access to justice in North Carolina", challenges the constitutionality of the North Carolina unauthorized practice statute "as applied to pure legal advice." _Black Polaski v. Lee_, No. 7-24-cv-00004-BO-BM (E.D.N.C.). Review the [complaint in _Black Polaski_](../exhibits/BlackPolaskiComplaint.pdf) and consider whether the claims may be distinguishable from those in _Capital Associated Industries_. 
 
 ## Law Firms
 

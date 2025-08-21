@@ -21,24 +21,20 @@ format:
 
 \begin{flushleft}
 
-\vspace*{25mm}
+\vspace*{\fill}
 
 {\sffamily\bfseries\color{Maroon}\Huge{Professional Responsibility}} 
 
-\vspace{5mm}
+\vspace{3mm}
 
 {\sffamily\color{Maroon}\Large{An Open-Source Casebook}} 
 
-\vspace{10mm}
+\vspace{6mm}
 
 \begin{figure}[h!]
 \centering
 \includegraphics[width=1\textwidth]{../img/cover.png}
 \end{figure}
-
-\vspace*{\fill}
-
-{\sffamily\color{Maroon}\large{Eric M. Fink}} 
 
 \end{flushleft}
 
