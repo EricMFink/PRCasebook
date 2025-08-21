@@ -19,7 +19,7 @@ body {
 h1 {
 	font-family: "Adelle-Sans",sans-serif;
 	color: #800000;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     font-style: normal;
 	font-weight: 600;
     line-height: 1.2;
@@ -196,7 +196,7 @@ a:active {
 	display: block;
 }
 
-/* Lists -- ul default is unstyled; use {{< bi dot >}} for bullets */
+/* Lists -- ul default is unstyled; use • for bullets */
 ol, ul {
 	padding-left: 1.5rem;
 }
@@ -520,45 +520,14 @@ header .chapter-title {
     line-height: 1.5rem;
     font-size: 1rem;
 }
-
-.sidebar-title {
-    font-family: "Adelle-Sans",sans-serif;
-	color: #800000; 
-    font-size: .7rem;
-    font-style: normal;
-    line-height: 1.12rem;
-    text-transform: uppercase;
-    letter-spacing: .1em;
-    margin-top: .25rem;
-    padding-bottom: .5rem;
-    visibility: visible;
-}
-.sidebar-title > a {
-	color: #800000; 
-	font-size: inherit;
-	text-decoration: none;
-	margin-top: .5rem;
-}
-
-.sidebar-title a:visited {
-	color: #800000;
-}
-
 .sidebar-title .sidebar-tools-main {
 	margin-top: .5rem;
 
 }
 .sidebar-tools-main {
 	display: flex;
-	margin: .5rem 0 0 0;
+	margin: 2rem 0 0 0;
 	order: 2;
-}
-.sidebar-navigation .quarto-navigation-tool {
-	opacity: .7;
-	font-size: .875rem;
-}
-.sidebar-navigation a {
-	color: #800000;
 }
 .navbar-brand > a{
     color: #800000;
@@ -574,6 +543,28 @@ header .chapter-title {
     border-left: 1px solid #800000;
     color: #800000 !important;
 }
+.sidebar-title {
+    font-family: "Adelle-Sans",sans-serif;
+	color: #800000; 
+    font-size: .7rem;
+    font-style: normal;
+    line-height: 1.12rem;
+    text-transform: uppercase;
+    letter-spacing: .11em;
+    margin-top: .25rem;
+    padding-bottom: .5rem;
+    visibility: visible;
+}
+.sidebar-title > a {
+	color: #800000; 
+	font-size: inherit;
+	text-decoration: none;
+}
+
+.sidebar-title a:visited {
+	color: #800000;
+}
+
 .quarto-secondary-nav-title, .title {
     font-family: "Adelle-Sans",sans-serif;
 	color: #800000; 
