@@ -16,4 +16,4 @@
 
 [Source Code: [[github.com/EricMFink/PRCasebook]{.mono-font}](https://github.com/EricMFink/PRCasebook){.mono-font}]{.license-h3}
 
-[Version $version$]{.license-h3}
+[Version 4.1, August 2025]{.license-h3}
