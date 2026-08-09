@@ -1,14 +1,12 @@
-version: 1.0
+version: 5.0, August 2026
 
 subject: Professional Responsibility
-repo-name: PRCasebook
+repo: PRCasebook
+site-url: "https://emfink.net/PRCasebook"
 
-author:
-- name: Eric M. Fink
-  email: efink@elon.edu
-  affiliations:
-    - name: Elon University School of Law
-      address: 201 North Greene Street
-      city: Greensboro
-      state: North Carolina
-      postal-code: 27278
+author: Eric M. Fink
+email: efink@elon.edu
+phone: 336-279-9334
+institution: Elon University School of Law
+address: 201 North Greene Street
+city-state: Greensboro, North Carolina

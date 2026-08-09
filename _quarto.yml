@@ -1,44 +1,41 @@
 project:
-    type: tufte
+  type: book
 
 book:
-  author:
-  - name: Eric M. Fink
-    email: efink@elon.edu
-    affiliations:
-      - name: Elon University School of Law
-        address: 201 North Greene Street
-        city: Greensboro
-        state: North Carolina
-        postal-code: 27278
-  title: "Professional Responsibility"
-  title-short: "Professional Responsibility"
+  title: Professional Responsibility
   subtitle: An Open-Source Casebook
-  version: "4.1, August 2025"
-  license: "CC BY NC SA"
-  site-url: "https://www.emfink.net/PRCasebook/"
-  output-file: "PRCasebook"
-  downloads: [pdf] 
-  sidebar:
-    tools:
-      - icon: github
-        menu:
-          - text: View source code
-            href:  https://github.com/EricMFink/PRCasebook
-          - text: Report an issue
-            href:  https://github.com/EricMFink/PRCasebook/issues/new
+  author: Eric M. Fink
+  page-navigation: true
   page-footer:
       center: 
         - text: "Last updated: {{< now >}}"
-  chapters:
-    - index.qmd
-    - part: "Front Matter"
-      chapters:
-        - 01-Front/license.qmd
-        - 01-Front/epigraph.qmd
+  sidebar:
+    style: "floating"
+    search: true
+    tools:
+      - icon: file-pdf
+        menu: 
+          - text: Casebook PDF
+            href: PRCasebook.pdf
+      - icon: github
+        menu:
+          - text: Report an issue
+            href:  https://github.com/EricMFink/PR/issues/new
+          - text: View source code
+            href:  https://github.com/EricMFink/PR
+    collapse-level: 1
+  chapters: 
+    - href: index.qmd
+      text: Home
+    - part: "Casebook"
+      chapters: 
+        - text: Frontispiece
+          href: 01-Front/frontispiece.qmd
+        - text: License
+          href: 01-Front/license.qmd
+        - text: Epigraph
+          href: 01-Front/epigraph.qmd
         - 01-Front/preface.qmd
-    - part: "Chapters"
-      chapters:
         - 02-Main/chap1.qmd
         - 02-Main/chap2.qmd
         - 02-Main/chap3.qmd
@@ -47,7 +44,40 @@ book:
         - 02-Main/chap6.qmd
         - 02-Main/chap7.qmd
         - 02-Main/chap8.qmd
-    - part: "Back Matter"
-      chapters:
+        - 03-Back/references.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
+
+filters:
+  - citetools
+bibliography_cases: refs/cases.yaml
+bibliography_mrpc: refs/mrpc.yaml
+bibliography_other: refs/other.yaml
+bibliography_statutes: refs/statutes.yaml
+csl: refs/casebook.csl
+citation-abbreviations: refs/abbreviations.json
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    title-block-style: none
+    reference-location: margin
+    citation-location: document
+    toc: true
+    number-sections: true
+    number-depth: 3
+    toc-location: left
+    toc-depth: 4
+    callout-icon: false
+    lightbox: true
+    include-in-header:
+    - text: |
+        <link rel="stylesheet" href="https://use.typekit.net/viv2jun.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="https://www.emfink.net/assets/img/favicon.ico">
+        <meta name="robots" content="noarchive">

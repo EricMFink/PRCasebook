@@ -1,5 +1,9 @@
+---
+toc: false
+---
+
 ::: {.content-hidden unless-format="revealjs"}
 # Home {.unnumbered}
 :::
 
-![](img/cover.png)
+![](img/PRCasebook.png)

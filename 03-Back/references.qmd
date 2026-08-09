@@ -1,8 +1,26 @@
 # Sources {.unnumbered}
 
-## Cases
+::: {.sources}
+
+### Cases
+
+::: {#refs_cases}
+:::
+
+### ABA Model Rules & Standards
+
+::: {#refs_mrpc}
+:::
 
 
-## Books, Articles, & Other Publications
+### Statutes, Rules, & Restatement
 
+::: {#refs_statutes}
+:::
 
+### Books, Articles, & Other Publications
+
+::: {#refs_other}
+:::
+
+:::
