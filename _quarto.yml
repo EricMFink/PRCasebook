@@ -47,7 +47,7 @@ book:
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
 
-bibliography: refs/PR.yaml
+bibliography: refs/Library.yaml
 csl: refs/casebook.csl
 citation-abbreviations: refs/abbreviations.json
 suppress-bibliography: true
