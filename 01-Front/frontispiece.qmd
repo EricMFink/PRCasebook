@@ -2,6 +2,6 @@
 
 ::: {.frontispiece}
 
-![Hans Holbein the Younger, _Der Fürsprech_. [Print by Hans Lützelburger](https://www.metmuseum.org/art/collection/search/365197) (ca. 1526)](../img/frontispiece.jpg)
+![Hans Holbein the Younger, _Der Fürsprech_. [Print by Hans Lützelburger](https://www.metmuseum.org/art/collection/search/365197) (ca. 1526)](/img/frontispiece.jpg)
 
 :::

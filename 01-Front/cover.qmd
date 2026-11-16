@@ -1,6 +1,6 @@
 ::: {.cover}
 
-![](../img/PRCasebook.png)
+![](/img/PRCasebook.png)
 
 :::
 
