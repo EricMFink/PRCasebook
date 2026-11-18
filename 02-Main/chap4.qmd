@@ -127,6 +127,8 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 - (1\) A lawyer is subject to liability to a client for injury caused by breach of contract in the circumstances and to the extent provided by contract law.
 - (2\) A client is entitled to restitutionary, injunctive, or declaratory remedies against a lawyer in the circumstances and to the extent provided by generally applicable law governing such remedies.
 
+\pagebreak
+
 ##### § 56. Liability to a Client or Nonclient Under General Law
 
 - Except as provided in § 57 and in addition to liability under §§ 48-55, a lawyer is subject to liability to a client or nonclient when a nonlawyer would be in similar circumstances.
@@ -191,6 +193,8 @@ The facts of _Bucquet v. Livingston_, to which appellant compares his situation,
 The facts of the instant case are more similar to those of _Hiemstra v. Huston_. In that case the court recognized the exception established in earlier California cases holding an attorney liable to an intended beneficiary for defects in drafting of a will. The court nevertheless held that the complaint failed to state a cause of action in the allegations that under a will drafted by the defendant attorneys the plaintiff son received a smaller bequest than he would have received under an earlier will of testator. The court noted that plaintiff did not assert any legal deficiency in the will, nor did plaintiff assert either as a conclusion or by allegation of ultimate facts that the will failed to reflect the intent of the testator. The court concluded that if plaintiff was deprived of a substantial part of his father's estate, it was the result not of any negligence on the part of the defendant attorneys but of the testator's intention as expressed in the valid document.
 
 In the case before us, the objective of the deed was to transfer ownership of the real estate to joint tenancy between the father and the son. The complaint alleges no invalidity in the documents and no conflict of the result with decedent's intentions. The estate taxes that were due at Theodore Marker's death were the natural result of the form of ownership chosen by the decedent and not the result of any negligence by respondent. In this case summary judgment was proper. We therefore need not discuss the disputed application of the statute of limitations.
+
+\pagebreak
 
 #### @IshmaelMillington_CalCtApp1966
 
@@ -288,7 +292,7 @@ The issue of Runner's negligence was submitted to the jury under the following i
 >
 > > (a\) Not to undertake representation in a legal matter in which he knew or should have known he was not competent without associating with himself a lawyer that was competent to handle it;
 >
-> >> (b\) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
+> > (b\) Not to undertake representation in a legal matter without preparation adequate in the circumstances.
 >
 > (2\) The Jury will answer the following interrogatory: Do you believe from the evidence that the defendant, E. Michael Runner, failed in one or more of the duties imposed upon him by instruction number 4, and such failure was the substantial factor in the Estate of Lula Daugherty Roach not recovering the award set out in instruction number 3 and incorporated in Verdict A?
 
@@ -445,6 +449,8 @@ Because of the vital importance of counsel's assistance, this Court has held tha
 For that reason, the Court has recognized that "the right to counsel is the right to the effective assistance of counsel." Government violates the right to effective assistance when it interferes in certain ways with the ability of counsel to make independent decisions about how to conduct the defense. Counsel, however, can also deprive a defendant of the right to effective assistance, simply by failing to render "adequate legal assistance".
 
 The Court has not elaborated on the meaning of the constitutional requirement of effective assistance in the latter class of cases---that is, those presenting claims of "actual ineffectiveness." In giving meaning to the requirement, however, we must take its purpose---to ensure a fair trial---as the guide. The benchmark for judging any claim of ineffectiveness must be whether counsel's conduct so undermined the proper functioning of the adversarial process that the trial cannot be relied on as having produced a just result.
+
+\pagebreak
 
 [III]{.casesection}
 

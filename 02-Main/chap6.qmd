@@ -105,6 +105,8 @@ If the above requirements are met, Lawyer may proceed with the common representa
 
 If Lawyer determines at the outset that the common representation will be adverse to the interests of either Buyer or Seller, or that his judgment will be impaired by loyalty to Seller, Lawyer may not represent both parties. Similarly, if Buyer does not consent to the joint representation, Lawyer may not represent both parties.
 
+\pagebreak
+
 [Inquiry #2:]{.casesection}
 
 Buyer notifies Lawyer at Law Firm X that he wants to have his own lawyer represent him at the closing. Therefore, Law Firm X intends to limit its representation to Seller. To clarify its role in the transaction, Lawyer sends Buyer an Independently Represented Buyer Acknowledgement to sign agreeing that, although Law Firm X was providing services necessary and incidental to effectuating a settlement of the transaction, including providing an opinion of title for the Buyer’s policy to the title insurance company chosen by and affiliated with Bank A, there will be no attorney-client relationship between Law Firm X and Buyer. Law Firm X informs Buyer that the charge for the closing will be reduced to \$325.
@@ -152,6 +154,8 @@ Lawyers who traditionally represent the borrower in a commercial loan closing ar
 -   The borrower’s recourses may be limited if closing funds are mishandled and the borrower suffers a loss in connection with Bank’s Counsel’s preparation of the closing statement and disbursement of the loan proceeds. However, when the borrower's lawyer performs the escrow and closing functions, the lender gets an insured closing letter and a legal opinion relative to authority and enforceability from the borrower's lawyer and has protection.
 -   Having the lender’s lawyer perform the property and business due diligence functions may result in the disclosure of confidential information relative to the borrower’s property or its business interests that would not be disclosed if the borrower’s lawyer performed these functions.
 -   Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
+
+\pagebreak
 
 [Inquiry #1:]{.casesection}
 
@@ -291,6 +295,8 @@ The making of an appropriate arrangement between B and C under which B would gai
 
 *See* Opinion #3 above with respect to whether Lawyer could represent only B or only C.
 
+\pagebreak
+
 [Inquiry #6:]{.casesection}
 
 Are there other concerns about Lawyer’s participation in the closing of these transactions?
@@ -324,6 +330,8 @@ Opinion #7 is limited to applying Rule 1.15-3(b)(5), Rule 1.15-3(e), and Rule 1.
 [Inquiry #8:]{.casesection}
 
 Instead of being structured as A to B and B to C transactions, B enters into a contract to purchase with A and assigns his rights under that contract to C. B initially engages Lawyer for representation to close the sale from A to C and expects that Lawyer will also represent C. B does not want A or C to know certain information about the transaction. The assignment documentation does not disclose all information about the transaction such as the purchase price in the A to B purchase contract or the amount of the assignment fee to be paid to B. B wants the settlement statements prepared in a manner that does not disclose all information to A or C. Can Lawyer represent B and C and close this transaction?
+
+\pagebreak
 
 [Opinion #8:]{.casesubsection}
 
@@ -625,7 +633,7 @@ The board's finding that J.B. freely engaged in a relationship with Sarver ignor
 Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio for two years, with 18 months of the suspension stayed on the conditions that he (1) comply with his December 12, 2017 OLAP contract, (2) take the Multistate Professional Responsibility Exam and receive a passing score, (3) complete 12 hours of continuing legal education focused on professional ethics or attorney-client relationships, (4) serve a two-year period of monitored probation, and (5) engage in no further misconduct. If Sarver fails to comply with any condition of the stay, the stay will be lifted and he will serve the full two-year suspension.
 
 ::: callout-note
-**Postscript to *Sarver*:** Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay \$50,000 in restitution for "filing a false affidavit of compliance with \[the Ohio Supreme Court\], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [\@DisciplinaryCounselSarver_Ohio2020](https://scholar.google.com/scholar_case?case=11286210687675325700).
+**Postscript to *Sarver*:** Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay \$50,000 in restitution for "filing a false affidavit of compliance with \[the Ohio Supreme Court\], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver,_ 170 N.E.3d 799 (Ohio2020)](https://scholar.google.com/scholar_case?case=11286210687675325700).
 :::
 
 ## Conflicts Involving Former Clients

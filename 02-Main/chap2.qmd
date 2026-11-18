@@ -130,6 +130,8 @@ The referee found that the attorneys did not violate rule 4-7.2(b)(3), relying o
 
 The referee also concluded that the ad was protected speech and therefore that an interpretation of rules to prohibit the ad would render the rules unconstitutional as applied.
 
+\pagebreak
+
 [Analysis]{.casesection}
 
 [A. Violation of Attorney Advertising Rules]{.casesubsection}
@@ -322,6 +324,8 @@ While the substantive meaning of the imposed disclaimer may conform to the requi
 
 For the foregoing reasons, we hold that Hunter's blog posts are potentially misleading commercial speech that the VSB may regulate. We further hold that circuit court did not err in determining that the VSB's interpretation of Rule 1.6 violated the First Amendment. Finally, we hold that because the circuit court erred in imposing one disclaimer did not fully comply with Rule 7.2(a)(3), we reverse and remand for imposition of disclaimers that fully comply with that Rule.
 
+\pagebreak
+
 ##### Justice Lemons, with whom Justice McClanahan joins, dissenting in part.
 
 I agree with the majority's resolution of the Rule 1.6 issue. However, I dissent from the majority's determination that Hunter is guilty of violating Rules 7.1(a)(4) and 7.2(a)(3) and that Hunter must post a disclaimer that complies with Rule 7.2(a)(3).
@@ -391,7 +395,7 @@ Accordingly, I would hold that Hunter's speech is political, is entitled to the 
 - (d\) This Rule does not prohibit communications authorized by law or ordered by a court or other tribunal.
 - (e\) Notwithstanding the prohibitions in this Rule, a lawyer may participate with a prepaid or group legal service plan operated by an organization not owned or directed by the lawyer that uses live person-to-person contact to enroll members or sell subscriptions for the plan from persons who are not known to need legal services in a particular matter covered by the plan.
 
-##### RUle 7.6 -- Political Contributions to Obtain Legal Engagements or Appointments by Judges
+##### Rule 7.6 -- Political Contributions to Obtain Legal Engagements or Appointments by Judges
 
 - A lawyer or law firm shall not accept a government legal engagement or an appointment by a judge if the lawyer or law firm makes a political contribution or solicits political contributions for the purpose of obtaining or being considered for that type of legal engagement or appointment.
 
@@ -422,6 +426,8 @@ Statutory regulation of unethical and nonprofessional conduct by attorneys has b
 Petitioner challenges the decision of the Supreme Court of Appeals on many grounds. But we reach only one: that Chapter 33 as construed and applied abridges the freedoms of the First Amendment, protected against state action by the Fourteenth. More specifically, petitioner claims that the chapter infringes the right of the NAACP and its members and lawyers to associate for the purpose of assisting persons who seek legal redress for infringements of their constitutionally guaranteed and other rights. We think petitioner may assert this right on its own behalf, because, though a corporation, it is directly engaged in those activities, claimed to be constitutionally protected, which the statute would curtail. We also think petitioner has standing to assert the corresponding rights of its members.
 
 We reverse the judgment of the Virginia Supreme Court of Appeals. We hold that the activities of the NAACP, its affiliates and legal staff shown on this record are modes of expression and association protected by the First and Fourteenth Amendments which Virginia may not prohibit, under its power to regulate the legal profession, as improper solicitation of legal business violative of Chapter 33 and the Canons of Professional Ethics.
+
+\pagebreak
 
 [A.]{.casesubsection}
 

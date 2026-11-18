@@ -81,6 +81,8 @@ On 6 October 2017, the DHC entered its Order of Discipline. In its Order, the DH
 
 The DHC entered additional findings regarding discipline, noting Defendant's prior disciplinary offenses in North Carolina, Defendant's substantial experience in the practice of law, Defendant's refusal to acknowledge wrongdoing, and Louise's vulnerability resulting from her history of substance abuse and ongoing recovery treatment. Based on these findings, the DHC concluded Defendant's conduct, while not serious enough to warrant a suspension of his license, warranted Censure "because entry of an order imposing less severe discipline would fail to acknowledge the seriousness of the conduct and would send the wrong message to attorneys and the public about the conduct expected of members of the Bar of this State." The DHC censured Defendant and taxed him with fees and costs. Defendant timely filed Notice of Appeal.
 
+\pagebreak
+
 [Violations of the Rules of Professional Conduct]{.casesection}
 
 In his first argument, Defendant contends the DHC's decision "was unsupported and contrary to the evidence, contrary to existing law, did not have a rational basis in the evidence, and was completely arbitrary and unsupported by reason." We disagree.
@@ -169,6 +171,8 @@ The absence of an explicit prohibition in RPC 4.2(a) could have suggested that W
 
 In sum, consistent with the resolution of the same issue in _Schaefer_, we hold that a lawyer acting pro se is "representing a client" for purposes of RPC 4.2(a), but given the absence of a prior decision from this court, along with the presence of conflicting or equivocal authority from other jurisdictions and legal commentaries, we find the rule impermissibly vague as to its applicability to pro se attorneys and thus apply our interpretation of the rule prospectively only. We therefore dismiss the violation alleged in count 2.
 
+\pagebreak
+
 [Conclusion]{.casesection}
 
 We hold that RPC 4.2(a) prohibits a lawyer who is representing his own interests in a matter from contacting another party whom he knows to be represented by counsel. However, because we conclude that RPC 4.2(a) was impermissibly vague as applied to Haley, we apply our interpretation of RPC 4.2(a) prospectively only and thus dismiss.
@@ -194,6 +198,8 @@ This ingenious bit of legal fiction illustrates the wisdom of avoiding interpret
 The majority's claim to follow an emerging majority rule is unavailing. Indeed, it cites decisions from six states concluding that self-represented lawyers are their own clients. But none offers any more convincing a rationale for this curious conclusion than the majority. Conclusory statements cannot substitute for legal reasoning, and another court's error cannot justify our own.
 
 Likewise, the majority's reliance on the "purpose" of RPC 4.2(a) is misplaced. As the author of the court rules, we are "in a position to reveal the actual meaning which was sought to be conveyed." But in the interest of certainty and consistency, we approach them "as though they had been drafted by the Legislature." Whatever the purpose of RPC 4.2(a), it cannot extend to persons and actions its plain language excludes. We may not expand the scope of a rule by fiat. If we conclude that self-represented lawyers should not contact represented parties, we should simply rewrite the rule to clearly prohibit that conduct. Other states have already done so. Lawyers should not have to read slip opinions to divine their professional obligations.
+
+\pagebreak
 
 [II\. The Rule of Lenity Requires a Construction of RPC 4.2(A) Exempting Self-Represented Lawyers]{.casesection}
 

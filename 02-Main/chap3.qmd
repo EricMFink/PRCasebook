@@ -323,6 +323,8 @@ As previously noted, the interest of the district court in preventing counsel fr
 
 We therefore reverse and order the district court to grant appellant's motion to withdraw as counsel. We note that Lacara agreed in this court to waive all outstanding fees and to turn over all pertinent files to Whiting.
 
+\pagebreak
+
 ## Scope of Representation & Allocation of Authority
 
 #### Model Rules of Professional Conduct
@@ -487,6 +489,8 @@ On August 11, a doctor examined Frank and noted, "Frank does not communicate whe
 
 Even though Jarvis knew that Evick was not an Ohio notary, he directed her to meet with Frank at his nursing home on August 13 or 14 to have him sign the irrevocable trust and four other estate-planning documents. Jarvis did not discuss those documents with Frank or assess Frank's testamentary or contractual capacity _before_ Frank signed them. Nor was he present when Frank signed them. But several days after Evick obtained Frank's signature on those five documents, Jarvis backdated and notarized all of them under jurats that falsely stated that Frank had personally appeared before him to acknowledge his signature. He also falsely signed Frank's will as a witness and attested on two of the documents that Frank appeared to be of sound mind when he signed them.
 
+\pagebreak
+
 [Conduct after the Estate-Planning Documents Were Executed and after the Balcars' Deaths]{.casesubsection}
 
 At the end of September, Evick applied for Medicaid on Frank's behalf. Although almost seven weeks had elapsed since Frank signed the trust agreement and the other estate-planning documents, the only asset that had been transferred to the irrevocable trust was a checking account belonging to Lenor. By the end of October, the Department of Job and Family Services had determined that the application was incomplete and had requested additional information regarding Frank's assets.
@@ -544,6 +548,8 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 - (g\) A lawyer representing an organization may also represent any of its directors, officers, employees, members, shareholders or other constituents, subject to the provisions of Rule 1.7. If the organization's consent to the dual representation is required by Rule 1.7, the consent shall be given by an appropriate official of the organization other than the individual who is to be represented, or by the shareholders.
 
 :::
+
+\pagebreak
 
 #### @Rest2dLawGoverningLawyers
 
@@ -631,6 +637,8 @@ Defendant Carol Warley was a partner in KPMG LLP, one of the world's largest acc
 
 This problem could be avoided if counsel in these situations routinely made clear to employees that they represent the employer alone and that the employee has no attorney-client privilege with respect to his or her communications with employer-retained counsel. Indeed, the Second Circuit advised that they do so years before the communications here in question. But there is no evidence that the attorneys who spoke to Ms. Warley followed that course.
 
+\pagebreak
+
 [Facts]{.casesection}
 
 Ms. Warley was a partner of KPMG at all relevant times. In 2003, the IRS was investigating KPMG's tax shelter activities, including some in which clients of Warley had participated. In the course of the investigation, Warley communicated with KPMG's in-house counsel and with two law firms retained by KPMG, Kronish Lieb Weiner & Hellman LLP and King & Spalding LLP. Warley does not recall having been told that the attorneys represented only KPMG or that any privilege belonged solely to the firm and could be waived by the firm without her consent.
@@ -642,6 +650,8 @@ Warley identifies two sets of allegedly privileged communications relating to wh
 The second allegedly privileged communication is an email exchange in January and February of 2003 between Warley and Steven Gremminger, an in-house attorney for KPMG, relating to the tax strategies under investigation. The government has a copy of this email string.
 
 Both parties point to the substance of the communications to support their respective claims that privilege did or did not attach. Warley further relies upon KPMG's 2003 partnership agreement, which provided that "the General Counsel shall act on behalf of all Members, except where a dispute arises between an individual Member and the Firm." Finally, Warley alleges that counsel retained by KPMG jointly represented KPMG and her personally in two lawsuits prior to the events at issue here.
+
+\pagebreak
 
 [Discussion]{.casesection}
 
@@ -686,6 +696,8 @@ Nor has Warley offered any evidence that she in fact subjectively relied either 
 [Conclusion]{.casesection}
 
 In the end, Warley's showings amount merely to a claim of her subjective belief which, without more, is insufficient to meet her burden of proving privilege. For the foregoing reasons, Warley's motion for relief from the government's alleged violation of her attorney-client privilege is denied.
+
+\pagebreak
 
 ## Attorney Fees 
 
@@ -896,6 +908,8 @@ With the benefit of hindsight, it would have been in Mr. Cole's best interest to
 To allow Mr. Culpepper to recover a contingent fee under these circumstances would penalize Mr. Cole for exercising his right to reject the settlement. We find no statutory or jurisprudential support for such a proposition. Indeed, this court has rejected any interpretation of the Rules of Professional Conduct which would place restrictions on the client's fundamental right to control the case.
 
 In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of Mr. Cole. In the absence of a recovery, it follows that Mr. Culpepper cannot collect a contingent fee for his services. Accordingly, we must reverse the judgment of the court of appeal awarding a contingent fee to Mr. Culpepper.
+
+\pagebreak
 
 ## Client Property
 

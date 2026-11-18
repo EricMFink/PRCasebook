@@ -25,7 +25,7 @@
     -   \(1\) use information relating to the representation to the disadvantage of the former client except as these Rules would permit or require with respect to a client, or when the information has become generally known; or
     -   \(2\) reveal information relating to the representation except as these Rules would permit or require with respect to a client.
 
-##### RUle 1.18 -- Duties to Prospective Client
+##### Rule 1.18 -- Duties to Prospective Client
 
 -   \(b\) Even when no client-lawyer relationship ensues, a lawyer who has learned information from a prospective client shall not use or reveal that information, except as Rule 1.9 would permit with respect to information of a former client.
 -   \(c\) A lawyer subject to paragraph (b) shall not represent a client with interests materially adverse to those of a prospective client in the same or a substantially related matter if the lawyer received information from the prospective client that could be significantly harmful to that person in the matter, except as provided in paragraph (d). If a lawyer is disqualified from representation under this paragraph, no lawyer in a firm with which that lawyer is associated may knowingly undertake or continue representation in such a matter, except as provided in paragraph (d).
@@ -35,10 +35,12 @@
         -   \(i\) the disqualified lawyer is timely screened from any participation in the matter and is apportioned no part of the fee therefrom; and
         -   \(ii\) written notice is promptly given to the prospective client.
 
-##### RUle 4.4 -- Respect for Rights of Third Persons
+##### Rule 4.4 -- Respect for Rights of Third Persons
 
 -   \(b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 :::
+
+\pagebreak
 
 #### North Carolina Rules of Professional Conduct
 
@@ -283,6 +285,8 @@ A communication is made for the purpose of obtaining or providing legal assistan
 -   \(1\) If two or more persons are jointly represented by the same lawyer in a matter, a communication of either co-client that otherwise qualifies as privileged under §§ 68-72 and relates to matters of common interest is privileged as against third persons, and any co-client may invoke the privilege, unless it has been waived by the client who made the communication.
 -   \(2\) Unless the co-clients have agreed otherwise, a communication described in Subsection (1\) is not privileged as between the co-clients in a subsequent adverse proceeding between them.
 
+\pagebreak
+
 ##### § 76. The Privilege in Common-Interest Arrangements
 
 -   \(1\) If two or more clients with a common interest in a litigated or nonlitigated matter are represented by separate lawyers and they agree to exchange information concerning the matter, a communication of any such client that otherwise qualifies as privileged under §§ 68-72 that relates to the matter is privileged as against third persons. Any such client may invoke the privilege, unless it has been waived by the client who made the communication.
@@ -412,7 +416,7 @@ On April 20, 1992, X Corp. moved this Court for a preliminary injunction (i) to 
 
 Without doubt, this litigation presents "grave or serious questions," questions involving difficult and troubling ethical issues arising in the context of attorney-client confidentiality. Few questions are graver or more serious in the practice of law than determining what evidence of crime or fraud justifies a lawyer's disclosure of his client's confidential information. Moreover, allegations of attorney misconduct, or even potential misconduct, engender significant and serious questions of professional conduct critical to the client, to the accused attorney, and to the bar as a whole. Such allegations, regardless of their veracity, erode the already fragile public confidence in the legal profession and in the administration of justice. And it is undeniable that our legal system cannot function effectively unless the public has confidence in the integrity and competence of the system and its participants. Thus, it is paramount that lawyers understand and abide by settled and accepted norms of professional conduct. But even settled and accepted norms frequently provide inadequate or ambiguous guidance in the face of specific factual circumstances. So it is here.
 
-This litigation focuses on two professional standards of attorney confidentiality---(i) the evidentiary attorney-client privilege and (ii) the broader ethical duty of confidentiality---and their application to the specific facts presented. Understanding the distinction between these two standards is essential to the matter at bar. For that reason, it is worth describing them here in some detail.
+This litigation focuses on two professional standards of attorney confidentiality -- (i) the evidentiary attorney-client privilege and (ii) the broader ethical duty of confidentiality -- and their application to the specific facts presented. Understanding the distinction between these two standards is essential to the matter at bar. For that reason, it is worth describing them here in some detail.
 
 The first of these standards, the evidentiary attorney-client privilege, is quite familiar, and the principles associated with it are well-settled. This evidentiary privilege applies to disclosures of certain types of confidences communicated between client and attorney during the course of the attorney's representation of the client. To prevent such disclosures, the client, through counsel or otherwise, may invoke the privilege. The purpose of the attorney-client privilege
 
