@@ -345,6 +345,8 @@ Could Lawyer represent A, B, and C in these transactions?
 
 The same issues and considerations discussed above would apply if Lawyer wished to engage in the multiple representation of A, B, and C. *See* Opinions #1 through #8.
 
+\clearpage
+
 ## Conflicts Involving the Lawyer's Business & Personal Interests
 
 #### Model Rules of Professional Conduct
@@ -636,6 +638,8 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 **Postscript to *Sarver*:** Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay \$50,000 in restitution for "filing a false affidavit of compliance with \[the Ohio Supreme Court\], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver,_ 170 N.E.3d 799 (Ohio2020)](https://scholar.google.com/scholar_case?case=11286210687675325700).
 :::
 
+\clearpage
+
 ## Conflicts Involving Former Clients
 
 #### Model Rules of Professional Conduct
@@ -768,6 +772,8 @@ We do not find that a substantial relationship exists sufficient to disqualify S
 [Conclusion]{.casesection}
 
 We find that the district court did not abuse its discretion in concluding that any prior relationship between Stoller and Zylstra in regard to the manure easement agreements failed the substantial relationship test. However, we find that Stoller did have a concurrent conflict of interest. Therefore, we conclude that the district court abused its discretion in not disqualifying Stoller from representing NuStar in the action. On remand, the district court should enter an order disqualifying Stoller from further representation of NuStar in this lawsuit.
+
+\clearpage
 
 ## Imputed Conflicts
 

@@ -58,13 +58,15 @@ _Maintaining Competence_
 
 :::
 
+\clearpage
+
 ## Malpractice
 
 ::: {.callout-note}
 The term "legal malpractice" is sometimes used generally to refer to any claim against an attorney for breach of fiduciary duty, and sometimes more specifically for claims involving the duty of care. The elements of such claims are similar to other torts: the existence of a duty, breach of the duty, and harm caused by the breach. In claims based on the duty of care, the standard of liability is negligence, i.e. failure to exercise the degree of care of a reasonably prudent attorney under similar circumstances. In contrast, attorneys may be strictly liable for breaching the duties of loyalty, impartiality, or confidentiality.
 :::
 
-#### @Rest2dLawGoverningLawyers
+#### Restatement (2d) of the Law Governing Lawyers
 
 ::: {.legalcode}
 
@@ -403,6 +405,8 @@ The most troubling aspect of the actual innocence requirement announced by the m
 Second, while it may be true that a majority of courts that have reached the issue require the plaintiff to establish actual innocence, the numbers do not appear to be great. Only Missouri, New York, Massachusetts, Alaska, Pennsylvania, California, New Hampshire, Nebraska, Illinois, Florida, and Wisconsin require either proof of actual innocence or that the conviction was set aside on postconviction relief. This is hardly a national consensus.
 
 This court should protect the public from lawyers' misdeeds, not the other way around. A plaintiff who is not categorically innocent seeking compensation under ordinary principles of tort law faces no light burden. Such a guilty plaintiff must prove a duty, a breach of that duty, injuries proximately caused by the breach, and the amount of his damages. I see no reason to provide additional protections for lawyers.
+
+\clearpage
 
 ## Ineffective Assistance of Counsel
 

@@ -376,6 +376,8 @@ In this case, the policies the Bar advances have no persuasive force when applie
 
 Accordingly, I would hold that Hunter's speech is political, is entitled to the heightened scrutiny test, and that he cannot be forced to include the advertising disclaimer under Rule 7.2 that the Bar seeks to force upon his writings.
 
+\clearpage
+
 ## Solicitation
 
 #### Model Rules of Professional Conduct 
@@ -426,8 +428,6 @@ Statutory regulation of unethical and nonprofessional conduct by attorneys has b
 Petitioner challenges the decision of the Supreme Court of Appeals on many grounds. But we reach only one: that Chapter 33 as construed and applied abridges the freedoms of the First Amendment, protected against state action by the Fourteenth. More specifically, petitioner claims that the chapter infringes the right of the NAACP and its members and lawyers to associate for the purpose of assisting persons who seek legal redress for infringements of their constitutionally guaranteed and other rights. We think petitioner may assert this right on its own behalf, because, though a corporation, it is directly engaged in those activities, claimed to be constitutionally protected, which the statute would curtail. We also think petitioner has standing to assert the corresponding rights of its members.
 
 We reverse the judgment of the Virginia Supreme Court of Appeals. We hold that the activities of the NAACP, its affiliates and legal staff shown on this record are modes of expression and association protected by the First and Fourteenth Amendments which Virginia may not prohibit, under its power to regulate the legal profession, as improper solicitation of legal business violative of Chapter 33 and the Canons of Professional Ethics.
-
-\pagebreak
 
 [A.]{.casesubsection}
 

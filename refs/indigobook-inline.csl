@@ -219,8 +219,8 @@
 		<group prefix=" (" suffix=")">
 		<text variable="publisher" form="short"/>
 		<date variable="issued">
-    <date-part name="month" suffix=" "/>
-    <date-part name="day" suffix=", "/>
+    	<date-part name="month" suffix=" "/>
+    	<date-part name="day" suffix=", "/>
 		<date-part name="year" prefix=" " />
 		</date>
 		</group>
