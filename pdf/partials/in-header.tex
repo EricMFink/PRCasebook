@@ -82,9 +82,10 @@
 %=== Chapter & Section Headings ===
 \setkomafont{chapter}{\huge\color{Maroon}}
 \setkomafont{section}{\LARGE\color{Maroon}}
-\setkomafont{subsection}{\Large\color{Maroon}}
+\setkomafont{subsection}{\Large\normalfont\color{Maroon}}
 \setkomafont{subsubsection}{\large\normalfont\bfseries}
-\setkomafont{paragraph}{\normalsize\centering\normalfont}
+%\setkomafont{paragraph}{\centering\normalfont\normalsize}
+\addtokomafont{paragraph}{\centering\normalfont\normalsize}
 
 \makeatletter
 \renewcommand{\sectionlinesformat}[4]{%
