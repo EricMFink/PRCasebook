@@ -82,15 +82,15 @@
   \renewcommand{\tightlist}{\setlength{\topsep}{0em}\setlength{\partopsep}{.5em}\setlength{\itemsep}{.5em}\setlength{\parskip}{0em}}}
 
 %=== Chapter & Section Headings ===
-\setkomafont{chapter}{\huge\color{Maroon}}
-\setkomafont{section}{\Large\color{Maroon}}
-\setkomafont{subsection}{\large\color{Maroon}}
-\setkomafont{subsubsection}{\normalfont\large\color{Maroon}}
-\setkomafont{paragraph}{\normalfont\bfseries}
+\setkomafont{chapter}{\color{Maroon}}
+\setkomafont{section}{\color{Maroon}}
+\setkomafont{subsection}{\color{Maroon}}
+\setkomafont{subsubsection}{\normalfont\bfseries}
+\setkomafont{paragraph}{\centering\normalfont}
 
 \makeatletter
 \renewcommand{\sectionlinesformat}[4]{%
-\Ifstr{#1}{subsubsection}{%
+\Ifstr{#1}{subsection}{%
     \parbox[t]{\linewidth}{%
       \raggedsection\@hangfrom{\hskip #2#3}{#4}\par%
       \vspace*{-1\ht\strutbox}\rule{\linewidth}{.8pt}%
@@ -110,16 +110,16 @@
 %\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsubsectocentry]{subsubsection}
 \DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{section}
 \DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{subsection}
-\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=2em,entryformat=\small]{tocline}{subsubsection}
+%\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=2em,entryformat=\small]{tocline}{subsubsection}
 
 % Case, etc. first heading
-\newcommand{\casesection}[1]{\vspace{1em}\rmfamily{\bfseries{\centering{#1}\par}}}
+%\newcommand{\casesection}[1]{\rmfamily{\bfseries{\centering{#1}\par}}}
 % Case, etc. second heading
-\newcommand{\casesubsection}[1]{\vspace{1em}\rmfamily{\itshape{\centering{#1}\par}}}
+%\newcommand{\casesubsection}[1]{\vspace{.25em}\rmfamily{\itshape{\centering{#1}\par}}}
 % Case, etc. third heading
-\newcommand{\casesubsubsection}[1]{\vspace{1em}\rmfamily{\small{\centering{#1}\par}}}
+%\newcommand{\casesubsubsection}[1]{\vspace{.25em}\rmfamily{\small{\centering{#1}\par}}}
 
-%\graphicspath{/img/}
+%\graphicspath{../img/}
 \renewcommand*{\figureformat}{}
 \renewcommand*{\captionformat}{}
 
