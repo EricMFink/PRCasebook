@@ -1,14 +1,12 @@
 \usepackage{scrlayer-scrpage}
 \usepackage{graphicx}
 \usepackage{needspace}
-%\usepackage{titlesec}
 \usepackage{ccicons}
 \usepackage{fontawesome5}
 \usepackage{marginnote}
 \usepackage{sidenotes}
 \usepackage{booktabs}
 \usepackage{pdfpages}
-%\usepackage[onehalfspacing]{setspace}
 %\usepackage[defaultlines=2,all]{nowidow}
 %\usepackage{ragged2e}
 \raggedbottom
@@ -82,11 +80,11 @@
   \renewcommand{\tightlist}{\setlength{\topsep}{0em}\setlength{\partopsep}{.5em}\setlength{\itemsep}{.5em}\setlength{\parskip}{0em}}}
 
 %=== Chapter & Section Headings ===
-\setkomafont{chapter}{\color{Maroon}}
-\setkomafont{section}{\color{Maroon}}
-\setkomafont{subsection}{\color{Maroon}}
-\setkomafont{subsubsection}{\normalfont\bfseries}
-\setkomafont{paragraph}{\centering\normalfont}
+\setkomafont{chapter}{\huge\color{Maroon}}
+\setkomafont{section}{\LARGE\color{Maroon}}
+\setkomafont{subsection}{\Large\color{Maroon}}
+\setkomafont{subsubsection}{\large\normalfont\bfseries}
+\setkomafont{paragraph}{\normalsize\centering\normalfont}
 
 \makeatletter
 \renewcommand{\sectionlinesformat}[4]{%
@@ -101,23 +99,9 @@
 \makeatother
 
 % TOC entries
-\setkomafont{chapterentry}{\large}
-%\newcommand*{\sectocentry}[1]{\large #1}
-%\newcommand*{\subsectocentry}[1]{\normalsize #1}
-%\newcommand*{\subsubsectocentry}[1]{\small #1}
-%\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\sectocentry]{section}
-%\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsectocentry]{subsection}
-%\RedeclareSectionCommand[beforeskip=\baselineskip,afterskip=\baselineskip,afterindent=false,tocentryformat=\subsubsectocentry]{subsubsection}
-\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{section}
+\setkomafont{chapterentry}{\Large\bfseries}
+\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\large\bfseries]{tocline}{section}
 \DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{subsection}
-%\DeclareTOCStyleEntry[beforeskip=.5em,numwidth=0em,indent=2em,entryformat=\small]{tocline}{subsubsection}
-
-% Case, etc. first heading
-%\newcommand{\casesection}[1]{\rmfamily{\bfseries{\centering{#1}\par}}}
-% Case, etc. second heading
-%\newcommand{\casesubsection}[1]{\vspace{.25em}\rmfamily{\itshape{\centering{#1}\par}}}
-% Case, etc. third heading
-%\newcommand{\casesubsubsection}[1]{\vspace{.25em}\rmfamily{\small{\centering{#1}\par}}}
 
 %\graphicspath{../img/}
 \renewcommand*{\figureformat}{}
@@ -140,13 +124,6 @@
   July\or August\or September\or October\or November\or
   December\fi\space\number\year
 }
-
-%\usepackage[export]{adjustbox}% http://ctan.org/pkg/adjustbox
-%\let\oldincludegraphics\includegraphics
-%\renewcommand{\includegraphics}[2][]{%
-%  \oldincludegraphics[#1,max width=.75\linewidth]{#2}}
-%
-%\newcommand{\blankpage}{\newpage\hbox{}\thispagestyle{empty}\newpage}
 
 \usepackage[skins,breakable]{tcolorbox}
 \tcbset{enhanced jigsaw, title=\textcolor{quarto-callout-note-color}\hspace{0.5em}{Note}, rightrule=.15mm, left=2mm, toptitle=1mm, colframe=quarto-callout-note-color-frame, colbacktitle=quarto-callout-note-color!10!white, leftrule=.75mm, colback=white, breakable, bottomrule=.15mm, opacitybacktitle=0.6, titlerule=0mm, toprule=.15mm, coltitle=black, opacityback=0, arc=.35mm, bottomtitle=1mm, boxsep=2mm, parbox=false}

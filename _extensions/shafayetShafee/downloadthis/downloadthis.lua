@@ -23,7 +23,6 @@ SOFTWARE.
 ]]--
 
 
-
 local str = pandoc.utils.stringify
 --local p = quarto.log.output
 
@@ -117,5 +116,4 @@ return {
     end
   end
 }
-
 

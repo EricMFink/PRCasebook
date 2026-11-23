@@ -130,7 +130,6 @@ The referee found that the attorneys did not violate rule 4-7.2(b)(3), relying o
 
 The referee also concluded that the ad was protected speech and therefore that an interpretation of rules to prohibit the ad would render the rules unconstitutional as applied.
 
-\pagebreak
 
 ##### **Analysis**
 
@@ -324,7 +323,6 @@ While the substantive meaning of the imposed disclaimer may conform to the requi
 
 For the foregoing reasons, we hold that Hunter's blog posts are potentially misleading commercial speech that the VSB may regulate. We further hold that circuit court did not err in determining that the VSB's interpretation of Rule 1.6 violated the First Amendment. Finally, we hold that because the circuit court erred in imposing one disclaimer did not fully comply with Rule 7.2(a)(3), we reverse and remand for imposition of disclaimers that fully comply with that Rule.
 
-\pagebreak
 
 #### Justice Lemons, with whom Justice McClanahan joins, dissenting in part.
 
@@ -376,7 +374,6 @@ In this case, the policies the Bar advances have no persuasive force when applie
 
 Accordingly, I would hold that Hunter's speech is political, is entitled to the heightened scrutiny test, and that he cannot be forced to include the advertising disclaimer under Rule 7.2 that the Bar seeks to force upon his writings.
 
-\clearpage
 
 ## Solicitation
 

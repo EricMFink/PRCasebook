@@ -13,14 +13,14 @@ format:
   pdf:
     pdf-engine: xelatex
     documentclass: scrbook
-    classoption: [letterpaper, 11pt, DIV=9, openright, headings=big]
+    classoption: [letterpaper, 11pt, DIV=9, openright]
     has-frontmatter: true
     toc: true
     toc-flat: true
     toc-depth: 3
     toc-title: "Contents"
     number-sections: true
-    number-depth: 2
+    number-depth: 1
     template-partials:
       - "pdf/partials/before-body.tex"
       - "pdf/partials/after-body.tex"
@@ -40,7 +40,6 @@ filters:
   - latex-environment
 validate-yaml: false
 environments: [legalcode]
-commands: [casesection,casesubsection,casesubsubsection]
 bibliography: refs/PR.yaml
 csl: refs/indigobook-inline.csl
 citation-abbreviations: refs/abbreviations.json
@@ -63,6 +62,6 @@ suppress-bibliography: true
 
 {{< include /02-Main/chap8.qmd >}}
 
-\backmatter
-
 \pagestyle{plain.scrheadings}
+
+\backmatter

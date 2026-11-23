@@ -26,7 +26,6 @@ function get_header_data(data, numbered)
   return get_headers
 end
 
-
 function change_ref(data)
   local change_rawinline = {
     -- change the nameref instance with pandoc.Link
@@ -42,7 +41,6 @@ function change_ref(data)
   }
   return change_rawinline
 end
-
 
 local function add_div_id(div)
   return {

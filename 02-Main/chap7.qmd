@@ -245,7 +245,6 @@ In finding Bishop's performance was within the normal range of competence we are
 
 We conclude Hischke's trial counsel acted reasonably when he informed the court his client intended to commit perjury. Hischke satisfied the requisite standard that a lawyer must be "convinced with good cause to believe the defendant's proposed testimony would be deliberately untruthful." Because we find Hischke was not denied effective assistance of counsel, we do not address whether Hischke has demonstrated prejudice. We affirm.
 
-\pagebreak
 
 #### Carter, Justice (concurring specially)
 
@@ -257,7 +256,6 @@ This case does not discuss, because the issue is not raised, whether the action 
 
 Counsel who reach the conclusion that a client is about to testify falsely should first attempt to dissuade the client from giving the offending testimony. If unsuccessful, counsel should attempt a quiet withdrawal from the representation. The reasons set forth in the application to withdraw should only identify the existence of an unspecified attorney-client disagreement that might compromise the attorney's ethical responsibilities. At no time should the matter of impending perjury be disclosed. If the attempt to withdraw fails, then counsel should proceed with the case and conduct any questioning of the witness so as not to invite the suspected perjury. If the suspected perjury nonetheless occurs, counsel should make no reference of it in arguing the case to the trier of fact. I believe that if a lawyer proceeds in this manner, he or she may fully satisfy the lawyer's ethical obligation to prevent perjury without the necessity of advising the court as to the client's intent to testify falsely.
 
-\pagebreak
 
 ### @USLong_8thCir1988
 
@@ -337,7 +335,6 @@ The trial judge here acted primarily with these concerns in mind. The judge disc
 
 Under such a procedure, the chance for violations of the defendant's constitutional rights will be reduced, the revelation of further client confidences will be prevented, and the defendant can make a knowing waiver of her constitutional right to testify and to counsel. It will also be necessary to establish that the waiver was voluntary and that the defendant's rights were not violated prior to the waiver. Such inquiries, however, are best made at an evidentiary hearing.
 
-\pagebreak
 
 ##### **Conclusion**
 
@@ -361,7 +358,6 @@ Rule 3.6 recognizes the risk that a lawyer’s public commentary, especially in 
 
 We agree that Leavitt made statements at the press conference that violated rule 3.6. And we conclude that the appropriate sanction is a public reprimand.
 
-\pagebreak
 
 ##### **Background**
 
@@ -600,7 +596,6 @@ When determining whether the offending conduct threatens to taint the trial, cou
 
 Here, none of the five factors weigh in favor of disqualification. As discussed above, there appears to be no ethical violation by Peterson's continued representation, let alone an egregious violation warranting disqualification. Relatedly, because Plaintiffs have other sources for their proposed evidence, they cannot demonstrate prejudice or hardship by Peterson's continued representation. Next, there is no evidence suggesting a decrease in the effectiveness of counsel. Finally, this case is in its early stages. Should further information develop suggesting that Peterson's representation could taint these proceedings, the Court can revisit the issue.
 
-\clearpage
 
 ## Prosecutorial Misconduct
 
@@ -650,7 +645,6 @@ The prosecutor in a criminal case shall:
 - (e\) The prosecutor should be knowledgeable about, consider, and where appropriate develop or assist in developing alternatives to prosecution or conviction that may be applicable in individual cases or classes of cases. The prosecutor's office should be available to assist community efforts addressing problems that lead to, or result from, criminal activity or perceived flaws in the criminal justice system.
 - (f\) The prosecutor is not merely a case-processor but also a problem-solver responsible for considering broad goals of the criminal justice system. The prosecutor should seek to reform and improve the administration of criminal justice, and when inadequacies or injustices in the substantive or procedural law come to the prosecutor's attention, the prosecutor should stimulate and support efforts for remedial action. The prosecutor should provide service to the community, including involvement in public service and Bar activities, public education, community service activities, and Bar leadership positions. A prosecutorial office should support such activities, and the office's budget should include funding and paid release time for such activities.
 
-\pagebreak
 
 #### Standard 3-1.3. The Client of the Prosecutor
 
@@ -865,7 +859,6 @@ Taylor filed the instant action in October 1978, claiming he was induced to plea
 
 The defendant moved for judgment on the pleadings, which Judge Griesa granted in July 1980. He reasoned that because a prosecutor does not have custody over a convicted prisoner, Kavanagh was not a proper defendant in the suit to set aside Taylor's conviction. Extending the doctrine of absolute immunity to a prosecutor's plea bargaining activities. Judge Griesa also held that Kavanagh was immune from liability, and dismissed the action. We affirm.
 
-\pagebreak
 
 ##### **II.**
 
@@ -883,7 +876,6 @@ Decisions to engage in conduct of this character are not directly related to the
 
 This functional approach requires us to evaluate plea bargaining in light of the general purpose of the absolute immunity doctrine. Judge Griesa properly recognized that the purpose of the doctrine "is to insure that a prosecutor will perform his difficult function with complete vigor and independence, undeterred by the spectre of liability for damages with respect to his activities." Learned Hand has told us that the doctrine we apply today supports the just administration of the criminal law, for we all would suffer if prosecutors "who try to do their duty were subject to the constant dread of retaliation." The threat of § 1983 liability would inhibit prosecutors from exercising independent judgment and would divert their attention from the immediate matters at hand.
 
-\pagebreak
 
 ##### **III.**
 
@@ -1037,7 +1029,6 @@ Sovereign immunity—usually called governmental immunity when referring to poli
 
 Like every court of appeals that has addressed the issue, the court of appeals concluded here that governmental immunity applies to Hillman's wrongful-termination claim and has not been waived. Presenting three alternative grounds for reversal, Hillman argues that (1\) this Court abrogated or waived the County's immunity from this type of suit in _Sabine Pilot Service, Inc. v. Hauck_, in which we recognized a cause of action for wrongful termination of an at-will employee for refusal to perform an illegal act, (2\) the Texas legislature waived the County's immunity through the Michael Morton Act, or (3\) we should abrogate or waive the County's immunity from such suits today. Although Hillman and his supporting amici bolster these grounds with serious and important policy concerns, we ultimately find the grounds themselves unconvincing.
 
-\pagebreak
 
 ##### _A. Sabine Pilot_
 
@@ -1093,7 +1084,6 @@ We in no way discount the serious policy concerns that Hillman, his supporting a
 
 As we have repeatedly confirmed, "it is the Legislature's sole province to waive or abrogate sovereign immunity." That the legislature has recently revised the Michael Morton Act to strengthen its protections illustrates its continuing awareness of the Act and its importance, as well as its willingness to take steps to improve it. Whether waiving immunity from _Sabine Pilot_ claims should be the next step in that process is up to the legislature, and we must defer to it to "protect its policymaking function."
 
-\pagebreak
 
 ##### **III\. Conclusion**
 

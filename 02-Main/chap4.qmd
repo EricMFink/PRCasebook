@@ -58,7 +58,6 @@ _Maintaining Competence_
 
 :::
 
-\clearpage
 
 ## Malpractice
 
@@ -129,7 +128,6 @@ The term "legal malpractice" is sometimes used generally to refer to any claim a
 - (1\) A lawyer is subject to liability to a client for injury caused by breach of contract in the circumstances and to the extent provided by contract law.
 - (2\) A client is entitled to restitutionary, injunctive, or declaratory remedies against a lawyer in the circumstances and to the extent provided by generally applicable law governing such remedies.
 
-\pagebreak
 
 #### § 56. Liability to a Client or Nonclient Under General Law
 
@@ -196,7 +194,6 @@ The facts of the instant case are more similar to those of _Hiemstra v. Huston_.
 
 In the case before us, the objective of the deed was to transfer ownership of the real estate to joint tenancy between the father and the son. The complaint alleges no invalidity in the documents and no conflict of the result with decedent's intentions. The estate taxes that were due at Theodore Marker's death were the natural result of the form of ownership chosen by the decedent and not the result of any negligence by respondent. In this case summary judgment was proper. We therefore need not discuss the disputed application of the statute of limitations.
 
-\pagebreak
 
 ### @IshmaelMillington_CalCtApp1966
 
@@ -406,7 +403,6 @@ Second, while it may be true that a majority of courts that have reached the iss
 
 This court should protect the public from lawyers' misdeeds, not the other way around. A plaintiff who is not categorically innocent seeking compensation under ordinary principles of tort law faces no light burden. Such a guilty plaintiff must prove a duty, a breach of that duty, injuries proximately caused by the breach, and the amount of his damages. I see no reason to provide additional protections for lawyers.
 
-\clearpage
 
 ## Ineffective Assistance of Counsel
 
@@ -454,7 +450,6 @@ For that reason, the Court has recognized that "the right to counsel is the righ
 
 The Court has not elaborated on the meaning of the constitutional requirement of effective assistance in the latter class of cases---that is, those presenting claims of "actual ineffectiveness." In giving meaning to the requirement, however, we must take its purpose---to ensure a fair trial---as the guide. The benchmark for judging any claim of ineffectiveness must be whether counsel's conduct so undermined the proper functioning of the adversarial process that the trial cannot be relied on as having produced a just result.
 
-\pagebreak
 
 ##### **III**
 

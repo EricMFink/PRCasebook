@@ -40,7 +40,6 @@
 -   \(b\) A lawyer who receives a document or electronically stored information relating to the representation of the lawyer's client and knows or reasonably should know that the document or electronically stored information was inadvertently sent shall promptly notify the sender.
 :::
 
-\pagebreak
 
 ### North Carolina Rules of Professional Conduct
 
@@ -247,7 +246,6 @@ The district court also made specific factual findings regarding the nature of M
 
 This is a close case, even after we give the required deference to the state and district courts. The choices made by McClure's counsel give us significant pause, and, were we deciding this case as an original matter, we might decide it differently. But we take as true the district court's specific factual findings as to what transpired---including what McClure said and did, and what actions Mecca took and why he took them---and we conclude that Mecca made the disclosure "reasonably believing it was necessary to prevent the client from committing a criminal act that Mecca believed was likely to result in imminent death or substantial bodily harm." Mecca therefore did not violate the duty of confidentiality in a manner that rendered his assistance constitutionally ineffective.
 
-\clearpage
 
 ## Attorney-Client Privilege
 
@@ -287,7 +285,6 @@ A communication is made for the purpose of obtaining or providing legal assistan
 -   \(1\) If two or more persons are jointly represented by the same lawyer in a matter, a communication of either co-client that otherwise qualifies as privileged under §§ 68-72 and relates to matters of common interest is privileged as against third persons, and any co-client may invoke the privilege, unless it has been waived by the client who made the communication.
 -   \(2\) Unless the co-clients have agreed otherwise, a communication described in Subsection (1\) is not privileged as between the co-clients in a subsequent adverse proceeding between them.
 
-\pagebreak
 
 #### § 76. The Privilege in Common-Interest Arrangements
 
@@ -494,7 +491,6 @@ We discern no reason to depart from the *Purcell* decision, and hold that Moe's 
 
 In sum, we reaffirm that a client's communications to his lawyer threatening harm are privileged unless the crime-fraud exception applies. Because the Commonwealth does not assert that Moe's communications come within the crime-fraud exception, they were privileged. The order denying Attorney Doe's motion to quash is hereby vacated and the case is remanded to the Superior Court for further proceedings consistent with this opinion.
 
-\clearpage
 
 ## Attorney Work Product
 
@@ -636,7 +632,6 @@ Likewise, the government's reliance on *Arthur Young* is misplaced. In *Arthur Y
 
 Furthermore, we are mindful that independent auditors have significant leverage over the companies whose finances they audit. An auditor can essentially compel disclosure by refusing to provide an unqualified opinion otherwise. Finding waiver based on such disclosures could well encourage the sort of "inefficiency, unfairness and sharp practices" that *Hickman* sought to avoid. For example, it might discourage companies from seeking legal advice and candidly disclosing that information to independent auditors. Moreover, the government has not proffered any good reason for wanting the Dow Documents other than its desire to know what Dow's counsel thought about the Chemtech partnerships. Granting discovery under these circumstances would undercut the adversary process and let the government litigate "on wits borrowed from the adversary," We conclude that the district court applied the correct legal standard and acted within its discretion in determining that Dow had not waived work-product protection. Consequently, we affirm the district court's decision denying the government's motion to compel with respect to the Dow Documents.
 
-\clearpage
 
 ## Attorney-Client Privilege & Work Product for Organizational Clients
 
@@ -703,7 +698,6 @@ Here the Government was free to question the employees who communicated with Tho
 
 Needless to say, we decide only the case before us, and do not undertake to draft a set of rules which should govern challenges to investigatory subpoenas. Any such approach would violate the spirit of Federal Rule of Evidence 501. While such a "case-by-case" basis may to some slight extent undermine desirable certainty in the boundaries of the attorney-client privilege, it obeys the spirit of the Rules. At the same time we conclude that the narrow "control group test" sanctioned by the Court of Appeals in this case cannot, consistent with "the principles of the common law as interpreted in the light of reason and experience," govern the development of the law in this area.
 
-\clearpage
 
 ## Exceptions to Attorney-Client Privilege and Work Product Protection
 

@@ -63,9 +63,9 @@ format:
     citation-location: document
     toc: true
     number-sections: true
-    number-depth: 3
+    number-depth: 2
     toc-location: left
-    toc-depth: 4
+    toc-depth: 3
     callout-icon: false
     lightbox: true
     include-in-header:

@@ -2,7 +2,6 @@
 -- Copyright (c) 2014 Will Bond <will@wbond.net>
 -- Licensed under the MIT license.
 
-
 function basename(path)
     local basename_match = path:match('[/\\]([^/\\]+)$')
     if basename_match then
@@ -11,7 +10,6 @@ function basename(path)
 
     return path, nil
 end
-
 
 function extension(path)
     path = path:lower()
@@ -31,7 +29,6 @@ function extension(path)
     return path:match('%.([^.]+)$')
 end
 
-
 function in_table(value, list)
     for i=1, #list do
         if list[i] == value then
@@ -40,7 +37,6 @@ function in_table(value, list)
     end
     return false
 end
-
 
 function string_to_bit_table(chars)
     local output = {}
@@ -58,7 +54,6 @@ function string_to_bit_table(chars)
     return output
 end
 
-
 function bit_table_to_string(bits)
     local output = {}
     for i = 1, #bits do
@@ -67,7 +62,6 @@ function bit_table_to_string(bits)
     end
     return table.concat(output)
 end
-
 
 function bitwise_and(a, b)
     local a_bytes = string_to_bit_table(a)
@@ -89,7 +83,6 @@ function bitwise_and(a, b)
     return bit_table_to_string(output)
 end
 
-
 -- Unpack a little endian byte string into an integer
 function unpack_le(chars)
     local bit_table = string_to_bit_table(chars)
@@ -101,7 +94,6 @@ function unpack_le(chars)
     return tonumber(table.concat(result), 2)
 end
 
-
 -- Unpack a big endian byte string into an integer
 function unpack_be(chars)
     local bit_table = string_to_bit_table(chars)
@@ -112,7 +104,6 @@ function unpack_be(chars)
     return tonumber(table.concat(bit_table), 2)
 end
 
-
 -- Takes the first 4-8k of an EBML file and identifies if it is matroska or webm
 -- and it it contains just video or just audio.
 function ebml_parse(content)
@@ -121,7 +112,6 @@ function ebml_parse(content)
 
     local header_token, header_value, used_bytes = ebml_parse_section(content)
     position = position + used_bytes
-
 
     if header_token ~= '\x1AE\xDF\xA3' then
         return nil, 'Unable to find EBML ID'
@@ -194,7 +184,6 @@ function ebml_parse(content)
     end
 end
 
-
 -- Parses a section of an EBML document, returning the EBML ID at the beginning,
 -- plus the value as a table with child EBML IDs as keys and the number of
 -- bytes from the content that contained the ID and value
@@ -259,7 +248,6 @@ function ebml_parse_section(content)
     return ebml_id, ebml_value, used_bytes
 end
 
-
 -- Should accept 12+ bytes, will return the ebml id, the data length and the
 -- number of bytes that were used to hold those values.
 function ebml_id_and_length(chars)
@@ -275,7 +263,6 @@ function ebml_id_and_length(chars)
 
     return ebml_id, element_length, id_length + used_bytes
 end
-
 
 -- Should accept 8+ bytes, will return the data length plus the number of bytes
 -- that were used to hold the data length.
@@ -302,7 +289,6 @@ function ebml_length(chars)
     return tonumber(table.concat(bits), 2), value_length
 end
 
-
 function binary_tests(content, ext)
     local length = #content
     local _1_8   = content:sub(1, 8)
@@ -313,7 +299,6 @@ function binary_tests(content, ext)
     local _1_3   = content:sub(1, 3)
     local _1_2   = content:sub(1, 2)
     local _9_12  = content:sub(9, 12)
-
 
     -- Images
     if _1_4 == '\xC5\xD0\xD3\xC6' then
@@ -365,7 +350,6 @@ function binary_tests(content, ext)
     if _1_4 == '\x00\x00\x01\x00' then
         return 'application/vnd.microsoft.icon'
     end
-
 
     -- Audio/Video
     if _1_4 == '\x1AE\xDF\xA3' and length > 1000 then
@@ -471,7 +455,6 @@ function binary_tests(content, ext)
         return 'video/x-flv'
     end
 
-
     if _1_5 == '%PDF-' then
         return 'application/pdf'
     end
@@ -479,7 +462,6 @@ function binary_tests(content, ext)
     if _1_5 == '{\\rtf' then
         return 'text/rtf'
     end
-
 
     -- Office '97-2003 formats
     if _1_8 == '\xD0\xCF\x11\xE0\xA1\xB1\x1A\xE1' then
@@ -544,7 +526,6 @@ function binary_tests(content, ext)
         return 'application/zip'
     end
 
-
     -- Archives
     if length > 257 then
         if content:sub(258, 263) == 'ustar\x00' then
@@ -599,7 +580,6 @@ function binary_tests(content, ext)
     return nil
 end
 
-
 function text_tests(content)
     local lower_content = content:lower()
 
@@ -651,7 +631,6 @@ function text_tests(content)
     return nil
 end
 
-
 local ext_map = {
     css   = 'text/css',
     csv   = 'text/csv',
@@ -685,9 +664,7 @@ function ext_tests(ext)
     return 'text/plain'
 end
 
-
 local _M = {}
-
 
 function _M.via_path(path, filename)
     local f, err = io.open(path, 'r')
@@ -704,7 +681,6 @@ function _M.via_path(path, filename)
 
     return _M.via_content(content, filename)
 end
-
 
 function _M.via_content(content, filename)
     local ext = extension(filename)

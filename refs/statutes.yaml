@@ -1,0 +1,62 @@
+---
+references:
+- id: 27NCAdminCode03.0600
+  citation-key: 27NCAdminCode03.0600
+  container-title: N.C. Admin. Code
+  language: en
+  section: '03.0600'
+  title: Rules Governing Admission to the Practice of Law in the State of North Carolina
+  type: legislation
+  volume: '27'
+
+- id: FedREvid502
+  citation-key: FedREvid502
+  container-title: Fed. R. Evid.
+  language: en
+  note: '502'
+  title: Fed. R. Evid. 502
+  type: legislation
+
+- id: NCBdLawExaminersCharacterFitness
+  authority: N.C. Bd. of Law Examiners
+  citation-key: NCBdLawExaminersCharacterFitness
+  genre: Character & Fitness Guidelines
+  language: en
+  title: N.C. Bd. of Law Examiners, Character & Fitness Guidelines
+  title-short: Character & Fitness Guidelines
+  type: standard
+
+- id: NCGenStat84-21
+  citation-key: NCGenStat84-21
+  container-title: N.C. Gen. Stat.
+  language: en
+  section: 84-21
+  title: NCGS 84-21 Practice of law defined
+  type: legislation
+
+- id: NCGenStat84-28
+  citation-key: NCGenStat84-28
+  container-title: N.C. Gen. Stat.
+  language: en
+  section: 84-28
+  title: NCGS 84-28 Discipline and disbarment
+  type: legislation
+
+- id: NCRPC8.6
+  citation-key: NCRPC8.6
+  container-title: N.C. R.P.C.
+  language: en
+  note: '8.6'
+  title: N.C. RPC 8.6
+  type: legislation
+
+- id: Rest2dLawGoverningLawyers
+  citation-key: Rest2dLawGoverningLawyers
+  genre: Restatement (Second) of the Law Governing Lawyers
+  issued:
+    - year: 2000
+  language: en
+  publisher: Am. Law Inst.
+  title: Restatement (Second) of the Law Governing Lawyers
+  type: standard
+...

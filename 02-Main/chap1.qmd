@@ -6,9 +6,8 @@
 
 Law in the United States is a heavily regulated industry. Lawyers are licensed in each state. They are governed by professional rules, usually adopted and enforced by state supreme courts. The courts regulate lawyers separately as well, through supervisory decisions in the course of litigation and by implementing common law civil liability rules that govern legal practice. These include malpractice, breach of fiduciary duty, and other causes of action. Administrative agencies---particularly federal agencies---also establish and implement rules governing lawyers who practice before them. Federal and state legislatures play a further role in regulating the bar, providing statutory regulations and criminal penalties that apply to lawyers. 
 
-Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts. 
+Nevertheless, courts, commentators, and legal ethics regulators continue to conceptualize law as a "self-regulated profession." ... The preamble to the ... ABA Model Rules of Professional Conduct maintains an emphasis on the importance of self-regulation despite the fact that the Rules are intended to be adopted as enforceable by state supreme courts.
 
-\pagebreak
 
 ### Model Rules of Professional Conduct 
 
@@ -76,11 +75,10 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 
 15 U.S.C. § 7245. The SEC rules set out standards and procedures for mandatory reporting by attorneys ([17 C.F.R. §§ 205.3-205.5](https://www.law.cornell.edu/cfr/text/17/part-205)). Attorneys who violate those are subject to "the civil penalties and remedies for a violation of the federal securities laws available to the Commission in an action brought by the Commission thereunder," § 205.6(a), as well as disciplinary proceedings by the Commission," which "may result in an attorney being censured, or being temporarily or permanently denied the privilege of appearing or practicing before the Commission," § 205.6(b). They "may also be subject to discipline for the same conduct in a jurisdiction where the attorney is admitted or practices." § 205.6(b).
 
-\pagebreak
 
 ## Misconduct & Discipline
 
-### @NCGenStat84-2.8
+### @NCGenStat84-28
 
 ::: {.legalcode}
 
@@ -119,7 +117,6 @@ For example, in Section 307 of the Sarbanes-Oxley Act of 2002, Congress directed
 - (a\) A lawyer shall not make a statement that the lawyer knows to be false or with reckless disregard as to its truth or falsity concerning the qualifications or integrity of a judge, adjudicatory officer or public legal officer, or of a candidate for election or appointment to judicial or legal office.
 - (b\) A lawyer who is a candidate for judicial office shall comply with the applicable provisions of the Code of Judicial Conduct.
 
-\pagebreak
 
 #### Rule 8.3 -- Reporting Professional Misconduct
 
@@ -228,7 +225,6 @@ We now turn to a more in-depth examination of the reporting requirement in Louis
 
 Thus, the rule has three distinct requirements: (1\) the lawyer must possess unprivileged knowledge of a violation of the Rules of Professional Conduct; (2\) the lawyer must report that knowledge; and (3\) the report must be made to a tribunal or other authority empowered to investigate or act on the violation. We will discuss each requirement in turn.
 
-\pagebreak
 
 ##### _Knowledge_
 
@@ -242,7 +238,6 @@ Once the lawyer decides that a reportable offense has likely occurred, reporting
 
 Louisiana Rule 8.3(a) requires that the report be made to "a tribunal or other authority empowered to investigate or act upon such violation." The term "tribunal or other authority" is not specifically defined. However, as the comments to Model Rule 8.3(a) explain, the report generally should be made to the bar disciplinary authority. Therefore, a report of misconduct by a lawyer admitted to practice in Louisiana must be made to the Office of Disciplinary Counsel.
 
-\pagebreak
 
 ##### **Determination of Respondent's Misconduct and Appropriate Discipline**
 
@@ -266,7 +261,6 @@ Respondent, Jack Allen Blakeslee, of Caldwell, Ohio, was admitted to the practic
 
 After conducting a hearing, a panel of the Board of Professional Conduct issued a report finding by clear and convincing evidence that Blakeslee had committed the charged misconduct and recommending that we publicly reprimand him for that misconduct. The board adopted the panel's findings and recommendation. For the reasons that follow, we adopt the board's finding of misconduct but suspend Blakeslee from the practice of law for one year with six months stayed on the condition that he engage in no further misconduct.
 
-\pagebreak
 
 ##### **Misconduct**
 
@@ -334,7 +328,6 @@ In this case---as in _Blauvelt_ and _Linnen_ before it---we are dealing with adm
 
 We acknowledge that Blakeslee does not appear to have harbored any animosity toward Carpenter Wilkinson, her colleagues, or their work as victim's advocates. Nor did he intend to intimidate them. While the record demonstrates that Blakeslee regrets his misconduct, it also shows that he lacks sufficient insight into the origin of and motivation for his inappropriate behavior to effectuate positive change. We therefore reject the board's assessment that there is no factual basis for concluding that the public needs to be protected from additional violations, and we conclude that the appropriate sanction for Blakeslee's misconduct is a one-year suspension with six months stayed on the condition that he engage in no further misconduct.
 
-\pagebreak
 
 ##### **Conclusion**
 
@@ -348,7 +341,6 @@ The court is deeply troubled by Attorney Harp's apparent contempt and utter lack
 
 The court is not sanctioning Attorney Harp merely for using generative AI. Attorneys may use such tools responsibly. The sanctionable conduct here includes Attorney Harp's submission of false legal authority, lack of reasonable inquiry, lack of candor to the court, and destruction of evidence during the ensuing sanctions investigation.
 
-\pagebreak
 
 ##### **Background**
 
@@ -452,7 +444,6 @@ Because of Attorney Harp's continued obfuscation of the truth and based on his o
 
 Accordingly, the court makes the following conclusions of law and findings of fact based on Attorney Harp's conduct.
 
-\pagebreak
 
 ##### A. Spoliation of Evidence
 
@@ -476,7 +467,6 @@ The court also finds that Attorney Harp acted in bad faith. The epitome of bad f
 
 Because the court finds that Attorney Harp in bad faith engaged in spoliation of evidence, it may make an adverse inference against him. Accordingly, the court draws an adverse inference against Attorney Harp and concludes that his ChatGPT account, had he not deleted it, would have shown that the four quotations at issue—and likely other statements of law that the court drew to Attorney Harp's attention as incorrect—were generated by ChatGPT.
 
-\pagebreak
 
 ##### C\. Court's Inherent Authority
 
@@ -510,7 +500,6 @@ When lawyers are caught submitting AI-generated misrepresentations to the court,
 
 The court sincerely wishes that Attorney Harp had chosen the former path rather than the latter, and it warns anyone who may find themselves in a similar position to carefully consider the consequences of their next move and to confront their situation with upfront honesty and contrition. Any lawyer who believes this court will hesitate to vigorously investigate and impose career-altering sanctions for such misconduct is gravely mistaken.
 
-\clearpage
 
 ## Bar Admission
 
@@ -596,7 +585,6 @@ In addition to the educational and examination requirements, applicants must als
 
 - Evidence of current mental impairment, including evidence of impairment due to psychiatric conditions, is one of the factors about which the Board must inquire in determining the applicant’s fitness to practice law. Board members recognize that the stresses of law school, as well as other life factors, frequently result in applicants seeking psychiatric or psychological counseling. The Board encourages any applicant to obtain such counseling or treatment if needed. The applicant should not allow the bar application process to deter them from obtaining treatment or counseling. Applicants should be aware that the Board looks favorably on applicants’ self-recognition of their need for treatment and appropriate utilization of professional services.
 
-\pagebreak
 
 #### E. Drug or alcohol dependency:
 
@@ -863,11 +851,10 @@ Applicant passed the February 2008 New York State bar exam and the State Board o
 
 Applicant has disclosed various student loans with balances now totaling about \$430,000. He has stated that the loans are currently delinquent but professes good faith intentions to pay them. He has attributed his nonpayment to the downturn in the economy and bad faith negotiations on the part of some of the loan servicers. Our review of the application indicates that the disbursement dates of the loans cover a 20-year period, from as early as 1985. Applicant has not made any substantial payments on the loans. He has not been flexible in his discussions with the loan servicers. Under all the circumstances herein, we conclude that applicant has not presently established the character and general fitness requisite for an attorney and counselor-at-law.
 
-\clearpage
 
 ## Unauthorized Practice of Law
 
-### @NCGenStat84-2.1
+### @NCGenStat84-21
 
 ::: {.legalcode}
 
@@ -1153,7 +1140,6 @@ Restricting the practice of law, including the provision of legal advice, to law
 
 Moreover, the restriction on the provision of legal advice does not prevent plaintiffs from sharing and distributing legal information. Paralegals may also assist clients with filling out forms, provided there is appropriate supervision by an attorney. In other words, North Carolina has struck a balance between limiting the practice of law and provision of legal advice to licensed attorneys and recognizing that paralegals are well-equipped to assist in the delivery of legal services. Plaintiffs argue that other jurisdictions have adopted different approaches and allow paralegals to provide additional services directly to clients. Plaintiffs also note their own efforts in trying to persuade the North Carolina General Assembly to do the same. That "[a]nother state legislature might balance the interests differently" does not mean that the balance struck by North Carolina runs afoul of the First Amendment. North Carolina's current limits on the practice of law and the provision of legal advice reasonably fit within its interest in regulating the legal profession.
 
-\clearpage
 
 ## Law Firms
 
@@ -1173,7 +1159,6 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 	- If a client cannot be given notice, the representation of that client may be transferred to the purchaser only upon entry of an order so authorizing by a court having jurisdiction. The seller may disclose to the court in camera information relating to the representation only to the extent necessary to obtain an order authorizing the transfer of a file.
 	- (d\) The fees charged clients shall not be increased by reason of the sale.
 
-\pagebreak
 
 #### Rule 5.1 -- Responsibilities of a Partner or Supervisory Lawyer
 
@@ -1217,7 +1202,6 @@ Moreover, the restriction on the provision of legal advice does not prevent plai
 - (a\) a partnership, shareholders, operating, employment, or other similar type of agreement that restricts the right of a lawyer to practice after termination of the relationship, except an agreement concerning benefits upon retirement; or
 - (b\) an agreement in which a restriction on the lawyer's right to practice is part of the settlement of a client controversy.
 
-\pagebreak
 
 #### Rule 5.7 -- Responsibilities Regarding Law-Related Services
 

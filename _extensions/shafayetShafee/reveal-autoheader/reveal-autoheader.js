@@ -34,7 +34,6 @@ function AutoHeader() {
     }
   });
 
-
   nodeList.forEach((node, index) => {
     const hname = node.getAttribute('data-hname');
 
@@ -50,7 +49,6 @@ function AutoHeader() {
     }
   });
 };
-
 
 window.addEventListener("load", (event) => {
   AutoHeader();

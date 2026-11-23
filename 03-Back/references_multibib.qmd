@@ -1,0 +1,38 @@
+# References {.unnumbered}
+
+## Cases {.unnumbered}
+
+::: {#refs-cases}
+:::
+
+## Codified Legal Authorities {.unnumbered}
+
+### U.S. Constitution {.unnumbered}
+
+::: {#refs-constitution}
+:::
+
+### Federal Statutes {.unnumbered}
+
+::: {#refs-statutes}
+:::
+
+### State Statutes {.unnumbered} 
+
+::: {#refs-state_statutes}
+:::
+
+### Federal Rules of Civil Procedure {.unnumbered}
+
+::: {#refs-frcp}
+:::
+
+### Restatement {.unnumbered}
+
+::: {#refs-restatement}
+:::
+
+## Other Material {.unnumbered}
+
+::: {#refs-other}
+::: 

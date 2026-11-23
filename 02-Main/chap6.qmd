@@ -105,7 +105,6 @@ If the above requirements are met, Lawyer may proceed with the common representa
 
 If Lawyer determines at the outset that the common representation will be adverse to the interests of either Buyer or Seller, or that his judgment will be impaired by loyalty to Seller, Lawyer may not represent both parties. Similarly, if Buyer does not consent to the joint representation, Lawyer may not represent both parties.
 
-\pagebreak
 
 ##### **Inquiry #2:**
 
@@ -155,7 +154,6 @@ Lawyers who traditionally represent the borrower in a commercial loan closing ar
 -   Having the lender’s lawyer perform the property and business due diligence functions may result in the disclosure of confidential information relative to the borrower’s property or its business interests that would not be disclosed if the borrower’s lawyer performed these functions.
 -   Unless the borrower is sophisticated and instructs its lawyer to be actively involved, the borrower’s lawyer may be placed in the role of “outsider” or passive observer, which may limit the quality and scope of the representation that the borrower receives. It will also invite, notwithstanding disclosure, the perception that the lender's lawyer is looking out for the interests of all of the parties.
 
-\pagebreak
 
 ##### **Inquiry #1:**
 
@@ -295,7 +293,6 @@ The making of an appropriate arrangement between B and C under which B would gai
 
 *See* Opinion #3 above with respect to whether Lawyer could represent only B or only C.
 
-\pagebreak
 
 ##### **Inquiry #6:**
 
@@ -331,7 +328,6 @@ Opinion #7 is limited to applying Rule 1.15-3(b)(5), Rule 1.15-3(e), and Rule 1.
 
 Instead of being structured as A to B and B to C transactions, B enters into a contract to purchase with A and assigns his rights under that contract to C. B initially engages Lawyer for representation to close the sale from A to C and expects that Lawyer will also represent C. B does not want A or C to know certain information about the transaction. The assignment documentation does not disclose all information about the transaction such as the purchase price in the A to B purchase contract or the amount of the assignment fee to be paid to B. B wants the settlement statements prepared in a manner that does not disclose all information to A or C. Can Lawyer represent B and C and close this transaction?
 
-\pagebreak
 
 ##### _Opinion #8:_
 
@@ -345,7 +341,6 @@ Could Lawyer represent A, B, and C in these transactions?
 
 The same issues and considerations discussed above would apply if Lawyer wished to engage in the multiple representation of A, B, and C. *See* Opinions #1 through #8.
 
-\clearpage
 
 ## Conflicts Involving the Lawyer's Business & Personal Interests
 
@@ -638,7 +633,6 @@ Accordingly, Jason Allan Sarver is suspended from the practice of law in Ohio fo
 **Postscript to *Sarver*:** Sarver's disciplinary woes did not end here. Two years after his suspension, he was permanently disbarred and ordered to pay \$50,000 in restitution for "filing a false affidavit of compliance with \[the Ohio Supreme Court\], continuing to practice law while under suspension, and committing other professional misconduct during the course of his suspension and the ensuing disciplinary investigation." [_Disciplinary Counsel v. Sarver,_ 170 N.E.3d 799 (Ohio2020)](https://scholar.google.com/scholar_case?case=11286210687675325700).
 :::
 
-\clearpage
 
 ## Conflicts Involving Former Clients
 
@@ -773,7 +767,6 @@ We do not find that a substantial relationship exists sufficient to disqualify S
 
 We find that the district court did not abuse its discretion in concluding that any prior relationship between Stoller and Zylstra in regard to the manure easement agreements failed the substantial relationship test. However, we find that Stoller did have a concurrent conflict of interest. Therefore, we conclude that the district court abused its discretion in not disqualifying Stoller from representing NuStar in the action. On remand, the district court should enter an order disqualifying Stoller from further representation of NuStar in this lawsuit.
 
-\clearpage
 
 ## Imputed Conflicts
 

@@ -202,7 +202,6 @@ In the event that confidential information was disclosed, I find that disqualifi
 
 I am not persuaded by Annuity's argument that disqualification of Dilworth is necessary to protect against the "mere appearance of an impropriety" and to maintain the integrity of the legal profession. While the ethical rules are designed, in part, to encourage attorney-client candor, attorneys that have already been retained in a matter and who are well versed in the perimeters of the attorney-client relationship, should be encouraged to take care with their client's confidences in the course of preliminary inquiries with potential co-counsel in another firm. Such inquiries should not form the basis for disqualification of an entire firm in situations, such as this, where it was clear to both parties that an attorney-client relationship was never established. Allowing Friedman to be retained by Clark Capital in this matter requires effective screening of only a single attorney out of approximately 100 attorneys at Dilworth. In light of this, the fact that Annuity is not a former client of Dilworth, and the minimal likelihood that Dilworth's involvement in this case would taint the pending litigation, I will deny Annuity's motion to disqualify Friedman and Dilworth. I will require that Dilworth continue to screen Biemer from any involvement in this case.
 
-\clearpage
 
 ## Declining and Terminating Representation
 
@@ -325,7 +324,6 @@ As previously noted, the interest of the district court in preventing counsel fr
 
 We therefore reverse and order the district court to grant appellant's motion to withdraw as counsel. We note that Lacara agreed in this court to waive all outstanding fees and to turn over all pertinent files to Whiting.
 
-\clearpage
 
 ## Scope of Representation & Allocation of Authority
 
@@ -426,7 +424,6 @@ At the _en banc_ argument, counsel for the District characterized the record as 
 
 Since Ms. Makins, as principal, did not make any manifestation of authority to the District's attorneys, other than retaining Harrison, under the facts as certified in the question, a finding of apparent authority is precluded under the law of this jurisdiction. The District also presents several policy arguments supporting enforcement of settlement agreements on apparent authority grounds, none of which we find compelling. To be sure, settlement of disputes, both in trial courts and on appeal, is to be encouraged as sound public policy. However, we are not persuaded that the settlement process will be impeded simply by requiring some manifestation of the client's authorization to support a claim of apparent authority in these cases where the client challenges the authority of his attorney to settle the claim. In addition, "apparent authority is an equitable doctrine that places the loss on one whose manifestations to another have misled the latter." Our holding is consistent with this principle. Since Makins manifested nothing by words or conduct on which reliance could be placed (she merely continued to retain Harrison), our answer to the certified question is not erosive to that policy.
 
-\clearpage
 
 ## Client with Decision-Making Limitations
 
@@ -493,7 +490,6 @@ On August 11, a doctor examined Frank and noted, "Frank does not communicate whe
 
 Even though Jarvis knew that Evick was not an Ohio notary, he directed her to meet with Frank at his nursing home on August 13 or 14 to have him sign the irrevocable trust and four other estate-planning documents. Jarvis did not discuss those documents with Frank or assess Frank's testamentary or contractual capacity _before_ Frank signed them. Nor was he present when Frank signed them. But several days after Evick obtained Frank's signature on those five documents, Jarvis backdated and notarized all of them under jurats that falsely stated that Frank had personally appeared before him to acknowledge his signature. He also falsely signed Frank's will as a witness and attested on two of the documents that Frank appeared to be of sound mind when he signed them.
 
-\pagebreak
 
 ##### _Conduct after the Estate-Planning Documents Were Executed and after the Balcars' Deaths_
 
@@ -533,7 +529,6 @@ We adopt these findings of misconduct.
 
 Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio for 18 months with the suspension stayed in its entirety on the conditions that he commit no further misconduct and make restitution of \$7,500 to Karen Balcar McGraw, as trustee of the Lenor W. Balcar Revocable Living Trust, within 30 days of the date of our final order. If Jarvis fails to comply with any condition of the stay, the stay will be lifted and he will serve the full 18-month suspension. 
 
-\clearpage
 
 ## Organizational Clients 
 
@@ -555,7 +550,6 @@ Accordingly, Timothy Paul Jarvis is suspended from the practice of law in Ohio f
 
 :::
 
-\pagebreak
 
 ### Restatement (2d) of the Law Governing Lawyers
 
@@ -643,7 +637,6 @@ Defendant Carol Warley was a partner in KPMG LLP, one of the world's largest acc
 
 This problem could be avoided if counsel in these situations routinely made clear to employees that they represent the employer alone and that the employee has no attorney-client privilege with respect to his or her communications with employer-retained counsel. Indeed, the Second Circuit advised that they do so years before the communications here in question. But there is no evidence that the attorneys who spoke to Ms. Warley followed that course.
 
-\pagebreak
 
 ##### **Facts**
 
@@ -657,7 +650,6 @@ The second allegedly privileged communication is an email exchange in January an
 
 Both parties point to the substance of the communications to support their respective claims that privilege did or did not attach. Warley further relies upon KPMG's 2003 partnership agreement, which provided that "the General Counsel shall act on behalf of all Members, except where a dispute arises between an individual Member and the Firm." Finally, Warley alleges that counsel retained by KPMG jointly represented KPMG and her personally in two lawsuits prior to the events at issue here.
 
-\pagebreak
 
 ##### **Discussion**
 
@@ -703,7 +695,6 @@ Nor has Warley offered any evidence that she in fact subjectively relied either 
 
 In the end, Warley's showings amount merely to a claim of her subjective belief which, without more, is insufficient to meet her burden of proving privilege. For the foregoing reasons, Warley's motion for relief from the government's alleged violation of her attorney-client privilege is denied.
 
-\clearpage
 
 ## Attorney Fees 
 
@@ -915,7 +906,6 @@ To allow Mr. Culpepper to recover a contingent fee under these circumstances wou
 
 In summary, we find that Mr. Culpepper did not obtain any recovery on behalf of Mr. Cole. In the absence of a recovery, it follows that Mr. Culpepper cannot collect a contingent fee for his services. Accordingly, we must reverse the judgment of the court of appeal awarding a contingent fee to Mr. Culpepper.
 
-\clearpage
 
 ## Client Property
 

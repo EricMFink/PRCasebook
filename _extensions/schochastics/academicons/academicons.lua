@@ -94,7 +94,6 @@ return {
     local hsize = pandoc.utils.stringify(kwargs["hsize"])
     local psize = pandoc.utils.stringify(kwargs["psize"])
 
-
     -- detect html (excluding epub)
     if quarto.doc.isFormat("html:js") then
       ensureHtmlDeps()
