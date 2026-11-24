@@ -81,11 +81,16 @@
 
 %=== Chapter & Section Headings ===
 \setkomafont{chapter}{\huge\color{Maroon}}
-\setkomafont{section}{\LARGE\color{Maroon}}
-\setkomafont{subsection}{\Large\normalfont\color{Maroon}}
-\setkomafont{subsubsection}{\large\normalfont\bfseries}
-%\setkomafont{paragraph}{\centering\normalfont\normalsize}
-\addtokomafont{paragraph}{\centering\normalfont\normalsize}
+\setkomafont{section}{\Large\color{Maroon}}
+\setkomafont{subsection}{\large\normalfont\color{Maroon}}
+\setkomafont{subsubsection}{\normalfont\bfseries}
+\setkomafont{paragraph}{\needspace{5\baselineskip}\normalfont\centering}
+
+\RedeclareSectionCommands[
+  runin=false,
+  afterindent=false,
+  beforeskip=.5\baselineskip,
+  afterskip=0pt]{subsubsection,paragraph}
 
 \makeatletter
 \renewcommand{\sectionlinesformat}[4]{%
@@ -102,7 +107,7 @@
 % TOC entries
 \setkomafont{chapterentry}{\Large\bfseries}
 \DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\large\bfseries]{tocline}{section}
-\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\normalsize]{tocline}{subsection}
+\DeclareTOCStyleEntry[beforeskip=.5em,entryformat=\small]{tocline}{subsection}
 
 %\graphicspath{../img/}
 \renewcommand*{\figureformat}{}
