@@ -46,6 +46,8 @@ book:
         - 02-Main/chap8.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
+    - href: Questions.qmd
+      text: "Discussion Questions"
 
 bibliography: refs/PR.yaml
 csl: refs/indigobook-inline.csl
