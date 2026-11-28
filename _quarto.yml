@@ -46,8 +46,37 @@ book:
         - 02-Main/chap8.qmd
         - 03-Back/ack.qmd
         - 03-Back/colophon.qmd
-    - href: Questions.qmd
-      text: "Discussion Questions"
+    - part: "Discussion Questions"
+      chapters: 
+        - text: Professional Gatekeeping
+          href: https://www.emfink.net/Presentations/PR/gatekeeping.html
+          target: _blank
+        - text: Advertising & Solicitation
+          href: https://www.emfink.net/Presentations/PR/advertising.html
+          target: _blank
+        - text: Attorney-Client Relationship
+          href: https://www.emfink.net/Presentations/PR/attorney-client.html
+          target: _blank
+        - text: Duty of Care
+          href: https://www.emfink.net/Presentations/PR/competence.html
+          target: _blank
+        - text: Confidentiality & Privilges
+          href: https://www.emfink.net/Presentations/PR/confidentiality.html
+          target: _blank
+        - text: Conflicts of Interest
+          href: https://www.emfink.net/Presentations/PR/conflicts.html
+          target: _blank
+        - text: Duties in Litigation
+          href: https://www.emfink.net/Presentations/PR/litigation.html
+          target: _blank
+        - text: Duties to Those Who Are Not Clients 
+          href: https://www.emfink.net/Presentations/PR/nonclients.html
+          target: _blank
+    - part: Visuals
+      chapters: 
+        - text: Attorney Ads
+          href: https://www.emfink.net/Presentations/PR/attorney-ads.html
+          target: _blank
 
 bibliography: refs/PR.yaml
 csl: refs/indigobook-inline.csl
